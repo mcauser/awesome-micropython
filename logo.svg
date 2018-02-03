@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="awesome-micropython" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 83 74.663" enable-background="new 0 0 83 74.663" xml:space="preserve">
+<path id="m" d="M43,5.663v54h-3v-54H7v69h15v-54h3v54h33v-54h3v54h15v-69H43z M71,68.663h-4v-7h4V68.663z"/>
+<path id="glasses" fill="#EF61A3" d="M61.326,5.663l-2.602-2.385l2.994-3.263l6.157,5.648H61.326z M21.675,5.663l2.615-2.399L21.296,0l-6.169,5.663H21.675z M76,13.116v6l0.459,0.421H76H43h-3H7H6.555L7,19.128v-6.005l-6.986,6.413H0v12.869c0,5.817,5.604,10.556,12.485,10.556h13.124c6.881,0,12.485-4.739,12.485-10.556v-8.456h6.81v8.456c0,5.817,5.604,10.556,12.485,10.556h13.124C77.396,42.961,83,38.223,83,32.405V19.537L76,13.116z"/>
+</svg>
