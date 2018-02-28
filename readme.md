@@ -1,10 +1,8 @@
-# Awesome MicroPython
+<h1 align="center">
+  <img width="400" src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/logo.svg?sanitize=true" alt="Awesome MicroPython"><br>
+</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<h1 align="center">
-  <img width="400" src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/logo.svg" alt="Awesome MicroPython"><br>
-</h1>
 
 A curated list of awesome MicroPython libraries, frameworks, software and resources.
 
