@@ -20,6 +20,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Radio](#radio)
 		- [RFID](#rfid)
 	- [Display](#display)
+		- [LCD Character](#lcd-character)
 		- [LED Matrix](#led-matrix)
 		- [LED Segment](#led-segment)
 	- [Sensors](#sensors)
@@ -66,6 +67,12 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
 
 ### Display
+
+#### LCD Character
+
+* [Grove_RGB_LCD](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) - Driver for SeeedStudio's Grove RGB LCD.
+* [micropython-i2c-lcd](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
+* [python_lcd](https://github.com/dhylands/python_lcd) - Driver for HD44780 compatible dot matrix LCDs.
 
 #### LED Matrix
 
