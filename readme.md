@@ -10,12 +10,20 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Contents
 
-- [Awesome MicroPython](#awesome-micropython)
+- [Libraries](#libraries)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
+
+## Libraries
+
+- [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules
+- [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensor
+- [micropython-max7219](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules
+- [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - Driver for MPU6050 Accelerometer/Gyroscope on ESP8266
+- [micropython-radio](https://github.com/peterhinch/micropython-radio) - Driver for nRF24L01 2.4Ghz radio module 
 
 ## Community
 
