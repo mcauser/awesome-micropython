@@ -11,6 +11,14 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Contents
 
 - [Libraries](#libraries)
+	- [Communications](#communications)
+		- [Radio](#radio)
+	- [Display](#display)
+		- [LED Matrix](#led-matrix)
+		- [LED Segment](#led-segment)
+	- [Sensors](#sensors)
+		- [Distance Ultrasonic](#distance-ultrasonic)
+		- [Motion Inertial](#motion-inertial)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
@@ -19,11 +27,32 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Libraries
 
-- [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules
-- [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensor
+### Communications
+
+#### Radio
+
+- [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules
+- [official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Ghz radio modules
+
+### Display
+
+#### LED Matrix
+
 - [micropython-max7219](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules
+
+#### LED Segment
+
+- [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules
+
+### Sensors
+
+#### Distance Ultrasonic
+
+- [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors
+
+#### Motion Inertial
+
 - [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - Driver for MPU6050 Accelerometer/Gyroscope on ESP8266
-- [micropython-radio](https://github.com/peterhinch/micropython-radio) - Driver for nRF24L01 2.4Ghz radio module 
 
 ## Community
 
