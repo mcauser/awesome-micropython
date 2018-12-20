@@ -17,6 +17,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [GPS](#gps)
 		- [IR](#ir)
 		- [Radio](#radio)
+		- [RFID](#rfid)
 	- [Display](#display)
 		- [LED Matrix](#led-matrix)
 		- [LED Segment](#led-segment)
@@ -54,6 +55,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules.
 * [official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Ghz radio modules.
+
+#### RFID
+
+* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
 
 ### Display
 
