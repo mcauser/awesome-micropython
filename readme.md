@@ -22,6 +22,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 	- [Display](#display)
 		- [LCD Character](#lcd-character)
 		- [LCD Graphic](#lcd-graphic)
+		- [LCD TFT](#lcd-tft)
 		- [LED Matrix](#led-matrix)
 		- [LED Segment](#led-segment)
 	- [Sensors](#sensors)
@@ -82,6 +83,14 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-st7920](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
 * [MicroPython_PCD8544](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
 * [Official LCD160CR](https://github.com/micropython/micropython/tree/master/drivers/display) - Driver for official MicroPython LCD160CR display with resistive touch sensor.
+
+#### LCD TFT
+
+* [micropython-ili9341](https://bitbucket.org/thesheep/micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
+* [MicroPython-ST7735](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
+* [micropython-st7735](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
+* [MicroPython_ST7735](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
+* [ST7735](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 
 #### LED Matrix
 
