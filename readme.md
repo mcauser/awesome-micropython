@@ -11,6 +11,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Contents
 
 - [Libraries](#libraries)
+	- [Audio](#audio)
 	- [Communications](#communications)
 		- [Radio](#radio)
 	- [Display](#display)
@@ -26,6 +27,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Contributing](#contributing)
 
 ## Libraries
+
+### Audio
+
+* [KT403A-MP3](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0
 
 ### Communications
 
