@@ -15,6 +15,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 	- [Communications](#communications)
 		- [Ethernet](#ethernet)
 		- [GPS](#gps)
+		- [IR](#ir)
 		- [Radio](#radio)
 	- [Display](#display)
 		- [LED Matrix](#led-matrix)
@@ -44,6 +45,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### GPS
 
 * [micropyGPS](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
+
+#### IR
+
+* [micropython-necir](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
 
 #### Radio
 
