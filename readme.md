@@ -25,6 +25,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [LCD TFT](#lcd-tft)
 		- [LED Matrix](#led-matrix)
 		- [LED Segment](#led-segment)
+		- [LEDs](#leds)
 	- [Sensors](#sensors)
 		- [Distance Ultrasonic](#distance-ultrasonic)
 		- [Motion Inertial](#motion-inertial)
@@ -99,6 +100,13 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### LED Segment
 
 * [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+
+#### LEDs
+
+* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - Driver for P9813 RGB LED used in SeeedStudio's Grove Chainable RGB LED.
+* [Official APA102](http://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) - ESP8266 APA102/DotStar RGB LED driver.
+* [Official WS2811](http://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver) - ESP8266 WS2811/NeoPixel RGB LED driver.
+* [tlc5940-micropython](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
 
 ### Sensors
 
