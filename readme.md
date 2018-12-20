@@ -30,6 +30,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
+		- [Current](#current)
 		- [Distance Ultrasonic](#distance-ultrasonic)
 		- [Motion Inertial](#motion-inertial)
 - [Community](#community)
@@ -128,6 +129,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Compass
 
 * [micropython-esp8266-hmc5883l](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
+
+#### Current
+
+* [micropythonINA219](https://github.com/kabel42/micropythonINA219) - Driver for INA219 current sensor.
+* [pyb_ina219](https://github.com/chrisb2/pyb_ina219) - Driver for INA219 current sensor.
 
 #### Distance Ultrasonic
 
