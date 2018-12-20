@@ -28,6 +28,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [LEDs](#leds)
 		- [OLED](#oled)
 	- [Sensors](#sensors)
+		- [Accelerometer Digital](#accelerometer-digital)
 		- [Distance Ultrasonic](#distance-ultrasonic)
 		- [Motion Inertial](#motion-inertial)
 - [Community](#community)
@@ -118,6 +119,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [Official SSD1306](https://github.com/micropython/micropython/tree/master/drivers/display) - Driver for SSD1306 128x64 OLED displays.
 
 ### Sensors
+
+#### Accelerometer Digital
+
+* [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) - Driver for ADXL345 16g 3-axis accelerometer.
 
 #### Distance Ultrasonic
 
