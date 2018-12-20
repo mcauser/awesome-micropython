@@ -13,6 +13,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Libraries](#libraries)
 	- [Audio](#audio)
 	- [Communications](#communications)
+		- [Ethernet](#ethernet)
 		- [Radio](#radio)
 	- [Display](#display)
 		- [LED Matrix](#led-matrix)
@@ -34,6 +35,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [JQ6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules
 
 ### Communications
+
+#### Ethernet
+
+* [official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - Official driver for the WIZnet5x00 series of Ethernet controllers.
 
 #### Radio
 
