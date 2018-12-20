@@ -14,6 +14,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 	- [Audio](#audio)
 	- [Communications](#communications)
 		- [Ethernet](#ethernet)
+		- [GPS](#gps)
 		- [Radio](#radio)
 	- [Display](#display)
 		- [LED Matrix](#led-matrix)
@@ -39,6 +40,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Ethernet
 
 * [official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - Official driver for the WIZnet5x00 series of Ethernet controllers.
+
+#### GPS
+
+* [micropyGPS](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 
 #### Radio
 
