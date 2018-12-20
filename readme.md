@@ -16,6 +16,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Ethernet](#ethernet)
 		- [GPS](#gps)
 		- [IR](#ir)
+		- [OneWire](#onewire)
 		- [Radio](#radio)
 		- [RFID](#rfid)
 	- [Display](#display)
@@ -41,7 +42,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### Ethernet
 
-* [official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - Official driver for the WIZnet5x00 series of Ethernet controllers.
+* [Official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - Official driver for the WIZnet5x00 series of Ethernet controllers.
 
 #### GPS
 
@@ -51,10 +52,14 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython-necir](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
 
+#### OneWire
+
+* [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
+
 #### Radio
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules.
-* [official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Ghz radio modules.
+* [Official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Ghz radio modules.
 
 #### RFID
 
