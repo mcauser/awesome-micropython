@@ -29,6 +29,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [OLED](#oled)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
+		- [Compass](#compass)
 		- [Distance Ultrasonic](#distance-ultrasonic)
 		- [Motion Inertial](#motion-inertial)
 - [Community](#community)
@@ -123,6 +124,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Accelerometer Digital
 
 * [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) - Driver for ADXL345 16g 3-axis accelerometer.
+
+#### Compass
+
+* [micropython-esp8266-hmc5883l](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
 
 #### Distance Ultrasonic
 
