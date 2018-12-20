@@ -21,6 +21,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [RFID](#rfid)
 	- [Display](#display)
 		- [LCD Character](#lcd-character)
+		- [LCD Graphic](#lcd-graphic)
 		- [LED Matrix](#led-matrix)
 		- [LED Segment](#led-segment)
 	- [Sensors](#sensors)
@@ -73,6 +74,14 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [Grove_RGB_LCD](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) - Driver for SeeedStudio's Grove RGB LCD.
 * [micropython-i2c-lcd](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
 * [python_lcd](https://github.com/dhylands/python_lcd) - Driver for HD44780 compatible dot matrix LCDs.
+
+#### LCD Graphic
+
+* [micropython-oled](https://bitbucket.org/thesheep/micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
+* [micropython-pcd8544](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
+* [micropython-st7920](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
+* [MicroPython_PCD8544](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
+* [Official LCD160CR](https://github.com/micropython/micropython/tree/master/drivers/display) - Driver for official MicroPython LCD160CR display with resistive touch sensor.
 
 #### LED Matrix
 
