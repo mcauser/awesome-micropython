@@ -120,6 +120,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### E-Paper
 
 * [micropython-epaper](https://github.com/peterhinch/micropython-epaper) - Pyboard driver for Embedded Artists 2.7 inch e-paper display.
+* [micropython-waveshare-epaper](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare e-paper modules.
 
 #### LCD Character
 
