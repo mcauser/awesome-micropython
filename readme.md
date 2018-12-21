@@ -53,6 +53,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Current](#current)
 		- [Distance IR](#distance-ir)
 		- [Distance Ultrasonic](#distance-ultrasonic)
+		- [Gaseous](#gaseous)
 		- [Light](#light)
 		- [Motion Inertial](#motion-inertial)
 		- [Temperature Analog](#temperature-analog)
@@ -269,6 +270,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Distance Ultrasonic
 
 * [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
+
+#### Gaseous
+
+* [micropython-MQ](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
 
 #### Light
 
