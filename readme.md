@@ -36,6 +36,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Motion Inertial](#motion-inertial)
 		- [Temperature Analog](#temperature-analog)
 		- [Temperature Digital](#temperature-digital)
+		- [Temperature IR](#temperature-ir)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
@@ -172,6 +173,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-Si70xx](https://github.com/billyrayvalentine/micropython-Si70xx) - Silicon Labs Si70xx series of relative humidity and temperature sensors, I2C interface.
 * [micropython-tmp102](https://github.com/khoulihan/micropython-tmp102) - Driver for TMP102 digital temperature sensor.
 * [Official DHT11+DHT12](https://github.com/micropython/micropython/blob/master/drivers/dht/dht.py) - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
+
+#### Temperature IR
+
+* [micropython-mlx90614](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
 
 ## Community
 
