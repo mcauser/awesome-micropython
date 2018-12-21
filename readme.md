@@ -33,6 +33,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [DAC](#dac)
 		- [IO-Expander](#io-expander)
 		- [Joystick](#joystick)
+	- [Motion](#motion)
+		- [DC Motor](#dc-motor)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
@@ -158,6 +160,12 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Joystick
 
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
+
+### Motion
+
+#### DC Motor
+
+* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual h-bridge motor controller.
 
 ### Sensors
 
