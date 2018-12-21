@@ -31,6 +31,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 	- [IO](#io)
 		- [ADC](#adc)
 		- [DAC](#dac)
+		- [IO-Expander](#io-expander)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
@@ -147,6 +148,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### DAC
 
 * [micropython-mcp4725](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+
+#### IO-Expander
+
+* [MCP23017-ESP8266-Miniature-Driver](https://github.com/forkachild/MCP23017-ESP8266-Miniature-Driver) - Driver for MCP23017 16-bit I/O Expander.
 
 ### Sensors
 
