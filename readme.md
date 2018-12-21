@@ -275,6 +275,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Gaseous
 
 * [micropython-MQ](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
+* [MQ135](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
 
 #### Light
 
