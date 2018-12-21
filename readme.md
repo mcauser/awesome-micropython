@@ -48,6 +48,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Air Quality](#air-quality)
 		- [Barometer](#barometer)
+		- [Camera](#camera)
 		- [Compass](#compass)
 		- [Current](#current)
 		- [Distance IR](#distance-ir)
@@ -239,6 +240,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Barometer
 
 * [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
+
+#### Camera
+
+* [micropython-ov2640](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 #### Compass
 
