@@ -37,6 +37,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Temperature Analog](#temperature-analog)
 		- [Temperature Digital](#temperature-digital)
 		- [Temperature IR](#temperature-ir)
+		- [Touch Capacitive](#touch-capacitive)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
@@ -177,6 +178,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Temperature IR
 
 * [micropython-mlx90614](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
+
+#### Touch Capacitive
+
+* [micropython-mpr121](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
+* [micropython-ttp223](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
 
 ## Community
 
