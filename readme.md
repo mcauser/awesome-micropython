@@ -35,6 +35,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Joystick](#joystick)
 	- [Motion](#motion)
 		- [DC Motor](#dc-motor)
+		- [Servo](#servo)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
@@ -166,6 +167,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### DC Motor
 
 * [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual h-bridge motor controller.
+
+#### Servo
+
+* [micropython-pca9685](https://bitbucket.org/thesheep/micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
 
 ### Sensors
 
