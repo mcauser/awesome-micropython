@@ -36,6 +36,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 	- [Motion](#motion)
 		- [DC Motor](#dc-motor)
 		- [Servo](#servo)
+		- [Stepper](#stepper)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
@@ -171,6 +172,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Servo
 
 * [micropython-pca9685](https://bitbucket.org/thesheep/micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
+
+#### Stepper
+
+* [micropython-upybbot](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
+* [uln2003](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors
 
 ### Sensors
 
