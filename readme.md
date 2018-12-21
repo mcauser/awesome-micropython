@@ -104,6 +104,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### RFID
 
 * [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+* [micropython-wiegand](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 #### RTC
 
