@@ -119,6 +119,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### LED Matrix
 
 * [micropython-max7219](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
+* [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - Driver for MAX7219 8-digit 7-segment LED modules.
 
 #### LED Segment
 
