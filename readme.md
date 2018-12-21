@@ -26,6 +26,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [RTC](#rtc)
 		- [WiFi](#wifi)
 	- [Display](#display)
+		- [E-Paper](#e-paper)
 		- [LCD Character](#lcd-character)
 		- [LCD Graphic](#lcd-graphic)
 		- [LCD TFT](#lcd-tft)
@@ -113,6 +114,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
 
 ### Display
+
+#### E-Paper
+
+* [micropython-epaper](https://github.com/peterhinch/micropython-epaper) - Pyboard driver for Embedded Artists 2.7 inch e-paper display.
 
 #### LCD Character
 
