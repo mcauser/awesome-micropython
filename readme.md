@@ -16,6 +16,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Libraries](#libraries)
 	- [Audio](#audio)
 	- [Communications](#communications)
+		- [Bluetooth](#bluetooth)
 		- [Ethernet](#ethernet)
 		- [GPS](#gps)
 		- [IR](#ir)
@@ -71,6 +72,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play nokia compose and mid files on buzzers.
 
 ### Communications
+
+#### Bluetooth
+
+* [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
 
 #### Ethernet
 
