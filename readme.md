@@ -34,6 +34,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Distance IR](#distance-ir)
 		- [Distance Ultrasonic](#distance-ultrasonic)
 		- [Motion Inertial](#motion-inertial)
+		- [Temperature Analog](#temperature-analog)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
@@ -150,6 +151,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython-bno055](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - Driver for MPU6050 Accelerometer/Gyroscope on ESP8266.
+
+#### Temperature Analog
+
+* [micropython-max31855](https://bitbucket.org/thesheep/micropython-max31855) - Thermocouple amplifier, SPI interface.
+* [max31856](https://github.com/alinbaltaru/max31856) - Precision thermocouple to digital converter with linearization, SPI interface.
 
 ## Community
 
