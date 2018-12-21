@@ -150,6 +150,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### LED Matrix
 
+* [micropython-matrix8x8](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for AdaFruit 8x8 LED Matrix display with HT16K33 backpack.
 * [micropython-max7219](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
 
 #### LED Segment
