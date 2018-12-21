@@ -246,6 +246,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### Barometer
 
+* [micropython-bme280](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 * [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
 
 #### Camera
