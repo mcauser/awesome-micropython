@@ -32,6 +32,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [ADC](#adc)
 		- [DAC](#dac)
 		- [IO-Expander](#io-expander)
+		- [Joystick](#joystick)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
@@ -152,6 +153,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### IO-Expander
 
 * [MCP23017-ESP8266-Miniature-Driver](https://github.com/forkachild/MCP23017-ESP8266-Miniature-Driver) - Driver for MCP23017 16-bit I/O Expander.
+
+#### Joystick
+
+* [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 
 ### Sensors
 
