@@ -252,6 +252,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-bme280](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 * [micropython-bmp180](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
 * [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
+* [wipy_bme280](https://bitbucket.org/oscarBravo/wipy_bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 
 #### Camera
 
