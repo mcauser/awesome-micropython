@@ -39,6 +39,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Stepper](#stepper)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
+		- [Barometer](#barometer)
 		- [Compass](#compass)
 		- [Current](#current)
 		- [Distance IR](#distance-ir)
@@ -186,6 +187,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Accelerometer Digital
 
 * [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) - Driver for ADXL345 16g 3-axis accelerometer.
+
+#### Barometer
+
+* [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
 
 #### Compass
 
