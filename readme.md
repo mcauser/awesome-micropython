@@ -19,6 +19,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [OneWire](#onewire)
 		- [Radio](#radio)
 		- [RFID](#rfid)
+		- [RTC](#rtc)
 	- [Display](#display)
 		- [LCD Character](#lcd-character)
 		- [LCD Graphic](#lcd-graphic)
@@ -78,6 +79,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### RFID
 
 * [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+
+#### RTC
+
+* [micropython-tinyrtc-i2c](https://github.com/mcauser/micropython-tinyrtc-i2c) - Driver for DS1307 RTC and AT24C32N EEPROM.
 
 ### Display
 
