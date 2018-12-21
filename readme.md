@@ -28,6 +28,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [LED Segment](#led-segment)
 		- [LEDs](#leds)
 		- [OLED](#oled)
+	- [IO](#io)
+		- [ADC](#adc)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
 		- [Compass](#compass)
@@ -133,6 +135,13 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-ssd1351](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
 * [MicroPython_SSD1306](https://github.com/AnthonyKNorman/MicroPython_SSD1306) - ESP8266 driver for SSD1306 OLED 128x64 displays.
 * [Official SSD1306](https://github.com/micropython/micropython/tree/master/drivers/display) - Driver for SSD1306 128x64 OLED displays.
+
+### IO
+
+#### ADC
+
+* [micropython-ads1015](https://bitbucket.org/thesheep/micropython-ads1015) - ADS1015 12-Bit and ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
+* [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 
 ### Sensors
 
