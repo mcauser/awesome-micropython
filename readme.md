@@ -76,6 +76,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [KT403A-MP3](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play nokia compose and mid files on buzzers.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
+* [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 
 ### Communications
 
