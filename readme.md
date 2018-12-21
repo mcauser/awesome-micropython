@@ -43,6 +43,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Current](#current)
 		- [Distance IR](#distance-ir)
 		- [Distance Ultrasonic](#distance-ultrasonic)
+		- [Light](#light)
 		- [Motion Inertial](#motion-inertial)
 		- [Temperature Analog](#temperature-analog)
 		- [Temperature Digital](#temperature-digital)
@@ -203,6 +204,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Distance Ultrasonic
 
 * [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
+
+#### Light
+
+* [micropython-tsl2561](https://github.com/kfricke/micropython-tsl2561) - Driver for the TSL2561 illumination sensor from TAOS / ams.
 
 #### Motion Inertial
 
