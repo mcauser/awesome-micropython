@@ -39,6 +39,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Stepper](#stepper)
 	- [Sensors](#sensors)
 		- [Accelerometer Digital](#accelerometer-digital)
+		- [Air Quality](#air-quality)
 		- [Barometer](#barometer)
 		- [Compass](#compass)
 		- [Current](#current)
@@ -187,6 +188,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Accelerometer Digital
 
 * [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) - Driver for ADXL345 16g 3-axis accelerometer.
+
+#### Air Quality
+
+* [upython-aq-monitor](https://github.com/ayoy/upython-aq-monitor) - Air Quality monitor using PMS5003 sensor and WiPy.
 
 #### Barometer
 
