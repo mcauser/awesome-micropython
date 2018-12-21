@@ -56,6 +56,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Gaseous](#gaseous)
 		- [Light](#light)
 		- [Motion Inertial](#motion-inertial)
+		- [Soil Moisture](#soil-moisture)
 		- [Temperature Analog](#temperature-analog)
 		- [Temperature Digital](#temperature-digital)
 		- [Temperature IR](#temperature-ir)
@@ -287,6 +288,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython-bno055](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - Driver for MPU6050 Accelerometer/Gyroscope on ESP8266.
+
+#### Soil Moisture
+
+* [micropython-chirp](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
 
 #### Temperature Analog
 
