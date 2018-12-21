@@ -38,6 +38,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Temperature Digital](#temperature-digital)
 		- [Temperature IR](#temperature-ir)
 		- [Touch Capacitive](#touch-capacitive)
+		- [Touch Resistive](#touch-resistive)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
@@ -183,6 +184,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython-mpr121](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
 * [micropython-ttp223](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
+
+#### Touch Resistive
+
+* [XPT2046-touch-pad-driver-for-PyBoard](https://github.com/robert-hh/XPT2046-touch-pad-driver-for-PyBoard) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
 ## Community
 
