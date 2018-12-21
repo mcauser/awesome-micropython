@@ -80,6 +80,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### IR
 
 * [micropython-necir](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
+* [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard infrared remote sniff and replay.
 
 #### OneWire
 
