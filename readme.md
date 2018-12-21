@@ -239,6 +239,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### Air Quality
 
+* [CCS811](https://github.com/Ledbelly2142/CCS811) - CCS811 Air Quality Sensor.
 * [upython-aq-monitor](https://github.com/ayoy/upython-aq-monitor) - Air Quality monitor using PMS5003 sensor and WiPy.
 
 #### Barometer
