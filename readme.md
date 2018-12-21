@@ -39,6 +39,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [DAC](#dac)
 		- [IO-Expander](#io-expander)
 		- [Joystick](#joystick)
+		- [Waveform Generator](#waveform-generator)
 	- [Motion](#motion)
 		- [DC Motor](#dc-motor)
 		- [Servo](#servo)
@@ -203,6 +204,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Joystick
 
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
+
+#### Waveform Generator
+
+* [Micropython-AD9833](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
 
 ### Motion
 
