@@ -172,6 +172,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### LEDs
 
+* [micropython-morsecode](https://github.com/mampersat/micropython-morsecode) - Blink an LED with morse coded message.
 * [micropython-p9813](https://github.com/mcauser/micropython-p9813) - Driver for P9813 RGB LED used in SeeedStudio's Grove Chainable RGB LED.
 * [micropython-ws2812-7seg](https://github.com/HubertD/micropython-ws2812-7seg) - 7-segment display using WS2812 RGB LEDs.
 * [micropython-ws2812](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
