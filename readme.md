@@ -377,7 +377,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) first.
+Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](contributing.md) first.
 
 ## License & Trademarks
 
