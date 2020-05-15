@@ -66,6 +66,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
+	- [Developer Workflow](#developer-workflow)
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
 
@@ -369,6 +370,14 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [MicroPython Newsletter](http://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 * [MicroPython Store](https://store.micropython.org/) - Where you can buy the pyboard, housings, skins, books, connectors and peripherals.
 * [MicroPython on Wikipedia](https://en.wikipedia.org/wiki/MicroPython)
+
+### Developer Workflow
+
+* [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
+* [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing Micropython code in modern IDEs such as VSCode.
+* [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a Micropython REPL terminal. 
+* [Micropython IDE](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - Micropython IDE for VSCode README
+* [Remote Shell for MicroPython](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal
 
 ## Miscellaneous
 
