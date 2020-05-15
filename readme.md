@@ -15,6 +15,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 - [Libraries](#libraries)
 	- [Audio](#audio)
+	- [Analytics](#analytics)
 	- [Communications](#communications)
 		- [Bluetooth](#bluetooth)
 		- [Ethernet](#ethernet)
@@ -79,6 +80,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play nokia compose and mid files on buzzers.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
+
+### Analytics
+
+* [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers 
 
 ### Communications
 
@@ -360,6 +365,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Books
 
 * [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do) - by Nicholas H. Tollervey.
+* [MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227) - by Charles Bell
 
 ## Resources
 
@@ -373,11 +379,13 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ### Developer Workflow
 
-* [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
+* [JetBrains Micropython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Support for MicroPython devices in IntelliJ IDEA and PyCharm.
 * [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing Micropython code in modern IDEs such as VSCode.
-* [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a Micropython REPL terminal. 
 * [Micropython IDE](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - Micropython IDE for VSCode README
+* [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a Micropython REPL terminal. 
+* [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
 * [Remote Shell for MicroPython](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal
+* [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners
 
 ## Miscellaneous
 
