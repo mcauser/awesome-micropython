@@ -71,6 +71,11 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Libraries
 
+Other places you can look for MicroPython Libraires:
+
+* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython&o=&q=&page=2) - See just the MicroPython libraries on PyPi
+* [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io query for MicroPython
+
 ### Audio
 
 * [JQ6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
