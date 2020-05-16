@@ -49,6 +49,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [Official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - Official driver for the WIZnet5x00 series of Ethernet controllers.
 
+#### FTP
+
+* [micropython-ftplib](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
+
 #### GPS
 
 * [micropyGPS](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
