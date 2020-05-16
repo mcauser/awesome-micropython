@@ -283,6 +283,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Energy
 
 * [ATM90E26_Micropython](https://github.com/whatnick/ATM90E26_Micropython) - Driver for ATM90E26 energy metering device.
+* [MCP39F521](https://github.com/warpme/MCP39F521) - ESP8266 scripts for reading MCP39F521 power monitors.
 
 #### Gaseous
 
