@@ -65,6 +65,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython_ir](https://github.com/peterhinch/micropython_ir) - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Driver for Grid-EYE thermal infra red array sensor (Adafruit 3538).
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
+* [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by websocket.
 
 #### LoRaWAN
 
