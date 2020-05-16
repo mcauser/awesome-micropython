@@ -19,6 +19,9 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [MicroMLP](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
 
+### Analytics
+
+* [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
 ### Audio
 
 * [JQ6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
@@ -28,9 +31,6 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
 
-### Analytics
-
-* [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers
 
 ### Communications
 
