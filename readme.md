@@ -52,6 +52,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### FTP
 
 * [micropython-ftplib](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
+* [FTP-Server-for-ESP8266-ESP32-and-PYBD](https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD) - Small FTP server for ESP8266/ESP32/PYBD on the MicroPython platform.
 
 #### GPS
 
