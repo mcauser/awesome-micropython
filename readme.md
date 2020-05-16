@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/logo.svg"></a>
+  <a href="http://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/docs/img/logo.svg"></a>
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg">
   </a>
