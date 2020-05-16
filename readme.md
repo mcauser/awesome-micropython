@@ -88,6 +88,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
 * [sonoff-mqtt](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 
+#### NTP
+
+* [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - micropython + esp8266 + ntp + webserver.
+
 #### OneWire
 
 * [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
