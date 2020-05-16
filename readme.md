@@ -346,7 +346,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### Touch Resistive
 
-* [XPT2046-touch-pad-driver-for-PyBoard](https://github.com/robert-hh/XPT2046-touch-pad-driver-for-PyBoard) - Driver for XPT2046 touch pad controller used in many TFT modules.
+* [XPT2046-touch-pad-driver](https://github.com/robert-hh/XPT2046-touch-pad-driver) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
 ### Storage
 
