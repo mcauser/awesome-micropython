@@ -217,6 +217,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 
+#### Rotary Encoder
+
+* [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
+
 #### Waveform Generator
 
 * [Micropython-AD9833](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
