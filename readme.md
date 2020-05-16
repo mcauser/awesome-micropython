@@ -264,6 +264,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Compass
 
 * [micropython-esp8266-hmc5883l](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
+* [QMC5883](https://github.com/robert-hh/QMC5883) - Python class for the QMC5883 Three-Axis Digital Compass IC.
 
 #### Current
 
