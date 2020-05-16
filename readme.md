@@ -62,6 +62,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules.
 * [micropython-rfsocket](https://github.com/wuub/micropython-rfsocket) - Micropython implementation of popular 433MHzn based RFSockets.
 * [Official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Ghz radio modules.
+* [micropython_remote](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 
 #### RFID
 
