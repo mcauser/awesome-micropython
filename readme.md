@@ -91,6 +91,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [sonoff-mqtt](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 * [pysmartnode](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smarthome framework.
 * [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to Thingspeak using MQTT with Micropython running on ESP8266/ESP32 platforms.
+* [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 
 #### NTP
 
