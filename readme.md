@@ -9,8 +9,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [MicroPython](http://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
-
 ## Contents
 
 * [Libraries](#libraries)
