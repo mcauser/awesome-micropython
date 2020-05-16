@@ -126,6 +126,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
 * [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
 
+#### Web
+
+* [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
+
 ### Display
 
 #### E-Paper
