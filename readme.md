@@ -205,6 +205,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [ADS7818](https://github.com/robert-hh/ADS7818) - Python class interfacing the ADS7818 AD-converter.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
+* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - Micropython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 #### DAC
 
