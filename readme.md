@@ -1,15 +1,17 @@
-# Awesome MicroPython [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<a href="http://www.micropython.org/"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/logo.svg?sanitize=true" alt="Awesome MicroPython" width="150" align="left"></a>
-<br>
-
-> [MicroPython](http://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
-
-<br>
+<p align="center">
+  <a href="http://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/logo.svg"></a>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg">
+  </a>
+</p>
+<hr>
 
 A curated list of awesome MicroPython libraries, frameworks, software and resources.
 
+[MicroPython](http://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
+
 Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
+
 
 ## Contents
 
@@ -83,7 +85,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ### Analytics
 
-* [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers 
+* [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers
 
 ### Communications
 

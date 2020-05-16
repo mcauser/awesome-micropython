@@ -8,14 +8,14 @@ edit_uri: ''
 theme:
   name: 'material'
   language: 'en'
-  logo: 'img/logo.svg'
+  logo: 'img/logo_nav.svg'
   favicon: 'img/favicon.ico'
   palette:
     primary: 'teal'
     accent: 'teal'
 google_analytics: ['UA-1390021-18', 'awesome-micropython.com']
 nav:
-  - 'Awesome MicroPython': 'index.md'
+  - 'Welcome': 'index.md'
 plugins:
   - search
   - minify
