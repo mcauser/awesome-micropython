@@ -67,6 +67,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### IoT
 
 * [microhomie](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
+* [uPyEcho](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
 
 #### IR
 
