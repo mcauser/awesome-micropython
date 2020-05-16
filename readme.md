@@ -101,6 +101,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-tinyrtc-i2c](https://github.com/mcauser/micropython-tinyrtc-i2c) - Driver for DS1307 RTC and AT24C32N EEPROM.
 * [Micropython_TinyRTC](https://github.com/AnthonyKNorman/Micropython_TinyRTC) - Driver for DS1307 RTC.
 
+#### SMTP
+
+* [uMail](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
+
 #### WiFi
 
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
