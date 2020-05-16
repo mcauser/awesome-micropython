@@ -91,6 +91,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### NTP
 
 * [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - micropython + esp8266 + ntp + webserver.
+* [micropython-ntpd](https://github.com/dave2/micropython-ntpd) - An implementation of an ntpd in MicroPython.
 
 #### OneWire
 
