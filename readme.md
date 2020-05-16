@@ -31,6 +31,13 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Libraries
 
+Other places you can look for MicroPython Libraires:
+
+* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython&o=&q=&page=2) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot pip install micropython libraries. See [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip) for more information on upip.
+* [Github Search](https://github.com/search?q=micropython) - Searching Github is never a bad idea
+* [Github Topic - MicroPython](https://github.com/topics/micropython) - Github Topics - Projects tagged with MicroPython
+* [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io query for MicroPython
+
 ### AI
 
 * [MicroMLP](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
