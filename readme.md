@@ -1,8 +1,7 @@
+# Awesome MicroPython [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 <p align="center">
   <a href="http://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/docs/img/logo.svg"></a>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg">
-  </a>
 </p>
 <hr>
 
@@ -12,6 +11,23 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
+## Contents
+
+* [Libraries](#libraries)
+  * [AI](#ai)
+  * [Analytics](#analytics)
+  * [Audio](#audio)
+  * [Communications](#communications)
+  * [Display](#display)
+  * [IO](#io)
+  * [Motion](#motion)
+  * [Sensors](#sensors)
+  * [Storage](#storage)
+* [Community](#community)
+* [Books](#books)
+* [Resources](#resources)
+  * [Developer Workflow](#developer-workflow)
+* [Miscellaneous](#miscellaneous)
 
 ## Libraries
 
@@ -97,7 +113,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### NTP
 
-* [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - micropython + esp8266 + ntp + webserver.
+* [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - MicroPython + esp8266 + ntp + webserver.
 * [micropython-ntpd](https://github.com/dave2/micropython-ntpd) - An implementation of an ntpd in MicroPython.
 * [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
 * [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for micropython using uasyncio.
@@ -298,7 +314,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Stepper
 
 * [micropython-upybbot](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
-* [uln2003](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors
+* [uln2003](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors.
 
 ### Sensors
 
@@ -427,7 +443,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 #### EEPROM
 
-* [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash)
+* [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).
 
 #### FRAM
 
@@ -440,8 +456,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do) - by Nicholas H. Tollervey.
-* [MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227) - by Charles Bell
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do) - By Nicholas H. Tollervey.
+* [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227) - By Charles Bell.
 
 ## Resources
 
@@ -451,17 +467,17 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [MicroPython Wiki](http://wiki.micropython.org/Home) - Community generated documentation and examples of the features of MicroPython and the pyboard.
 * [MicroPython Newsletter](http://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 * [MicroPython Store](https://store.micropython.org/) - Where you can buy the pyboard, housings, skins, books, connectors and peripherals.
-* [MicroPython on Wikipedia](https://en.wikipedia.org/wiki/MicroPython)
+* [MicroPython on Wikipedia](https://en.wikipedia.org/wiki/MicroPython) - MicroPython on Wikipedia.
 
 ### Developer Workflow
 
 * [JetBrains Micropython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Support for MicroPython devices in IntelliJ IDEA and PyCharm.
 * [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing Micropython code in modern IDEs such as VSCode.
-* [Micropython IDE](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - Micropython IDE for VSCode README
-* [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a Micropython REPL terminal. 
+* [Micropython IDE](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - Micropython IDE for VSCode README.
+* [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a Micropython REPL terminal.
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
-* [Remote Shell for MicroPython](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal
-* [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners
+* [Remote Shell for MicroPython](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
+* [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
 
 ## Miscellaneous
 
@@ -472,7 +488,9 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) first.
 
-## License & Trademarks
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
+
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
