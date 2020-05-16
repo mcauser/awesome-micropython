@@ -23,6 +23,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
 * [micropython-ulab](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for micropython.
+* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
 
 ### Audio
 
