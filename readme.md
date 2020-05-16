@@ -302,6 +302,12 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [XPT2046-touch-pad-driver-for-PyBoard](https://github.com/robert-hh/XPT2046-touch-pad-driver-for-PyBoard) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
+### Storage
+
+#### EEPROM
+
+* [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash)
+
 ## Community
 
 * [MicroPython Forum](https://forum.micropython.org/) - Online community of over 3400 users discussing all things related to MicroPython.
