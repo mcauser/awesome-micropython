@@ -22,6 +22,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ### Analytics
 
 * [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
+* [micropython-ulab](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for micropython.
+
 ### Audio
 
 * [JQ6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
