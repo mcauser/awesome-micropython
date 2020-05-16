@@ -33,6 +33,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
 
+* [upy-rtttl](https://github.com/dhylands/upy-rtttl) - Python Parser for Ring Tone Text Transfer Language (RTTTL).
 
 ### Communications
 
