@@ -153,6 +153,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [microCoAPy](https://github.com/insighio/microCoAPy) - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
 * [micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli) - A micro JSON REST Web client based on MicroWebCli for MicroPython (used on Pycom modules & ESP32).
+* [micropython-noggin](https://github.com/larsks/micropython-noggin) - A very simple web server for MicroPython.
 
 #### Zigbee
 
