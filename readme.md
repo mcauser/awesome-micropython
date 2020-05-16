@@ -116,6 +116,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### WiFi
 
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
+* [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
 
 ### Display
 
