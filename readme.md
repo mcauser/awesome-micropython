@@ -15,6 +15,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Libraries
 
+### AI
+
+* [MicroMLP](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
+
 ### Audio
 
 * [JQ6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
