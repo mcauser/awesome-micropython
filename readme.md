@@ -354,6 +354,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash)
 
+#### FRAM
+
+* [micropython-fram](https://github.com/rolandvs/micropython-fram) - Pyboard driver for Ferroelectric RAM module.
+
 ## Community
 
 * [MicroPython Forum](https://forum.micropython.org/) - Online community of over 3400 users discussing all things related to MicroPython.
