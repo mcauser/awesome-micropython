@@ -130,6 +130,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
 
+#### Zigbee
+
+* [ZbPy](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
+
 ### Display
 
 #### E-Paper
