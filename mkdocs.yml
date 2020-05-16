@@ -1,21 +1,20 @@
-site_name: 'Awesome MicroPython'
-site_url: 'http://awesome-micropython.com'
-site_description: 'A curated list of MicroPython libraries, frameworks, software and resources.'
-site_author: 'Mike Causer'
-repo_name: 'mcauser/awesome-micropython'
-repo_url: 'https://github.com/mcauser/awesome-micropython'
+site_name: Awesome MicroPython
+site_url: http://awesome-micropython.com
+site_description: A curated list of MicroPython libraries, frameworks, software and resources.
+site_author: Mike Causer
+repo_name: mcauser/awesome-micropython
+repo_url: https://github.com/mcauser/awesome-micropython
 edit_uri: ''
 theme:
-  name: 'material'
-  language: 'en'
-  logo: 'img/logo_nav.svg'
-  favicon: 'img/favicon.ico'
+  name: material
+  language: en
+  logo: img/logo_nav.svg
+  favicon: img/favicon.ico
   palette:
-    primary: 'teal'
-    accent: 'teal'
+    primary: teal
+    accent: teal
 google_analytics: ['UA-1390021-18', 'awesome-micropython.com']
-nav:
-  - 'Welcome': 'index.md'
 plugins:
   - search
   - minify
+  - awesome-pages
