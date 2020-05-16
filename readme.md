@@ -100,6 +100,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - micropython + esp8266 + ntp + webserver.
 * [micropython-ntpd](https://github.com/dave2/micropython-ntpd) - An implementation of an ntpd in MicroPython.
 * [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
+* [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for micropython using uasyncio.
 
 #### OneWire
 
