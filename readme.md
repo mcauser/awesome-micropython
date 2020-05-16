@@ -202,6 +202,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 * [micropython-ili9341](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
 * [st7789_mpy](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
+* [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - Slow micropython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
 
 #### LED Matrix
 
