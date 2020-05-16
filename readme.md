@@ -73,6 +73,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### MQTT
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
+* [sonoff-mqtt](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 
 #### OneWire
 
