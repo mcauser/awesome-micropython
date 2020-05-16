@@ -251,6 +251,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 * [upython-aq-monitor](https://github.com/ayoy/upython-aq-monitor) - Air Quality monitor using PMS5003 sensor and WiPy.
 * [micropython-pms7003](https://github.com/pkucmus/micropython-pms7003) - Micropython driver for the PMS7003 Air Quality Sensor.
 * [pms5003_micropython](https://github.com/kevinkk525/pms5003_micropython) - Driver for pms5003 air quality sensor for MicroPython.
+* [micropython-pms5003-minimal](https://github.com/miketeachman/micropython-pms5003-minimal) - Driver for pms5003 air quality sensor for MicroPython.
 
 #### Barometer
 
