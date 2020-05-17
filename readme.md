@@ -442,6 +442,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Storage
 
+#### Database
+
+* [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure uPython MySQL Client.
+
 #### EEPROM
 
 * [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).
