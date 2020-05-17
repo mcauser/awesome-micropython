@@ -458,7 +458,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## Community
 
-* [MicroPython Forum](https://forum.micropython.org/) - Online community of over 3400 users discussing all things related to MicroPython.
+* [MicroPython Forum](https://forum.micropython.org/) - Online community of over 6400 users discussing all things related to MicroPython.
 * [MicroPython on Twitter](https://twitter.com/micropython?lang=en) - Follow MicroPython on Twitter for latest news and updates.
 
 ## Books
