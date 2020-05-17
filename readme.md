@@ -78,6 +78,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 * [micropyGPS](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 * [micropython-gnssl76l](https://github.com/tuupola/micropython-gnssl76l) - MicroPython I2C driver for Quectel GNSS L76-L (GPS).
+* [mpy-agps](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
 
 #### GSM
 
