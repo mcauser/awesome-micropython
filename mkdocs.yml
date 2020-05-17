@@ -13,6 +13,8 @@ theme:
   palette:
     primary: teal
     accent: teal
+extra_css:
+  - css/extra.css
 google_analytics:
   - UA-1390021-18
   - awesome-micropython.com
