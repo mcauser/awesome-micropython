@@ -445,6 +445,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### Database
 
 * [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure uPython MySQL Client.
+* [micropython-redis](https://github.com/dwighthubbard/micropython-redis) - A redis client implementation designed for use with MicroPython.
 
 #### EEPROM
 
