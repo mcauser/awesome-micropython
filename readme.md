@@ -30,6 +30,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Development](#development)
   * [Code Generation](#code-generation)
   * [IDEs](#ides)
+  * [Shells](#Shells)
 * [Miscellaneous](#miscellaneous)
 
 ## Libraries
@@ -499,8 +500,17 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for VSCode README.
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
-* [Remote Shell for MicroPython](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
+
+### Shells
+
+#### On Device
+
+* [upy-shell](https://github.com/dhylands/upy-shell) - A simple command line based shell for MicroPython.
+
+#### On Host
+
+* [rshell](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
 
 ## Miscellaneous
 
