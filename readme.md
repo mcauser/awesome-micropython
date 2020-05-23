@@ -285,6 +285,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### GPIO
 
 * [micropython-inputs](https://github.com/alanmitchell/micropython-inputs) - Classes to count pulses, debounce digital inputs, and calculate moving averages of analog inputs for a MicroPython board.
+* [ubutton](https://gitlab.com/WiLED-Project/ubutton) - A MicroPython library for controlling reading and debouncing pushbutton inputs, including "short" and "long" press callbacks.
 
 #### IO-Expander
 
