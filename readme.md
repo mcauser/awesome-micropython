@@ -193,6 +193,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli) - A micro JSON REST Web client based on MicroWebCli for MicroPython (used on Pycom modules & ESP32).
 * [micropython-noggin](https://github.com/larsks/micropython-noggin) - A very simple web server for MicroPython.
 * [uwebsockets](https://github.com/danni/uwebsockets) - MicroPython websockets implementation for ESP8266.
+* [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 #### Zigbee
 
