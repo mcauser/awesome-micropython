@@ -383,6 +383,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [micropython-MQ](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
 * [MQ135](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
 * [CCS811](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
+* [micropython-scd30](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
 
 #### Light
 
