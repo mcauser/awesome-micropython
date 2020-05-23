@@ -147,6 +147,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### REPL
 
 * [webrepl](https://micropython.org/webrepl) - MicroPython WebREPL.
+* [zepl](https://gitlab.com/zepl1/zepl) - MicroPython WebREPL Console Application using ZeroMQ.
 
 #### RFID
 
