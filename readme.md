@@ -298,6 +298,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 
+#### PWM
+
+* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - A MicroPython library for controlling PWM outputs in an asyncio loop, with features including fading and blinking.
+
 #### Rotary Encoder
 
 * [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
