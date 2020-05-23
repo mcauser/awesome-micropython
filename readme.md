@@ -23,6 +23,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [IO](#io)
   * [Motion](#motion)
   * [Sensors](#sensors)
+  * [Scheduling](#scheduling)
   * [Storage](#storage)
 * [Community](#community)
 * [Books](#books)
@@ -455,6 +456,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### Touch Resistive
 
 * [XPT2046-touch-pad-driver](https://github.com/robert-hh/XPT2046-touch-pad-driver) - Driver for XPT2046 touch pad controller used in many TFT modules.
+
+### Scheduling
+
+* [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 
 ### Storage
 
