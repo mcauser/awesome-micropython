@@ -507,6 +507,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) - A simple command line based shell for MicroPython.
+* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for PyBoard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 #### On Host
 
