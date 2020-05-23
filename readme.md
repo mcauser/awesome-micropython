@@ -28,6 +28,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Books](#books)
 * [Resources](#resources)
 * [Development](#development)
+  * [Code Generation](#code-generation)
 * [Miscellaneous](#miscellaneous)
 
 ## Libraries
@@ -488,9 +489,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ## Development
 
 * [JetBrains Micropython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Support for MicroPython devices in IntelliJ IDEA and PyCharm.
-* [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing Micropython code in modern IDEs such as VSCode.
 * [Micropython IDE](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - Micropython IDE for VSCode README.
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a Micropython REPL terminal.
+### Code Generation
+
+* [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
+
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
 * [Remote Shell for MicroPython](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
