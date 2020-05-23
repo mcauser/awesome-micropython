@@ -276,6 +276,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [tlc5940-micropython](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
 * [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) - An efficient micropython WS2812 (NeoPixel) driver.
 * [micropython-ws2801](https://github.com/HeMan/micropython-ws2801) - A MicroPython library to interface with strands of WS2801 RGB LEDs.
+* [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - Driver for the TLC5947 24 channel 12-bit PWM LED driver.
 
 #### OLED
 
