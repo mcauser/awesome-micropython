@@ -401,6 +401,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
+* [micropython-fusion](https://gitlab.com/nnayo/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 
 #### Soil Moisture
 
