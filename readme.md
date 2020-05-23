@@ -39,7 +39,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Analytics
 
 * [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
-* [micropython-ulab](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for micropython.
+* [micropython-ulab](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for MicroPython.
 * [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
 * [ulinalg](https://github.com/jalawson/ulinalg) - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python3).
 
@@ -108,7 +108,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
 * [sonoff-mqtt](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 * [pysmartnode](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smarthome framework.
-* [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to Thingspeak using MQTT with Micropython running on ESP8266/ESP32 platforms.
+* [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to Thingspeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 * [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 * [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) - Implements a MQTT controllable switch for the iTead Sonoff Switch using MicroPython.
 * [uMQTT](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
@@ -118,7 +118,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - MicroPython + esp8266 + ntp + webserver.
 * [micropython-ntpd](https://github.com/dave2/micropython-ntpd) - An implementation of an ntpd in MicroPython.
 * [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
-* [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for micropython using uasyncio.
+* [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 
 #### OneWire
 
@@ -127,7 +127,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### Radio
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules.
-* [micropython-rfsocket](https://github.com/wuub/micropython-rfsocket) - Micropython implementation of popular 433MHzn based RFSockets.
+* [micropython-rfsocket](https://github.com/wuub/micropython-rfsocket) - MicroPython implementation of popular 433MHzn based RFSockets.
 * [Official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Ghz radio modules.
 * [micropython_remote](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 * [micropython-ys-rf34t](https://github.com/mcauser/micropython-ys-rf34t) - MicroPython examples using YS-RF34T 433MHz ASK/OOK UART transceivers.
@@ -220,7 +220,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 * [micropython-ili9341](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
 * [st7789_mpy](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
-* [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - Slow micropython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
+* [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
 * [micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - MicroPython Driver for ILI9341 display.
 * [micropython-ili9341](https://github.com/tkurbad/micropython-ili9341) - ILI9341 TFT driver for MicroPython on ESP32.
 
@@ -273,7 +273,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [ADS7818](https://github.com/robert-hh/ADS7818) - Python class interfacing the ADS7818 AD-converter.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
-* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - Micropython driver for HX711 24-Bit Analog-to-Digital Converter.
+* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 #### DAC
 
@@ -331,7 +331,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 * [CCS811](https://github.com/Ledbelly2142/CCS811) - CCS811 Air Quality Sensor.
 * [upython-aq-monitor](https://github.com/ayoy/upython-aq-monitor) - Air Quality monitor using PMS5003 sensor and WiPy.
-* [micropython-pms7003](https://github.com/pkucmus/micropython-pms7003) - Micropython driver for the PMS7003 Air Quality Sensor.
+* [micropython-pms7003](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
 * [pms5003_micropython](https://github.com/kevinkk525/pms5003_micropython) - Driver for pms5003 air quality sensor for MicroPython.
 * [micropython-pms5003-minimal](https://github.com/miketeachman/micropython-pms5003-minimal) - Driver for pms5003 air quality sensor for MicroPython.
 * [polly](https://github.com/g-sam/polly) - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.
