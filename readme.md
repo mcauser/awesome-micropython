@@ -305,6 +305,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### Rotary Encoder
 
 * [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
+* [uencoder](https://gitlab.com/WiLED-Project/uencoder) - A MicroPython library for reading from a rotary encoder.
 
 #### Waveform Generator
 
