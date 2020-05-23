@@ -512,6 +512,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 #### On Host
 
 * [rshell](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
+* [ampy](https://github.com/scientifichackers/ampy) - Adafruit MicroPython Tool - Utility to interact with a MicroPython board over a serial connection.
 
 ## Miscellaneous
 
