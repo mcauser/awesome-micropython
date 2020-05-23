@@ -144,6 +144,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [micropython_remote](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 * [micropython-ys-rf34t](https://github.com/mcauser/micropython-ys-rf34t) - MicroPython examples using YS-RF34T 433MHz ASK/OOK UART transceivers.
 
+#### REPL
+
+* [webrepl](https://micropython.org/webrepl) - MicroPython WebREPL.
+
 #### RFID
 
 * [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
