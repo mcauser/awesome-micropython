@@ -27,7 +27,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Community](#community)
 * [Books](#books)
 * [Resources](#resources)
-  * [Developer Workflow](#developer-workflow)
+* [Development](#development)
 * [Miscellaneous](#miscellaneous)
 
 ## Libraries
@@ -485,7 +485,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [MicroPython Store](https://store.micropython.org/) - Where you can buy the pyboard, housings, skins, books, connectors and peripherals.
 * [MicroPython on Wikipedia](https://en.wikipedia.org/wiki/MicroPython) - MicroPython on Wikipedia.
 
-### Developer Workflow
+## Development
 
 * [JetBrains Micropython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Support for MicroPython devices in IntelliJ IDEA and PyCharm.
 * [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing Micropython code in modern IDEs such as VSCode.
