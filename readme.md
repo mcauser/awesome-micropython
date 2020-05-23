@@ -539,6 +539,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
+* [intellij-micropython](https://github.com/vlasovskikh/intellij-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 
 ### Shells
 
