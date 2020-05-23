@@ -124,6 +124,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 * [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) - Implements a MQTT controllable switch for the iTead Sonoff Switch using MicroPython.
 * [uMQTT](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
+* [micropython-mqtt](https://github.com/tve/micropython-mqtt) - MQTT libraries and tools for MicroPython.
 
 #### NTP
 
