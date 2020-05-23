@@ -528,7 +528,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Code Generation
 
-* [Micropy Cli](https://micropy-cli.readthedocs.io/en/latest/) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
+* [micropy-cli](https://github.com/BradenM/micropy-cli) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
 
 ### IDEs
 
