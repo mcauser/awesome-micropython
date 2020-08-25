@@ -522,7 +522,6 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython on Facebook](https://www.facebook.com/micropython) - Like MicroPython on Facebook for competitions, news and updates.
 * [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) - Regular meetup at CCHS in Melbourne, Australia.
 * [Slack](https://slack-micropython.herokuapp.com/) - Get an automated invite to the micropython.slack.com workspace.
-* [Discord](https://discord.gg/5GjKNE) - Get an invite to the MicroPython Discord server.
 
 ## Books
 
