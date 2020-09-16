@@ -79,6 +79,10 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-spacecan](https://gitlab.com/alphaaomega/micropython-spacecan) - Spacecan is a MicroPython implementation of the SpaceCAN protocol for embedded systems.
 
+#### Cryptography
+
+* [mpyaes](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
+
 #### DNS
 
 * [ICantBelieveItsNotDNS](https://github.com/yschaeff/ICantBelieveItsNotDNS) - "I Can't Believe It's Not DNS!" (ICBIND) is an authoritative DNS server for the ESP8266 written in MicroPython.
