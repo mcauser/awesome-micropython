@@ -82,6 +82,7 @@ Other places you can look for MicroPython Libraries:
 #### Cryptography
 
 * [mpyaes](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
+* [micropython-aes](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 #### DNS
 
