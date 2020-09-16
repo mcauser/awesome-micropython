@@ -218,6 +218,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ili9341](https://bitbucket.org/thesheep/micropython-ili9341) - SSD1606 active matrix epaper display 128x180.
 * [micropython-waveshare-epaper](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare e-paper modules.
 * [micropython-waveshare-epd](https://github.com/ayoy/micropython-waveshare-epd) - Waveshare E-Paper Display driver for devices running Pycom-flavored MicroPython.
+* [ssd1675a](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675 based E-Paper displays.
 
 #### LCD Character
 
