@@ -546,6 +546,7 @@ Other places you can look for MicroPython Libraries:
 ## Frameworks
 
 * [micrOS](https://github.com/BxNxM/micrOS) - MicroPython based IoT Framework.
+* [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ## Resources
 
