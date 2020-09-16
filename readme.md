@@ -129,6 +129,7 @@ Other places you can look for MicroPython Libraries:
 #### LoRaWAN
 
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) - ESP32 using MicroPython meets LoRa and LoRaWAN.
+* [DeLoReAN](https://github.com/buehl/DeLoReAN) - DeLoReAN is a (De)dicated (Lo)RaWAN node (Re)cording (A)ny (N)FC tags.
 
 #### MQTT
 
