@@ -229,6 +229,9 @@ Other places you can look for MicroPython Libraries:
 #### GUI
 
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
+* [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch driven event based GUI for the Pyboard and LCD160CR colour display.
+* [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - Nano-Gui provides a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. Which includes LCD and OLED displays.
 
 #### LCD Character
 
@@ -244,7 +247,6 @@ Other places you can look for MicroPython Libraries:
 #### LCD Graphic
 
 * [micropython-lcd-AQM1248A](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
-* [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch driven event based GUI for the Pyboard and LCD160CR colour display.
 * [micropython-pcd8544](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
 * [micropython-st7565](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
 * [micropython-st7920](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
@@ -261,7 +263,6 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_ST7735](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
 * [SSD1963-TFT-Library-for-PyBoard](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard) - Driver for SSD1963 864x480 TFT LCDs.
 * [ST7735](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
-* [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 * [micropython-ili9341](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
 * [st7789_mpy](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
 * [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
@@ -304,7 +305,6 @@ Other places you can look for MicroPython Libraries:
 #### OLED
 
 * [Grove_OLED](https://github.com/dda/MicroPython/blob/master/Grove_OLED.py) - Driver for SSD1327 used by SeeedStudio's Grove OLED Display 1.12" v1.0.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - Nano-Gui provides a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. Which includes LCD and OLED displays.
 * [micropython-oled](https://bitbucket.org/thesheep/micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
 * [micropython-ssd1327](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
 * [micropython-ssd1351](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
