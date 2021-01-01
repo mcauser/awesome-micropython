@@ -154,6 +154,10 @@ Other places you can look for MicroPython Libraries:
 
 * [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
 
+#### Onkyo EISCP
+
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Micropython port for the Onkyo-EISCP protocol used amongs others by Pioneer.
+
 #### Radio
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules.
