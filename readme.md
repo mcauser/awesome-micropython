@@ -156,7 +156,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Onkyo EISCP
 
-* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Micropython port for the Onkyo-EISCP protocol used amongs others by Pioneer.
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Micropython port for the Onkyo-EISCP protocol used, among others, by Pioneer.
 
 #### Radio
 
