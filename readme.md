@@ -477,6 +477,7 @@ Other places you can look for MicroPython Libraries:
 #### Soil Moisture
 
 * [micropython-chirp](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
+* [MicroPython-MiFlora](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka. flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
 #### Temperature Analog
 
