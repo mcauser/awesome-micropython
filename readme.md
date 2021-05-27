@@ -299,6 +299,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - Driver for shift register controlled 5 pin display modules.
+
 #### LEDs
 
 * [micropython-morsecode](https://github.com/mampersat/micropython-morsecode) - Blink an LED with morse coded message.
@@ -352,6 +353,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-pcf8574](https://github.com/mcauser/micropython-pcf8574) - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.
 * [micropython-pcf8575](https://github.com/mcauser/micropython-pcf8575) - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.
 * [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 8-Bit I2C I/O Expander.
+* [micropython-74hc595](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
 
 #### Joystick
 
