@@ -338,6 +338,7 @@ Other places you can look for MicroPython Libraries:
 #### DAC
 
 * [micropython-mcp4725](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+* [mcp4728](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
 
 #### GPIO
 
