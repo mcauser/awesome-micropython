@@ -139,7 +139,6 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
 * [MQBoard](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
-* [micropython-mqtt](https://github.com/tve/micropython-mqtt) - MQTT libraries and tools for MicroPython.
 * [pysmartnode](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smarthome framework.
 * [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 * [sonoff-mqtt by davea](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
