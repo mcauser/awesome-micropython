@@ -1,0 +1,11 @@
+/* hide the h1 being inserted above the logo */
+main.md-main .md-content article h1:first-of-type {
+  display: none;
+}
+
+/* remove contents - not needed in main if also in sidebar */
+h2#contents,
+h2#contents + ul,
+.md-nav--secondary > .md-nav__list > .md-nav__item:first-of-type {
+  display: none;
+}

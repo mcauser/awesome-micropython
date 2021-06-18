@@ -1,0 +1,2399 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A curated list of MicroPython libraries, frameworks, software and resources.">
+      
+      
+      
+        <meta name="author" content="Mike Causer">
+      
+      
+        <link rel="canonical" href="https://awesome-micropython.com/">
+      
+      <link rel="icon" href="img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.2.1, mkdocs-material-7.1.8">
+    
+    
+      
+        <title>Awesome MicroPython</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.ca7ac06f.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.f1a3b89f.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#009485">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="css/extra.css">
+    
+    
+      
+  
+
+
+
+  
+  
+
+
+
+  <script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-1390021-18","auto"),ga("set","anonymizeIp",!0),ga("send","pageview"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){var e;this.value&&(e=document.location.pathname,ga("send","pageview",e+"?q="+this.value))}),"undefined"!=typeof location$&&location$.subscribe(function(e){ga("send","pageview",e.pathname)})})</script>
+  <script async src="https://www.google-analytics.com/analytics.js"></script>
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="teal" data-md-color-accent="teal">
+  
+    
+    <script>function __prefix(e){return new URL(".",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#contents" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Awesome MicroPython" class="md-header__button md-logo" aria-label="Awesome MicroPython" data-md-component="logo">
+      
+  <img src="img/logo_nav.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Awesome MicroPython
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Awesome MicroPython
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/mcauser/awesome-micropython" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    mcauser/awesome-micropython
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Awesome MicroPython" class="md-nav__button md-logo" aria-label="Awesome MicroPython" data-md-component="logo">
+      
+  <img src="img/logo_nav.svg" alt="logo">
+
+    </a>
+    Awesome MicroPython
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/mcauser/awesome-micropython" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    mcauser/awesome-micropython
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Awesome MicroPython
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Awesome MicroPython
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#contents" class="md-nav__link">
+    Contents
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#libraries" class="md-nav__link">
+    Libraries
+  </a>
+  
+    <nav class="md-nav" aria-label="Libraries">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    AI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analytics" class="md-nav__link">
+    Analytics
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#audio" class="md-nav__link">
+    Audio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#communications" class="md-nav__link">
+    Communications
+  </a>
+  
+    <nav class="md-nav" aria-label="Communications">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bluetooth" class="md-nav__link">
+    Bluetooth
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#can" class="md-nav__link">
+    CAN
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cryptography" class="md-nav__link">
+    Cryptography
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dns" class="md-nav__link">
+    DNS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ethernet" class="md-nav__link">
+    Ethernet
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ftp" class="md-nav__link">
+    FTP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gps" class="md-nav__link">
+    GPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gsm" class="md-nav__link">
+    GSM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#iot" class="md-nav__link">
+    IoT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ir" class="md-nav__link">
+    IR
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lorawan" class="md-nav__link">
+    LoRaWAN
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mdns" class="md-nav__link">
+    MDNS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mqtt" class="md-nav__link">
+    MQTT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ntp" class="md-nav__link">
+    NTP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#onewire" class="md-nav__link">
+    OneWire
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#onkyo-eiscp" class="md-nav__link">
+    Onkyo EISCP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#radio" class="md-nav__link">
+    Radio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#repl" class="md-nav__link">
+    REPL
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rfid" class="md-nav__link">
+    RFID
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rtc" class="md-nav__link">
+    RTC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#serial" class="md-nav__link">
+    Serial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#smtp" class="md-nav__link">
+    SMTP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#telnet" class="md-nav__link">
+    Telnet
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wifi" class="md-nav__link">
+    WiFi
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#web" class="md-nav__link">
+    Web
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zigbee" class="md-nav__link">
+    Zigbee
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#display" class="md-nav__link">
+    Display
+  </a>
+  
+    <nav class="md-nav" aria-label="Display">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#e-paper" class="md-nav__link">
+    E-Paper
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gui" class="md-nav__link">
+    GUI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lcd-character" class="md-nav__link">
+    LCD Character
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lcd-graphic" class="md-nav__link">
+    LCD Graphic
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lcd-tft" class="md-nav__link">
+    LCD TFT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#led-matrix" class="md-nav__link">
+    LED Matrix
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#led-segment" class="md-nav__link">
+    LED Segment
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#leds" class="md-nav__link">
+    LEDs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#oled" class="md-nav__link">
+    OLED
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#io" class="md-nav__link">
+    IO
+  </a>
+  
+    <nav class="md-nav" aria-label="IO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#adc" class="md-nav__link">
+    ADC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dac" class="md-nav__link">
+    DAC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gpio" class="md-nav__link">
+    GPIO
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#io-expander" class="md-nav__link">
+    IO-Expander
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#joystick" class="md-nav__link">
+    Joystick
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#potentiometers" class="md-nav__link">
+    Potentiometers
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pwm" class="md-nav__link">
+    PWM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rotary-encoder" class="md-nav__link">
+    Rotary Encoder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#waveform-generator" class="md-nav__link">
+    Waveform Generator
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#motion" class="md-nav__link">
+    Motion
+  </a>
+  
+    <nav class="md-nav" aria-label="Motion">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dc-motor" class="md-nav__link">
+    DC Motor
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#servo" class="md-nav__link">
+    Servo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stepper" class="md-nav__link">
+    Stepper
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sensors" class="md-nav__link">
+    Sensors
+  </a>
+  
+    <nav class="md-nav" aria-label="Sensors">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#accelerometer-digital" class="md-nav__link">
+    Accelerometer Digital
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#air-quality" class="md-nav__link">
+    Air Quality
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#barometer" class="md-nav__link">
+    Barometer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#camera" class="md-nav__link">
+    Camera
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#compass" class="md-nav__link">
+    Compass
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#current" class="md-nav__link">
+    Current
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-ir" class="md-nav__link">
+    Distance IR
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-laser" class="md-nav__link">
+    Distance Laser
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-ultrasonic" class="md-nav__link">
+    Distance Ultrasonic
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#energy" class="md-nav__link">
+    Energy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gaseous" class="md-nav__link">
+    Gaseous
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#light" class="md-nav__link">
+    Light
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#motion-inertial" class="md-nav__link">
+    Motion Inertial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pressure" class="md-nav__link">
+    Pressure
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#soil-moisture" class="md-nav__link">
+    Soil Moisture
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temperature-analog" class="md-nav__link">
+    Temperature Analog
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temperature-digital" class="md-nav__link">
+    Temperature Digital
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temperature-ir" class="md-nav__link">
+    Temperature IR
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#touch-capacitive" class="md-nav__link">
+    Touch Capacitive
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#touch-resistive" class="md-nav__link">
+    Touch Resistive
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scheduling" class="md-nav__link">
+    Scheduling
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#storage" class="md-nav__link">
+    Storage
+  </a>
+  
+    <nav class="md-nav" aria-label="Storage">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#database" class="md-nav__link">
+    Database
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#eeprom" class="md-nav__link">
+    EEPROM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fram" class="md-nav__link">
+    FRAM
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    Books
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frameworks" class="md-nav__link">
+    Frameworks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    Resources
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#development" class="md-nav__link">
+    Development
+  </a>
+  
+    <nav class="md-nav" aria-label="Development">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#code-generation" class="md-nav__link">
+    Code Generation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#debugging" class="md-nav__link">
+    Debugging
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ides" class="md-nav__link">
+    IDEs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shells" class="md-nav__link">
+    Shells
+  </a>
+  
+    <nav class="md-nav" aria-label="Shells">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#on-device" class="md-nav__link">
+    On Device
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#on-host" class="md-nav__link">
+    On Host
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#miscellaneous" class="md-nav__link">
+    Miscellaneous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contributing" class="md-nav__link">
+    Contributing
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#contents" class="md-nav__link">
+    Contents
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#libraries" class="md-nav__link">
+    Libraries
+  </a>
+  
+    <nav class="md-nav" aria-label="Libraries">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    AI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#analytics" class="md-nav__link">
+    Analytics
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#audio" class="md-nav__link">
+    Audio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#communications" class="md-nav__link">
+    Communications
+  </a>
+  
+    <nav class="md-nav" aria-label="Communications">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bluetooth" class="md-nav__link">
+    Bluetooth
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#can" class="md-nav__link">
+    CAN
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cryptography" class="md-nav__link">
+    Cryptography
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dns" class="md-nav__link">
+    DNS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ethernet" class="md-nav__link">
+    Ethernet
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ftp" class="md-nav__link">
+    FTP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gps" class="md-nav__link">
+    GPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gsm" class="md-nav__link">
+    GSM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#iot" class="md-nav__link">
+    IoT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ir" class="md-nav__link">
+    IR
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lorawan" class="md-nav__link">
+    LoRaWAN
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mdns" class="md-nav__link">
+    MDNS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mqtt" class="md-nav__link">
+    MQTT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ntp" class="md-nav__link">
+    NTP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#onewire" class="md-nav__link">
+    OneWire
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#onkyo-eiscp" class="md-nav__link">
+    Onkyo EISCP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#radio" class="md-nav__link">
+    Radio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#repl" class="md-nav__link">
+    REPL
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rfid" class="md-nav__link">
+    RFID
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rtc" class="md-nav__link">
+    RTC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#serial" class="md-nav__link">
+    Serial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#smtp" class="md-nav__link">
+    SMTP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#telnet" class="md-nav__link">
+    Telnet
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wifi" class="md-nav__link">
+    WiFi
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#web" class="md-nav__link">
+    Web
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zigbee" class="md-nav__link">
+    Zigbee
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#display" class="md-nav__link">
+    Display
+  </a>
+  
+    <nav class="md-nav" aria-label="Display">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#e-paper" class="md-nav__link">
+    E-Paper
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gui" class="md-nav__link">
+    GUI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lcd-character" class="md-nav__link">
+    LCD Character
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lcd-graphic" class="md-nav__link">
+    LCD Graphic
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lcd-tft" class="md-nav__link">
+    LCD TFT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#led-matrix" class="md-nav__link">
+    LED Matrix
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#led-segment" class="md-nav__link">
+    LED Segment
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#leds" class="md-nav__link">
+    LEDs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#oled" class="md-nav__link">
+    OLED
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#io" class="md-nav__link">
+    IO
+  </a>
+  
+    <nav class="md-nav" aria-label="IO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#adc" class="md-nav__link">
+    ADC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dac" class="md-nav__link">
+    DAC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gpio" class="md-nav__link">
+    GPIO
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#io-expander" class="md-nav__link">
+    IO-Expander
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#joystick" class="md-nav__link">
+    Joystick
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#potentiometers" class="md-nav__link">
+    Potentiometers
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pwm" class="md-nav__link">
+    PWM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rotary-encoder" class="md-nav__link">
+    Rotary Encoder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#waveform-generator" class="md-nav__link">
+    Waveform Generator
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#motion" class="md-nav__link">
+    Motion
+  </a>
+  
+    <nav class="md-nav" aria-label="Motion">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dc-motor" class="md-nav__link">
+    DC Motor
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#servo" class="md-nav__link">
+    Servo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stepper" class="md-nav__link">
+    Stepper
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sensors" class="md-nav__link">
+    Sensors
+  </a>
+  
+    <nav class="md-nav" aria-label="Sensors">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#accelerometer-digital" class="md-nav__link">
+    Accelerometer Digital
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#air-quality" class="md-nav__link">
+    Air Quality
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#barometer" class="md-nav__link">
+    Barometer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#camera" class="md-nav__link">
+    Camera
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#compass" class="md-nav__link">
+    Compass
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#current" class="md-nav__link">
+    Current
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-ir" class="md-nav__link">
+    Distance IR
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-laser" class="md-nav__link">
+    Distance Laser
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-ultrasonic" class="md-nav__link">
+    Distance Ultrasonic
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#energy" class="md-nav__link">
+    Energy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gaseous" class="md-nav__link">
+    Gaseous
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#light" class="md-nav__link">
+    Light
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#motion-inertial" class="md-nav__link">
+    Motion Inertial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pressure" class="md-nav__link">
+    Pressure
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#soil-moisture" class="md-nav__link">
+    Soil Moisture
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temperature-analog" class="md-nav__link">
+    Temperature Analog
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temperature-digital" class="md-nav__link">
+    Temperature Digital
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temperature-ir" class="md-nav__link">
+    Temperature IR
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#touch-capacitive" class="md-nav__link">
+    Touch Capacitive
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#touch-resistive" class="md-nav__link">
+    Touch Resistive
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scheduling" class="md-nav__link">
+    Scheduling
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#storage" class="md-nav__link">
+    Storage
+  </a>
+  
+    <nav class="md-nav" aria-label="Storage">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#database" class="md-nav__link">
+    Database
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#eeprom" class="md-nav__link">
+    EEPROM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fram" class="md-nav__link">
+    FRAM
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    Books
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frameworks" class="md-nav__link">
+    Frameworks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    Resources
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#development" class="md-nav__link">
+    Development
+  </a>
+  
+    <nav class="md-nav" aria-label="Development">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#code-generation" class="md-nav__link">
+    Code Generation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#debugging" class="md-nav__link">
+    Debugging
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ides" class="md-nav__link">
+    IDEs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shells" class="md-nav__link">
+    Shells
+  </a>
+  
+    <nav class="md-nav" aria-label="Shells">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#on-device" class="md-nav__link">
+    On Device
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#on-host" class="md-nav__link">
+    On Host
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#miscellaneous" class="md-nav__link">
+    Miscellaneous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contributing" class="md-nav__link">
+    Contributing
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  <h1>Awesome MicroPython</h1>
+                
+                <p align="center">
+  <a href="https://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/docs/img/logo.svg"></a>
+</p>
+<p align="center">
+  <a href="https://awesome.re">
+    <img alt="Awesome" src="https://awesome.re/badge-flat.svg">
+  </a>
+</p>
+<hr>
+
+<p>A curated list of awesome MicroPython libraries, frameworks, software and resources.</p>
+<p><a href="http://micropython.org/">MicroPython</a> is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#libraries">Libraries</a></li>
+<li><a href="#ai">AI</a></li>
+<li><a href="#analytics">Analytics</a></li>
+<li><a href="#audio">Audio</a></li>
+<li><a href="#communications">Communications</a></li>
+<li><a href="#display">Display</a></li>
+<li><a href="#io">IO</a></li>
+<li><a href="#motion">Motion</a></li>
+<li><a href="#sensors">Sensors</a></li>
+<li><a href="#scheduling">Scheduling</a></li>
+<li><a href="#storage">Storage</a></li>
+<li><a href="#community">Community</a></li>
+<li><a href="#books">Books</a></li>
+<li><a href="#frameworks">Frameworks</a></li>
+<li><a href="#resources">Resources</a></li>
+<li><a href="#development">Development</a></li>
+<li><a href="#code-generation">Code Generation</a></li>
+<li><a href="#debugging">Debugging</a></li>
+<li><a href="#ides">IDEs</a></li>
+<li><a href="#Shells">Shells</a></li>
+<li><a href="#miscellaneous">Miscellaneous</a></li>
+</ul>
+<h2 id="libraries">Libraries</h2>
+<p>Other places you can look for MicroPython Libraries:</p>
+<ul>
+<li><a href="https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython">PyPi</a> - This filter shows just the MicroPython libraries on PyPi. Note: You cannot pip install micropython libraries. See <a href="https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip">MicroPython docs</a> for more information on upip.</li>
+<li><a href="https://github.com/search?q=micropython">GitHub Search</a> - Search GitHub for repositories containing MicroPython.</li>
+<li><a href="https://github.com/topics/micropython">GitHub Topic - MicroPython</a> - Browse GitHub Topics for projects tagged with MicroPython.</li>
+<li><a href="https://libraries.io/search?q=micropython">Libraries.io</a> - Libraries.io query for MicroPython.</li>
+<li><a href="https://gitlab.com/explore?sort=latest_activity_desc&amp;utf8=%E2%9C%93&amp;name=micropython&amp;sort=latest_activity_desc">GitLab Explore</a> - Explore repositories on GitLab.</li>
+</ul>
+<h3 id="ai">AI</h3>
+<ul>
+<li><a href="https://github.com/jczic/MicroMLP">MicroMLP</a> - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).</li>
+</ul>
+<h3 id="analytics">Analytics</h3>
+<ul>
+<li><a href="https://github.com/AaronKel/uMath">uMath</a> - Computer Algebra for microcontrollers.</li>
+<li><a href="https://github.com/v923z/micropython-ulab">micropython-ulab</a> - A numpy-like fast vector module for MicroPython.</li>
+<li><a href="https://github.com/peterhinch/micropython-fourier">micropython-fourier</a> - Fast Fourier transform in MicroPython's inline ARM assembler.</li>
+<li><a href="https://github.com/jalawson/ulinalg">ulinalg</a> - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python3).</li>
+<li><a href="https://gitlab.com/nickoala/micropython-mtx">micropython-mtx</a> - Fast Matrix Multiplication and Linear Solver on MicroPython.</li>
+<li><a href="https://gitlab.com/nickoala/micropython-vec">micropython-vec</a> - Vector Operations on MicroPython.</li>
+</ul>
+<h3 id="audio">Audio</h3>
+<ul>
+<li><a href="https://github.com/rdagger/micropython-jq6500">JQ6500</a> - Driver for JQ6500 UART MP3 modules.</li>
+<li><a href="https://github.com/jczic/KT403A-MP3">KT403A-MP3</a> - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.</li>
+<li><a href="https://github.com/fruch/micropython-buzzer">micropython-buzzer</a> - Play nokia compose and mid files on buzzers.</li>
+<li><a href="https://github.com/ShrimpingIt/micropython-dfplayer">micropython-dfplayer</a> - Driver for DFPlayer Mini using UART.</li>
+<li><a href="https://github.com/MattMatic/micropython-longwave">micropython-longwave</a> - WAV player for MicroPython board.</li>
+<li><a href="https://github.com/peterhinch/micropython-vs1053">micropython-vs1053</a> - Asynchronous driver for VS1053b MP3 player.</li>
+<li><a href="https://github.com/cjbarnes18/micropython-midi">micropython-midi</a> - A midi implementation example for MicroPython.</li>
+<li><a href="https://github.com/dhylands/upy-rtttl">upy-rtttl</a> - Python Parser for Ring Tone Text Transfer Language (RTTTL).</li>
+</ul>
+<h3 id="communications">Communications</h3>
+<h4 id="bluetooth">Bluetooth</h4>
+<ul>
+<li><a href="https://github.com/KipCrossing/PyBoard-HC05-Android">PyBoard-HC05-Android</a> - Pyboard HC05 Bluetooth adaptor example application.</li>
+<li><a href="https://github.com/dmazzella/uble">uble</a> - Lightweight Bluetooth Low Energy driver written in pure python for micropython.</li>
+</ul>
+<h4 id="can">CAN</h4>
+<ul>
+<li><a href="https://gitlab.com/alphaaomega/micropython-spacecan">micropython-spacecan</a> - Spacecan is a MicroPython implementation of the SpaceCAN protocol for embedded systems.</li>
+</ul>
+<h4 id="cryptography">Cryptography</h4>
+<ul>
+<li><a href="https://github.com/iyassou/mpyaes">mpyaes</a> - MicroPython module for AES encryption.</li>
+<li><a href="https://github.com/piaca/micropython-aes">micropython-aes</a> - AES algorithm with pure python implementation.</li>
+<li><a href="https://github.com/dmazzella/ucrypto">ucrypto</a> - Micropython package for doing fast elliptic curve cryptography, specifically digital signatures. API design inspired from fastecdsa and implementation based on tomsfastmath.</li>
+<li><a href="https://github.com/dmazzella/ucryptoauthlib">ucryptoauthlib</a> - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for micropython.</li>
+</ul>
+<h4 id="dns">DNS</h4>
+<ul>
+<li><a href="https://github.com/yschaeff/ICantBelieveItsNotDNS">ICantBelieveItsNotDNS</a> - "I Can't Believe It's Not DNS!" (ICBIND) is an authoritative DNS server for the ESP8266 written in MicroPython.</li>
+<li><a href="https://github.com/jczic/MicroDNSSrv">MicroDNSSrv</a> - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules &amp; ESP32).</li>
+</ul>
+<h4 id="ethernet">Ethernet</h4>
+<ul>
+<li><a href="https://github.com/micropython/micropython/tree/master/drivers/wiznet5k">Official wiznet5k</a> - Official driver for the WIZnet5x00 series of Ethernet controllers.</li>
+</ul>
+<h4 id="ftp">FTP</h4>
+<ul>
+<li><a href="https://github.com/SpotlightKid/micropython-ftplib">micropython-ftplib</a> - An FTP client library for MicroPython.</li>
+<li><a href="https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD">FTP-Server-for-ESP8266-ESP32-and-PYBD</a> - Small FTP server for ESP8266/ESP32/PYBD on the MicroPython platform.</li>
+<li><a href="https://github.com/cpopp/MicroFTPServer">MicroFTPServer</a> - Minimal FTP Server that can run on an ESP8266 with MicroPython.</li>
+</ul>
+<h4 id="gps">GPS</h4>
+<ul>
+<li><a href="https://github.com/inmcm/micropyGPS">micropyGPS</a> - Full featured GPS NMEA sentence parser.</li>
+<li><a href="https://github.com/tuupola/micropython-gnssl76l">micropython-gnssl76l</a> - MicroPython I2C driver for Quectel GNSS L76-L (GPS).</li>
+<li><a href="https://github.com/pulkin/mpy-agps">mpy-agps</a> - MicroPython implementation of assisted location services (AGPS).</li>
+</ul>
+<h4 id="gsm">GSM</h4>
+<ul>
+<li><a href="https://github.com/jeffmer/micropython-upyphone">micropython-upyphone</a> - A gsm phone using pyboard and sim800l.</li>
+</ul>
+<h4 id="iot">IoT</h4>
+<ul>
+<li><a href="https://github.com/microhomie/microhomie">microhomie</a> - MicroPython implementation of the Homie MQTT convention for IoT.</li>
+<li><a href="https://github.com/lemariva/uPyEcho">uPyEcho</a> - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.</li>
+<li><a href="https://github.com/foosel/SonosRemote">SonosRemote</a> - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.</li>
+<li><a href="https://gitlab.com/aapjeisbaas/micropython-home-assistant">micropython-home-assistant</a> - MicroPython based scripts to extend you home assistant driven home automation projects.</li>
+</ul>
+<h4 id="ir">IR</h4>
+<ul>
+<li><a href="https://github.com/MattMatic/micropython-necir">micropython-necir</a> - NEC infrared capture for TL1838 IR receiver LEDs.</li>
+<li><a href="https://github.com/designerPing/Micropython-IR">Micropython-IR</a> - Pyboard infrared remote sniff and replay.</li>
+<li><a href="https://github.com/peterhinch/micropython_ir">micropython_ir</a> - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.</li>
+<li><a href="https://github.com/peterhinch/micropython-amg88xx">micropython-amg88xx</a> - Driver for Grid-EYE thermal infra red array sensor (Adafruit 3538).</li>
+<li><a href="https://github.com/mcauser/micropython-ys-irtm">micropython-ys-irtm</a> - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.</li>
+<li><a href="https://github.com/ruoyu0088/esp8266_ir">esp8266_ir</a> - Control IR signal by websocket.</li>
+</ul>
+<h4 id="lorawan">LoRaWAN</h4>
+<ul>
+<li><a href="https://github.com/lemariva/uPyLoRaWAN">uPyLoRaWAN</a> - ESP32 using MicroPython meets LoRa and LoRaWAN.</li>
+<li><a href="https://github.com/buehl/DeLoReAN">DeLoReAN</a> - DeLoReAN is a (De)dicated (Lo)RaWAN node (Re)cording (A)ny (N)FC tags.</li>
+</ul>
+<h4 id="mdns">MDNS</h4>
+<ul>
+<li><a href="https://github.com/cbrand/micropython-mdns">micropython-mdns</a> - A pure python implementation of MDNS with support for Service Discovery.</li>
+</ul>
+<h4 id="mqtt">MQTT</h4>
+<ul>
+<li><a href="https://github.com/peterhinch/micropython-mqtt">micropython-mqtt</a> - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.</li>
+<li><a href="https://github.com/tve/mqboard">MQBoard</a> - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.</li>
+<li><a href="https://github.com/kevinkk525/pysmartnode">pysmartnode</a> -  MicroPython Smarthome framework.</li>
+<li><a href="https://github.com/juwul/umqtt_aws_iot">umqtt_aws_iot</a> - Publish UMQTT messages with MicroPython to AWS IoT.</li>
+<li><a href="https://github.com/davea/sonoff-mqtt">sonoff-mqtt by davea</a> - MicroPython scripts to control Sonoff/ESP8266 using MQTT.</li>
+<li><a href="https://github.com/kfricke/micropython-sonoff-switch">micropython-sonoff-switch</a> - Implements a MQTT controllable switch for the iTead Sonoff Switch using MicroPython.</li>
+<li><a href="https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266">micropython-thingspeak-mqtt-esp8266</a> - Publish and Subscribe to Thingspeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.</li>
+<li><a href="https://github.com/andrewmk/uMQTT">uMQTT</a> - MQTT publish for MicroPython on the WiPy board.</li>
+</ul>
+<h4 id="ntp">NTP</h4>
+<ul>
+<li><a href="https://github.com/Roterfux/esp8266_ntp_webserver">esp8266_ntp_webserver</a> - MicroPython + esp8266 + ntp + webserver.</li>
+<li><a href="https://github.com/dave2/micropython-ntpd">micropython-ntpd</a> - An implementation of an ntpd in MicroPython.</li>
+<li><a href="https://github.com/GrantGMiller/micropython_ntpserver">micropython_ntpserver</a> - An NTP server written for MicroPython.</li>
+<li><a href="https://github.com/wieck/micropython-ntpclient">micropython-ntpclient</a> - NTP client for MicroPython using uasyncio.</li>
+</ul>
+<h4 id="onewire">OneWire</h4>
+<ul>
+<li><a href="https://github.com/micropython/micropython/tree/master/drivers/onewire">Official OneWire</a> - For devices using the OneWire bus, eg Dallas ds18x20.</li>
+</ul>
+<h4 id="onkyo-eiscp">Onkyo EISCP</h4>
+<ul>
+<li><a href="https://github.com/cbrand/eiscp-micropython">eiscp-micropython</a> - Micropython port for the Onkyo-EISCP protocol used, among others, by Pioneer.</li>
+</ul>
+<h4 id="radio">Radio</h4>
+<ul>
+<li><a href="https://github.com/peterhinch/micropython-radio">micropython-radio</a> - Protocols for nRF24L01 2.4Ghz radio modules.</li>
+<li><a href="https://github.com/wuub/micropython-rfsocket">micropython-rfsocket</a> - MicroPython implementation of popular 433MHzn based RFSockets.</li>
+<li><a href="https://github.com/micropython/micropython/tree/master/drivers/nrf24l01">Official nRF24L01</a> - Official driver for nRF24L01 2.4Ghz radio modules.</li>
+<li><a href="https://github.com/peterhinch/micropython_remote">micropython_remote</a> - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.</li>
+<li><a href="https://github.com/mcauser/micropython-ys-rf34t">micropython-ys-rf34t</a> - MicroPython examples using YS-RF34T 433MHz ASK/OOK UART transceivers.</li>
+</ul>
+<h4 id="repl">REPL</h4>
+<ul>
+<li><a href="https://micropython.org/webrepl">webrepl</a> - MicroPython WebREPL.</li>
+<li><a href="https://gitlab.com/zepl1/zepl">zepl</a> - MicroPython WebREPL Console Application using ZeroMQ.</li>
+<li><a href="https://gitlab.com/alelec/jupyter_micropython_remote">jupyter_micropython_remote</a> - Jupyter kernel to directly execute code on a MicroPython board over the serial/web REPL.</li>
+</ul>
+<h4 id="rfid">RFID</h4>
+<ul>
+<li><a href="https://github.com/wendlers/micropython-mfrc522">micropython-mfrc522</a> - Driver for NXP MFRC522 RFID reader/writer.</li>
+<li><a href="https://github.com/pjz/micropython-wiegand">micropython-wiegand</a> - Wiegand protocol reader.</li>
+</ul>
+<h4 id="rtc">RTC</h4>
+<ul>
+<li><a href="https://github.com/mcauser/micropython-tinyrtc-i2c">micropython-tinyrtc-i2c</a> - Driver for DS1307 RTC and AT24C32N EEPROM.</li>
+<li><a href="https://github.com/AnthonyKNorman/Micropython_TinyRTC">Micropython_TinyRTC</a> - Driver for DS1307 RTC.</li>
+<li><a href="https://github.com/mattytrentini/micropython-mcp7940">micropython-mcp7940</a> - Driver for the Microchip MCP7940 RTC.</li>
+</ul>
+<h4 id="serial">Serial</h4>
+<ul>
+<li><a href="https://github.com/jeffmakes/mpy-miniterm">mpy-miniterm</a> - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.</li>
+<li><a href="https://gitlab.com/extel-open-source/micropython-modbus">micropython-modbus</a> - MicroPython port of modbus-tk.</li>
+</ul>
+<h4 id="smtp">SMTP</h4>
+<ul>
+<li><a href="https://github.com/shawwwn/uMail">uMail</a> - A lightweight, scalable SMTP client for sending email in MicroPython.</li>
+</ul>
+<h4 id="telnet">Telnet</h4>
+<ul>
+<li><a href="https://github.com/cpopp/MicroTelnetServer">MicroTelnetServer</a> - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.</li>
+</ul>
+<h4 id="wifi">WiFi</h4>
+<ul>
+<li><a href="https://github.com/FRC4564/HueBridge">HueBridge</a> - Philips Hue Bridge.</li>
+<li><a href="https://github.com/mitchins/micropython-wifimanager">micropython-wifimanager</a> - A simple network configuration utility for MicroPython on the ESP8266 board.</li>
+</ul>
+<h4 id="web">Web</h4>
+<ul>
+<li><a href="https://github.com/jczic/MicroWebSrv">MicroWebSrv</a> - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules &amp; ESP32).</li>
+<li><a href="https://github.com/jczic/MicroWebSrv2">MicroWebSrv2</a> - The last Micro Web Server for IoTs (MicroPython) or large servers (CPython), that supports WebSockets, routes, template engine and with really optimized architecture (mem allocations, async I/Os).</li>
+<li><a href="https://github.com/belyalov/tinyweb">tinyweb</a> - Simple and lightweight HTTP async server for MicroPython.</li>
+<li><a href="https://github.com/BetaRavener/upy-websocket-server">upy-websocket-server</a> - MicroPython (ESP8266) websocket server implementation.</li>
+<li><a href="https://github.com/amora-labs/micropython-captive-portal">micropython-captive-portal</a> - A captive portal demo for MicroPython.</li>
+<li><a href="https://github.com/lemariva/uPyPortal">uPyPortal</a> - A captive portal for MicroPython using ESP32 (WeMos).</li>
+<li><a href="https://github.com/codemee/ESP8266WebServer">ESP8266WebServer</a> - ESP8266 web server for MicroPython.</li>
+<li><a href="https://github.com/insighio/microCoAPy">microCoAPy</a> - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.</li>
+<li><a href="https://github.com/troublegum/micropyserver">micropyserver</a> - MicroPyServer is a simple HTTP server for MicroPython projects.</li>
+<li><a href="https://github.com/jczic/MicroRESTCli">MicroRESTCli</a> - A micro JSON REST Web client based on MicroWebCli for MicroPython (used on Pycom modules &amp; ESP32).</li>
+<li><a href="https://github.com/larsks/micropython-noggin">micropython-noggin</a> - A very simple web server for MicroPython.</li>
+<li><a href="https://github.com/danni/uwebsockets">uwebsockets</a> - MicroPython websockets implementation for ESP8266.</li>
+<li><a href="https://github.com/miguelgrinberg/microdot">microdot</a> - The impossibly small web framework for MicroPython.</li>
+<li><a href="https://github.com/jordiprats/micropython-utelegram">micropython-utelegram</a> - Telegram API wrapper for MicroPython.</li>
+</ul>
+<h4 id="zigbee">Zigbee</h4>
+<ul>
+<li><a href="https://github.com/osresearch/ZbPy">ZbPy</a> - MicroPython IEEE802.15.4 / Zigbee parser.</li>
+</ul>
+<h3 id="display">Display</h3>
+<h4 id="e-paper">E-Paper</h4>
+<ul>
+<li><a href="https://github.com/peterhinch/micropython-epaper">micropython-epaper</a> - Pyboard driver for Embedded Artists 2.7 inch e-paper display.</li>
+<li><a href="https://github.com/mcauser/deshipu-micropython-ili9341">micropython-ili9341</a> - SSD1606 active matrix epaper display 128x180.</li>
+<li><a href="https://github.com/mcauser/micropython-waveshare-epaper">micropython-waveshare-epaper</a> - Drivers for various Waveshare e-paper modules.</li>
+<li><a href="https://github.com/ayoy/micropython-waveshare-epd">micropython-waveshare-epd</a> - Waveshare E-Paper Display driver for devices running Pycom-flavored MicroPython.</li>
+<li><a href="https://github.com/mattytrentini/ssd1675a">ssd1675a</a> - Driver for SSD1675 based E-Paper displays.</li>
+</ul>
+<h4 id="gui">GUI</h4>
+<ul>
+<li><a href="https://github.com/lvgl/lv_binding_micropython">lvgl</a> - An object oriented component based high-level GUI library with MicroPython binding.</li>
+<li><a href="https://github.com/peterhinch/micropython-lcd160cr-gui">micropython-lcd160cr-gui</a> - Simple touch driven event based GUI for the Pyboard and LCD160CR colour display.</li>
+<li><a href="https://github.com/peterhinch/micropython_ra8875">micropython_ra8875</a> - MicroPython device driver and nano-GUI for RA8875 based displays.</li>
+<li><a href="https://github.com/peterhinch/micropython-nano-gui">micropython-nano-gui</a> - Nano-Gui provides a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. Which includes LCD and OLED displays.</li>
+</ul>
+<h4 id="lcd-character">LCD Character</h4>
+<ul>
+<li><a href="https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py">Grove_RGB_LCD</a> - Driver for SeeedStudio's Grove RGB LCD.</li>
+<li><a href="https://github.com/slothyrulez/lcdi2c">lcdi2c</a> - Driver for HD44780 compatible dot matrix LCDs.</li>
+<li><a href="https://github.com/rdagger/micropython-charlcd">micropython-charlcd</a> - Driver for HD44780 compatible LCDs.</li>
+<li><a href="https://github.com/Bucknalla/micropython-i2c-lcd">micropython-i2c-lcd</a> - Driver for I2C 2x16 LCD Screens.</li>
+<li><a href="https://github.com/scitoast/pyboard-LCD-character-display">pyboard-LCD-character-display</a> - PyBoard driver for HDD44780 compatible 1602 LCDs.</li>
+<li><a href="https://github.com/dhylands/python_lcd">python_lcd</a> - Driver for HD44780 compatible dot matrix LCDs.</li>
+<li><a href="https://github.com/wjdp/micropython-lcd">micropython-lcd</a> - Class for controlling the HD44780 from a MicroPython pyboard.</li>
+</ul>
+<h4 id="lcd-graphic">LCD Graphic</h4>
+<ul>
+<li><a href="https://github.com/forester3/micropython-lcd-AQM1248A">micropython-lcd-AQM1248A</a> - ESP8266 driver for AQM1248A graphic LCD.</li>
+<li><a href="https://github.com/mcauser/micropython-pcd8544">micropython-pcd8544</a> - Driver for Nokia 5110 PCD8544 84x48 LCD modules.</li>
+<li><a href="https://github.com/nquest/micropython-st7565">micropython-st7565</a> - Driver for ST7565 128x64 LCDs.</li>
+<li><a href="https://github.com/ShrimpingIt/micropython-st7920">micropython-st7920</a> - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.</li>
+<li><a href="https://github.com/AnthonyKNorman/MicroPython_PCD8544">MicroPython_PCD8544</a> - ESP8266 driver for Nokia 5110 PCD8544.</li>
+<li><a href="https://github.com/micropython/micropython/tree/master/drivers/display">Official LCD160CR</a> - Driver for official MicroPython LCD160CR display with resistive touch sensor.</li>
+<li><a href="https://github.com/mcauser/micropython-hx1230">micropython-hx1230</a> - MicroPython library for HX1230 96x68 LCD modules.</li>
+</ul>
+<h4 id="lcd-tft">LCD TFT</h4>
+<ul>
+<li><a href="https://github.com/mcauser/deshipu-micropython-ili9341">micropython-ili9341</a> - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.</li>
+<li><a href="https://github.com/tuupola/micropython-ili934x">micropython-ili934x</a> - SPI driver for ILI934X series based TFT / LCD displays.</li>
+<li><a href="https://github.com/boochow/MicroPython-ST7735">MicroPython-ST7735</a> - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.</li>
+<li><a href="https://github.com/hosaka/micropython-st7735">micropython-st7735</a> - Driver for ST7735 TFT LCDs.</li>
+<li><a href="https://github.com/AnthonyKNorman/MicroPython_ST7735">MicroPython_ST7735</a> - Driver for ST7735 128x128 TFT.</li>
+<li><a href="https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040">SSD1963-TFT-Library-for-PyBoard-and-RP2040</a> - SSD1963 TFT Library for PyBoard and Raspberry Pi PICO.</li>
+<li><a href="https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py">ST7735</a> - Driver for ST7735 TFT LCDs.</li>
+<li><a href="https://github.com/rdagger/micropython-ili9341">micropython-ili9341</a> - MicroPython ILI9341 display &amp; XPT2046 touch screen driver.</li>
+<li><a href="https://github.com/devbis/st7789_mpy">st7789_mpy</a> - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.</li>
+<li><a href="https://github.com/devbis/st7789py_mpy">st7789py_mpy</a> - Slow MicroPython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.</li>
+<li><a href="https://github.com/jeffmer/micropython-ili9341">micropython-ili9341</a> - MicroPython Driver for ILI9341 display.</li>
+<li><a href="https://github.com/tkurbad/micropython-ili9341">micropython-ili9341</a> - ILI9341 TFT driver for MicroPython on ESP32.</li>
+</ul>
+<h4 id="led-matrix">LED Matrix</h4>
+<ul>
+<li><a href="https://github.com/vrialland/micropython-ht1632c">micropython-ht1632c</a> - Driver for HT1632C 32x16 bicolor led matrix.</li>
+<li><a href="https://github.com/JanBednarik/micropython-matrix8x8">micropython-matrix8x8</a> - Driver for AdaFruit 8x8 LED Matrix display with HT16K33 backpack.</li>
+<li><a href="https://github.com/mcauser/micropython-max7219">micropython-max7219</a> - Driver for MAX7219 8x8 LED matrix modules.</li>
+<li><a href="https://github.com/mactijn/micropython-wemos-led-matrix-shield">micropython-wemos-led-matrix-shield</a> - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.</li>
+<li><a href="https://github.com/mattytrentini/micropython-wemos-led-matrix">micropython-wemos-led-matrix</a> - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.</li>
+<li><a href="https://github.com/vrialland/micropython-max7219">micropython-max7219</a> - MicroPython driver for MAX7219 8x8 LED matrix.</li>
+</ul>
+<h4 id="led-segment">LED Segment</h4>
+<ul>
+<li><a href="https://github.com/arikb/LKM1638">LKM1638</a> - Driver for JY-LKM1638 displays based on TM1638 controller.</li>
+<li><a href="https://github.com/pdwerryhouse/max7219_8digit">max7219_8digit</a> - Driver for MAX7219 8-digit 7-segment LED modules.</li>
+<li><a href="https://github.com/JulienBacquart/micropython-max7219">micropython-max7219</a> - Driver for MAX7219 8-digit 7-segment LED modules.</li>
+<li><a href="https://github.com/mcauser/micropython-my9221">micropython-my9221</a> - Driver for MY9221 10-segment LED bar graph modules.</li>
+<li><a href="https://github.com/mcauser/micropython-tm1637">micropython-tm1637</a> - Driver for TM1637 quad 7-segment LED modules.</li>
+<li><a href="https://github.com/mcauser/micropython-tm1638">micropython-tm1638</a> - Driver for TM1638 dual quad 7-segment LED modules with switches.</li>
+<li><a href="https://github.com/mcauser/micropython-tm1640">micropython-tm1640</a> - Driver for TM1740 8x8 LED matrix modules.</li>
+<li><a href="https://gitlab.com/robhamerling/micropython-tm1640">micropython-tm1640</a> - MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.</li>
+<li><a href="https://github.com/Sakartu/TM74HC595">TM74HC595</a> - Driver for shift register controlled 5 pin display modules.</li>
+</ul>
+<h4 id="leds">LEDs</h4>
+<ul>
+<li><a href="https://github.com/mampersat/micropython-morsecode">micropython-morsecode</a> - Blink an LED with morse coded message.</li>
+<li><a href="https://github.com/mcauser/micropython-p9813">micropython-p9813</a> - Driver for P9813 RGB LED used in SeeedStudio's Grove Chainable RGB LED.</li>
+<li><a href="https://github.com/HubertD/micropython-ws2812-7seg">micropython-ws2812-7seg</a> - 7-segment display using WS2812 RGB LEDs.</li>
+<li><a href="https://github.com/JanBednarik/micropython-ws2812">micropython-ws2812</a> - Driver for WS2812 RGB LEDs.</li>
+<li><a href="http://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver">Official APA102</a> - ESP8266 APA102/DotStar RGB LED driver.</li>
+<li><a href="http://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver">Official WS2811</a> - ESP8266 WS2811/NeoPixel RGB LED driver.</li>
+<li><a href="https://github.com/oysols/tlc5940-micropython">tlc5940-micropython</a> - Driver for TLC5940 16 channel LED driver.</li>
+<li><a href="https://github.com/nickovs/ws2812-SPI">ws2812-SPI</a> - An efficient micropython WS2812 (NeoPixel) driver.</li>
+<li><a href="https://github.com/HeMan/micropython-ws2801">micropython-ws2801</a> - A MicroPython library to interface with strands of WS2801 RGB LEDs.</li>
+<li><a href="https://gitlab.com/peterzuger/tlc5947-rgb-micropython">tlc5947-rgb-micropython</a> - Driver for the TLC5947 24 channel 12-bit PWM LED driver.</li>
+</ul>
+<h4 id="oled">OLED</h4>
+<ul>
+<li><a href="https://github.com/dda/MicroPython/blob/master/Grove_OLED.py">Grove_OLED</a> - Driver for SSD1327 used by SeeedStudio's Grove OLED Display 1.12" v1.0.</li>
+<li><a href="https://github.com/mcauser/deshipu-micropython-oled">micropython-oled</a> - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.</li>
+<li><a href="https://github.com/mcauser/micropython-ssd1327">micropython-ssd1327</a> - Driver for SSD1327 128x128 4-bit greyscale OLED displays.</li>
+<li><a href="https://github.com/rdagger/micropython-ssd1351">micropython-ssd1351</a> - Driver for SSD1351 OLED displays.</li>
+<li><a href="https://github.com/AnthonyKNorman/MicroPython_SSD1306">MicroPython_SSD1306</a> - ESP8266 driver for SSD1306 OLED 128x64 displays.</li>
+<li><a href="https://github.com/micropython/micropython/tree/master/drivers/display">Official SSD1306</a> - Driver for SSD1306 128x64 OLED displays.</li>
+<li><a href="https://github.com/robert-hh/SH1106">SH1106</a> - Driver for the SH1106 OLED display.</li>
+</ul>
+<h3 id="io">IO</h3>
+<h4 id="adc">ADC</h4>
+<ul>
+<li><a href="https://github.com/robert-hh/ads1x15">ads1x15</a> - Driver for the ADS1015/ADS1115 ADC, I2C interface.</li>
+<li><a href="https://github.com/mcauser/deshipu-micropython-ads1015">micropython-ads1015</a> - ADS1015 12-Bit and ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.</li>
+<li><a href="https://github.com/AnthonyKNorman/Micropython_ADS1115">Micropython_ADS1115</a> - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.</li>
+<li><a href="https://github.com/robert-hh/ADS7818">ADS7818</a> - Python class interfacing the ADS7818 AD-converter.</li>
+<li><a href="https://github.com/miketeachman/micropython-ads1219">micropython-ads1219</a> - MicroPython module for the Texas Instruments ADS1219 ADC.</li>
+<li><a href="https://github.com/SergeyPiskunov/micropython-hx711">micropython-hx711</a> - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.</li>
+<li><a href="https://github.com/matthias-bs/MicroPython-ADC_Cal">MicroPython-ADC_Cal</a> - ESP32 ADC driver using reference voltage calibration value from efuse.</li>
+</ul>
+<h4 id="dac">DAC</h4>
+<ul>
+<li><a href="https://github.com/wayoda/micropython-mcp4725">micropython-mcp4725</a> - Driver for the MCP4725 I2C DAC.</li>
+<li><a href="https://github.com/openfablab/mcp4728">mcp4728</a> - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.</li>
+</ul>
+<h4 id="gpio">GPIO</h4>
+<ul>
+<li><a href="https://github.com/alanmitchell/micropython-inputs">micropython-inputs</a> - Classes to count pulses, debounce digital inputs, and calculate moving averages of analog inputs for a MicroPython board.</li>
+<li><a href="https://gitlab.com/WiLED-Project/ubutton">ubutton</a> - A MicroPython library for controlling reading and debouncing pushbutton inputs, including "short" and "long" press callbacks.</li>
+<li><a href="https://github.com/selfhostedhome/micropython-debounce-switch">micropython-debounce-switch</a> - MicroPython Class for Debouncing Switches.</li>
+</ul>
+<h4 id="io-expander">IO-Expander</h4>
+<ul>
+<li><a href="https://github.com/forkachild/MCP23017-ESP8266-Miniature-Driver">MCP23017-ESP8266-Miniature-Driver</a> - Driver for MCP23017 16-bit I/O Expander.</li>
+<li><a href="https://github.com/ShrimpingIt/micropython-mcp230xx">micropython-mcp230xx</a> - Driver for MCP23017 and MCP23008 GPIO expanders.</li>
+<li><a href="https://github.com/mcauser/micropython-mcp23017">micropython-mcp23017</a> - MicroPython driver for MCP23017 16-bit I/O Expander.</li>
+<li><a href="https://github.com/mcauser/micropython-pcf8574">micropython-pcf8574</a> - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.</li>
+<li><a href="https://github.com/mcauser/micropython-pcf8575">micropython-pcf8575</a> - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.</li>
+<li><a href="https://gitlab.com/cediddi/micropython-pcf8591">micropython-pcf8591</a> - MicroPython driver for PCF8591 8-Bit I2C I/O Expander.</li>
+<li><a href="https://github.com/mcauser/micropython-74hc595">micropython-74hc595</a> - MicroPython driver for 74HC595 8-bit shift registers.</li>
+</ul>
+<h4 id="joystick">Joystick</h4>
+<ul>
+<li><a href="https://github.com/kfricke/micropython-nunchuck">micropython-nunchuck</a> - Driver for Nunchuk game controller, I2C interface.</li>
+</ul>
+<h4 id="potentiometers">Potentiometers</h4>
+<ul>
+<li><a href="https://github.com/dsiggi/micropython-ad840x">micropython-ad840x</a> - Micropython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.</li>
+</ul>
+<h4 id="pwm">PWM</h4>
+<ul>
+<li><a href="https://gitlab.com/WiLED-Project/upwmcontroller">upwmcontroller</a> - A MicroPython library for controlling PWM outputs in an asyncio loop, with features including fading and blinking.</li>
+</ul>
+<h4 id="rotary-encoder">Rotary Encoder</h4>
+<ul>
+<li><a href="https://github.com/miketeachman/micropython-rotary">micropython-rotary</a> - MicroPython module to read a rotary encoder.</li>
+<li><a href="https://gitlab.com/WiLED-Project/uencoder">uencoder</a> - A MicroPython library for reading from a rotary encoder.</li>
+<li><a href="https://github.com/sgall17a/encodermenu">encodermenu</a> - Simple GUI menu for micropython using a rotary encoder and basic display.</li>
+</ul>
+<h4 id="waveform-generator">Waveform Generator</h4>
+<ul>
+<li><a href="https://github.com/KipCrossing/Micropython-AD9833">Micropython-AD9833</a> - Pyboard driver for AD9833, spi interface.</li>
+</ul>
+<h3 id="motion">Motion</h3>
+<h4 id="dc-motor">DC Motor</h4>
+<ul>
+<li><a href="https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py">L298N</a> - Driver for the L298N dual h-bridge motor controller.</li>
+</ul>
+<h4 id="servo">Servo</h4>
+<ul>
+<li><a href="https://github.com/mcauser/deshipu-micropython-pca9685">micropython-pca9685</a> - 16-channel 12-bit PWM/servo driver.</li>
+</ul>
+<h4 id="stepper">Stepper</h4>
+<ul>
+<li><a href="https://github.com/jeffmer/micropython-upybbot">micropython-upybbot</a> - A4988 driver for bipolar stepper motors.</li>
+<li><a href="https://github.com/IDWizard/uln2003">uln2003</a> - Driver for 5V 28BYJ-48 stepper motors.</li>
+<li><a href="https://gitlab.com/olivier.len02/micropython-multiaxis">micropython-multiaxis</a> - Multiaxis with MicroPython ESP32 and DRV8825.</li>
+<li><a href="https://github.com/jphalip/ticlib">ticlib</a> - Driver for Pololu Tic stepper motor controllers.</li>
+</ul>
+<h3 id="sensors">Sensors</h3>
+<h4 id="accelerometer-digital">Accelerometer Digital</h4>
+<ul>
+<li><a href="https://github.com/AbhinayBandaru/ADXL345-with-Pyboard">ADXL345-with-Pyboard</a> - Driver for ADXL345 16g 3-axis accelerometer.</li>
+<li><a href="https://github.com/fanday/adxl345_micropython">adxl345_micropython</a> - Driver for ADXL345 16g 3-axis accelerometer.</li>
+<li><a href="https://github.com/tuupola/micropython-lis2hh12">micropython-lis2hh12</a> - I2C driver for LIS2HH12 3-axis accelerometer.</li>
+<li><a href="https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py">MMA7660</a> - Driver for MMA7660 1.5g 3-axis accelerometer.</li>
+</ul>
+<h4 id="air-quality">Air Quality</h4>
+<ul>
+<li><a href="https://github.com/Ledbelly2142/CCS811">CCS811</a> - CCS811 Air Quality Sensor.</li>
+<li><a href="https://github.com/ayoy/upython-aq-monitor">upython-aq-monitor</a> - Air Quality monitor using PMS5003 sensor and WiPy.</li>
+<li><a href="https://github.com/pkucmus/micropython-pms7003">micropython-pms7003</a> - MicroPython driver for the PMS7003 Air Quality Sensor.</li>
+<li><a href="https://github.com/kevinkk525/pms5003_micropython">pms5003_micropython</a> - Driver for pms5003 air quality sensor for MicroPython.</li>
+<li><a href="https://github.com/miketeachman/micropython-pms5003-minimal">micropython-pms5003-minimal</a> - Driver for pms5003 air quality sensor for MicroPython.</li>
+<li><a href="https://github.com/g-sam/polly">polly</a> - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.</li>
+</ul>
+<h4 id="barometer">Barometer</h4>
+<ul>
+<li><a href="https://github.com/kevbu/micropython-bme280">micropython-bme280</a> - Driver for the Bosch BME280 temperature/pressure/humidity sensor.</li>
+<li><a href="https://github.com/micropython-IMU/micropython-bmp180">micropython-bmp180</a> - Driver for Bosch BMP180 temperature, pressure and altitude sensor.</li>
+<li><a href="https://github.com/catdog2/mpy_bme280_esp8266">mpy_bme280_esp8266</a> - Bosch BME280 temperature/pressure/humidity sensor.</li>
+<li><a href="https://github.com/robert-hh/BME280">BME280</a> - MicroPython driver for the BME280 sensor, target platform Pycom devices.</li>
+<li><a href="https://github.com/dafvid/micropython-bmp280">micropython-bmp280</a> - Module for the BMP280 sensor.</li>
+</ul>
+<h4 id="camera">Camera</h4>
+<ul>
+<li><a href="https://github.com/namato/micropython-ov2640">micropython-ov2640</a> - MicroPython class for OV2640 camera.</li>
+<li><a href="https://github.com/Thekegman/Nikon-Trigger-for-MicroPython">Nikon-Trigger-for-MicroPython</a> - Remote trigger for a Nikon camera using an IR LED. For PyBoard v1.1.</li>
+<li><a href="https://github.com/lemariva/micropython-camera-driver">micropython-camera-driver</a> - OV2640 camera driver for MicroPython on ESP32.</li>
+</ul>
+<h4 id="compass">Compass</h4>
+<ul>
+<li><a href="https://github.com/gvalkov/micropython-esp8266-hmc5883l">micropython-esp8266-hmc5883l</a> - 3-axis digital compass on the ESP8266.</li>
+<li><a href="https://github.com/robert-hh/QMC5883">QMC5883</a> - Python class for the QMC5883 Three-Axis Digital Compass IC.</li>
+</ul>
+<h4 id="current">Current</h4>
+<ul>
+<li><a href="https://github.com/kabel42/micropythonINA219">micropythonINA219</a> - Driver for INA219 current sensor.</li>
+<li><a href="https://github.com/chrisb2/pyb_ina219">pyb_ina219</a> - Driver for INA219 current sensor.</li>
+</ul>
+<h4 id="distance-ir">Distance IR</h4>
+<ul>
+<li><a href="https://github.com/mcauser/deshipu-micropython-gp2y0e03">micropython-gp2y0e03</a> - IR-LED distance measuring sensor using Sharp GP2Y0E03.</li>
+<li><a href="https://github.com/mcauser/deshipu-micropython-vl6180">micropython-vl6180</a> - Time-of-Flight sensor, ambient light sensor &amp; IR emitter.</li>
+</ul>
+<h4 id="distance-laser">Distance Laser</h4>
+<ul>
+<li><a href="https://github.com/mcauser/deshipu-micropython-vl53l0x">micropython-vl53l0x</a> - Time-of-Flight laser-ranging sensor.</li>
+<li><a href="https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402">Qwiic_TOF_Module_RFD77402</a> - Qwiic TOF Module (RFD77402) time-of-flight rangefinding module.</li>
+</ul>
+<h4 id="distance-ultrasonic">Distance Ultrasonic</h4>
+<ul>
+<li><a href="https://github.com/rsc1975/micropython-hcsr04">micropython-hcsr04</a> - Driver for HC-SR04 ultrasonic distance sensors.</li>
+</ul>
+<h4 id="energy">Energy</h4>
+<ul>
+<li><a href="https://github.com/whatnick/ATM90E26_Micropython">ATM90E26_Micropython</a> - Driver for ATM90E26 energy metering device.</li>
+<li><a href="https://github.com/warpme/MCP39F521">MCP39F521</a> - ESP8266 scripts for reading MCP39F521 power monitors.</li>
+</ul>
+<h4 id="gaseous">Gaseous</h4>
+<ul>
+<li><a href="https://github.com/kartun83/micropython-MQ">micropython-MQ</a> - Drivers for MQ series gas sensors.</li>
+<li><a href="https://github.com/rubfi/MQ135">MQ135</a> - Driver for MQ135 gas sensor.</li>
+<li><a href="https://github.com/Notthemarsian/CCS811">CCS811</a> - Basic MicroPython driver for CCS811 on ESP8266 boards.</li>
+<li><a href="https://github.com/agners/micropython-scd30">micropython-scd30</a> - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.</li>
+</ul>
+<h4 id="light">Light</h4>
+<ul>
+<li><a href="https://github.com/neliogodoi/MicroPython-SI1145">MicroPython-SI1145</a> - SI1145 UV index, IR, visible light and proximity sensor.</li>
+<li><a href="https://github.com/kfricke/micropython-tsl2561">micropython-tsl2561</a> - Driver for the TSL2561 illumination sensor from TAOS / ams.</li>
+<li><a href="https://github.com/catdog2/mpy_bh1750fvi_esp8266">mpy_bh1750fvi_esp8266</a> - ESP8266 driver for BH1750FVI sensor.</li>
+<li><a href="https://github.com/PinkInk/upylib/tree/master/bh1750">bh1750</a> - BH1750 i2c digital light sensor driver.</li>
+</ul>
+<h4 id="motion-inertial">Motion Inertial</h4>
+<ul>
+<li><a href="https://github.com/micropython-IMU/micropython-bmx055">micropython-bmx055</a> - Driver for Bosch BMX055 IMU sensor.</li>
+<li><a href="https://github.com/deshipu/micropython-bno055">micropython-bno055</a> - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.</li>
+<li><a href="https://github.com/micropython-IMU/micropython-lsm9ds0">micropython-lsm9ds0</a> - LSM9DS0 g-force linear acceleration, gauss magnetic and dps angular rate sensors.</li>
+<li><a href="https://github.com/tuupola/micropython-mpu9250">micropython-mpu9250</a> - I2C driver for MPU9250 9-axis motion tracking device.</li>
+<li><a href="https://github.com/micropython-IMU/micropython-mpu9x50">micropython-mpu9x50</a> - Driver for the InvenSense MPU9250 inertial measurement unit.</li>
+<li><a href="https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython">MPU6050-ESP8266-MicroPython</a> - ESP8266 driver for MPU6050 accelerometer/gyroscope.</li>
+<li><a href="https://github.com/larsks/py-mpu6050">py-mpu6050</a> - ESP8266 driver for MPU6050 accelerometer/gyroscope.</li>
+<li><a href="https://github.com/tuupola/micropython-mpu6886">micropython-mpu6886</a> - MicroPython I2C driver for MPU6886 6-axis motion tracking device.</li>
+<li><a href="https://gitlab.com/nnayo/micropython-fusion">micropython-fusion</a> - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.</li>
+</ul>
+<h4 id="pressure">Pressure</h4>
+<ul>
+<li><a href="https://github.com/minyiky/ms5803-micropython">ms5803-micropython</a> - A micropython implimentation of the driver for an MS5803 pressure &amp; temperature sensor.</li>
+</ul>
+<h4 id="soil-moisture">Soil Moisture</h4>
+<ul>
+<li><a href="https://github.com/robberwick/micropython-chirp">micropython-chirp</a> - Driver for the Chirp Soil Moisture Sensor.</li>
+<li><a href="https://github.com/matthias-bs/MicroPython-MiFlora">MicroPython-MiFlora</a> - Xiaomi Mi Flora (aka. flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).</li>
+</ul>
+<h4 id="temperature-analog">Temperature Analog</h4>
+<ul>
+<li><a href="https://github.com/mcauser/deshipu-micropython-max31855">micropython-max31855</a> - Thermocouple amplifier, SPI interface.</li>
+<li><a href="https://github.com/alinbaltaru/max31856">max31856</a> - Precision thermocouple to digital converter with linearization, SPI interface.</li>
+</ul>
+<h4 id="temperature-digital">Temperature Digital</h4>
+<ul>
+<li><a href="https://github.com/robmarkcole/bme680-mqtt-micropython">bme680-mqtt-micropython</a> - Driver for BME680 gas, pressure, temperature and humidity sensor.</li>
+<li><a href="https://github.com/OldhamMade/LM75-MicroPython">LM75-MicroPython</a> - Driver for LM75 digital temperature sensor, I2C interface.</li>
+<li><a href="https://github.com/mcauser/micropython-am2320">micropython-am2320</a> - Aosong AM2320 temperature and humidity sensor, I2C interface.</li>
+<li><a href="https://github.com/mcauser/micropython-dht12">micropython-dht12</a> - Aosong DHT12 temperature and humidity sensor, I2C interface.</li>
+<li><a href="https://github.com/kfricke/micropython-hdc1008">micropython-hdc1008</a> - Driver for the Texas Instruments HDC1008 humidity and temperature sensor.</li>
+<li><a href="https://github.com/kfricke/micropython-mcp9808">micropython-mcp9808</a> - Driver for the Microchip MCP9808 temperature sensor.</li>
+<li><a href="https://github.com/khoulihan/micropython-mpl115a2">micropython-mpl115a2</a> - Pyboard driver for the MPL115A2 barometric pressure sensor.</li>
+<li><a href="https://github.com/rsc1975/micropython-sht30">micropython-sht30</a> - Driver for SHT30 temperature and humidity sensor.</li>
+<li><a href="https://github.com/kfricke/micropython-sht31">micropython-sht31</a> - Driver for the SHT31 temperature and humidity sensor.</li>
+<li><a href="https://github.com/Smrtokvitek/micropython-Si7005">micropython-Si7005</a> - Driver for Si7005 relative humidity and temperature sensor.</li>
+<li><a href="https://github.com/mcauser/deshipu-micropython-si7021">micropython-si7021</a> - SI7021 Temperature and humidity sensor, I2C interface.</li>
+<li><a href="https://github.com/chrisbalmer/micropython-si7021">micropython-si7021</a> - SI7021 Temperature and humidity sensor, I2C interface.</li>
+<li><a href="https://github.com/billyrayvalentine/micropython-Si705x">micropython-Si705x</a> - Silicon Labs Si705x series of temperature sensors, I2C interface.</li>
+<li><a href="https://github.com/billyrayvalentine/micropython-Si70xx">micropython-Si70xx</a> - Silicon Labs Si70xx series of relative humidity and temperature sensors, I2C interface.</li>
+<li><a href="https://github.com/khoulihan/micropython-tmp102">micropython-tmp102</a> - Driver for TMP102 digital temperature sensor.</li>
+<li><a href="https://github.com/micropython/micropython/blob/master/drivers/dht/dht.py">Official DHT11+DHT12</a> - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.</li>
+<li><a href="https://github.com/Miceuz/sht25-micropython">sht25-micropython</a> - Driver for SHT25 temperature and humidity sensor.</li>
+<li><a href="https://github.com/mattytrentini/micropython-tmp1075">micropython-tmp1075</a> - Driver for the TI TMP1075 temperature sensor.</li>
+<li><a href="https://github.com/2black0/micropython-sht11">micropython-sht11</a> - Driver for Sensirion SHT11 temperature and humidity sensor.</li>
+<li><a href="https://github.com/mcauser/micropython-lm75a">micropython-lm75a</a> - Driver for the NXP LM75A digital temperature sensor.</li>
+</ul>
+<h4 id="temperature-ir">Temperature IR</h4>
+<ul>
+<li><a href="https://github.com/mcauser/micropython-mlx90614">micropython-mlx90614</a> - Driver for Melexis MLX90614 IR temperature sensor.</li>
+</ul>
+<h4 id="touch-capacitive">Touch Capacitive</h4>
+<ul>
+<li><a href="https://github.com/mcauser/micropython-mpr121">micropython-mpr121</a> - Driver for MPR121 capacitive touch keypads and breakout boards.</li>
+<li><a href="https://github.com/mcauser/micropython-ttp223">micropython-ttp223</a> - Examples using TTP223 capacitive touch module.</li>
+</ul>
+<h4 id="touch-resistive">Touch Resistive</h4>
+<ul>
+<li><a href="https://github.com/robert-hh/XPT2046-touch-pad-driver">XPT2046-touch-pad-driver</a> - Driver for XPT2046 touch pad controller used in many TFT modules.</li>
+</ul>
+<h3 id="scheduling">Scheduling</h3>
+<ul>
+<li><a href="https://github.com/fizista/micropython-mcron">micropython-mcron</a> - MicroCRON is a time-based task scheduling program for MicroPython.</li>
+</ul>
+<h3 id="storage">Storage</h3>
+<h4 id="database">Database</h4>
+<ul>
+<li><a href="https://github.com/dvrhax/uPyMySQL">uPyMySQL</a> - Pure uPython MySQL Client.</li>
+<li><a href="https://github.com/dwighthubbard/micropython-redis">micropython-redis</a> - A redis client implementation designed for use with MicroPython.</li>
+<li><a href="https://github.com/SpotlightKid/picoredis">picoredis</a> - A very minimal Redis client (not only) for MicroPython.</li>
+<li><a href="https://github.com/nakagami/micropg">micropg</a> - PostgreSQL database driver for MicroPython.</li>
+<li><a href="https://github.com/nakagami/nmongo">nmongo</a> - MongoDB client for CPython and MicroPython, with mongo shell like APIs.</li>
+</ul>
+<h4 id="eeprom">EEPROM</h4>
+<ul>
+<li><a href="https://github.com/peterhinch/micropython_eeprom">micropython_eeprom</a> - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).</li>
+</ul>
+<h4 id="fram">FRAM</h4>
+<ul>
+<li><a href="https://github.com/rolandvs/micropython-fram">micropython-fram</a> - Pyboard driver for Ferroelectric RAM module.</li>
+</ul>
+<h2 id="community">Community</h2>
+<ul>
+<li><a href="https://forum.micropython.org/">MicroPython Forum</a> - Online community of over 6400 users discussing all things related to MicroPython.</li>
+<li><a href="https://twitter.com/micropython?lang=en">MicroPython on Twitter</a> - Follow MicroPython on Twitter for latest news and updates.</li>
+<li><a href="https://www.facebook.com/micropython">MicroPython on Facebook</a> - Like MicroPython on Facebook for competitions, news and updates.</li>
+<li><a href="https://www.meetup.com/en-AU/MicroPython-Meetup">Melbourne MicroPython Meetup</a> - Regular meetup at CCHS in Melbourne, Australia.</li>
+<li><a href="https://slack-micropython.herokuapp.com/">Slack</a> - Get an automated invite to the micropython.slack.com workspace.</li>
+<li><a href="https://discord.gg/qw7d8bv">Discord</a> - Get an invite to the MicroPython Discord server.</li>
+</ul>
+<h2 id="books">Books</h2>
+<ul>
+<li><a href="http://shop.oreilly.com/product/0636920056515.do">Programming with MicroPython: Embedded Programming with Microcontrollers and Python</a> - By Nicholas H. Tollervey. ISBN 9781491972731.</li>
+<li><a href="https://www.apress.com/gp/book/9781484231227">MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers</a> - By Charles Bell. ISBN 9781484231227.</li>
+<li><a href="https://www.packtpub.com/au/application-development/micropython-cookbook">MicroPython Cookbook</a> - By Marwan Alsabbagh. ISBN 9781838649951.</li>
+<li><a href="https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537">Python for Microcontrollers: Getting Started with MicroPython</a> - By Donald Norris. ISBN 9781259644535.</li>
+<li><a href="https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937">Advanced Programming in MicroPython By Example</a> - By Yury Magda. ISBN 9781090900937.</li>
+<li><a href="https://www.packtpub.com/au/iot-hardware/micropython-projects">MicroPython Projects</a> - By Jacob Beningo. ISBN 9781789958034.</li>
+<li><a href="https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico">Get Started with MicroPython on Raspberry Pi Pico</a> - By Gareth Halfacree and Ben Everard. ISBN 9781912047864.</li>
+<li><a href="https://www.elektor.com/micropython-for-microcontrollers-e-book">MicroPython for Microcontrollers</a> - By Günter Spanner. ISBN 9783895764370.</li>
+<li><a href="https://www.amazon.com/MicroPython-Everyone-ESP32-ESP8266-Micropython/dp/B094281XK1">MicroPython For Everyone: How To Use ESP32 And ESP8266: Micropython Mqtt</a> - By Mason Milette. ISBN 9798748248822.</li>
+</ul>
+<h2 id="frameworks">Frameworks</h2>
+<ul>
+<li><a href="https://github.com/BxNxM/micrOS">micrOS</a> - MicroPython based IoT Framework.</li>
+<li><a href="https://github.com/hiveeyes/terkin-datalogger">terkin-datalogger</a> - Flexible data logger application for MicroPython and CPython.</li>
+</ul>
+<h2 id="resources">Resources</h2>
+<ul>
+<li><a href="http://micropython.org">MicroPython</a> - Project website. Test drive the pyboard. Try MicroPython online with unicorn.</li>
+<li><a href="https://github.com/micropython/micropython">MicroPython on GitHub</a> - Submit bug reports, follow and join in development on GitHub.</li>
+<li><a href="http://docs.micropython.org/">MicroPython Official Documentation</a> - For various ports, including quick reference, general information, examples and tutorials.</li>
+<li><a href="http://wiki.micropython.org/Home">MicroPython Wiki</a> - Community generated documentation and examples of the features of MicroPython and the pyboard.</li>
+<li><a href="http://micropython.org/newsletter">MicroPython Newsletter</a> - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.</li>
+<li><a href="https://store.micropython.org/">MicroPython Store</a> - Where you can buy the pyboard, housings, skins, books, connectors and peripherals.</li>
+<li><a href="https://en.wikipedia.org/wiki/MicroPython">MicroPython on Wikipedia</a> - MicroPython on Wikipedia.</li>
+</ul>
+<h2 id="development">Development</h2>
+<h3 id="code-generation">Code Generation</h3>
+<ul>
+<li><a href="https://github.com/BradenM/micropy-cli">micropy-cli</a> - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.</li>
+<li><a href="https://github.com/Josverl/micropython-stubber">micropython-stubber</a> - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.</li>
+<li><a href="https://github.com/BradenM/micropy-stubs">micropy-stubs</a> - Automatically Generated Stub Packages for Micropy-Cli and whomever else.</li>
+</ul>
+<h3 id="debugging">Debugging</h3>
+<ul>
+<li><a href="https://github.com/tve/esp32-backtrace">esp32-backtrace</a> - ESP32 Exception Stack Backtrace Analyzer.</li>
+</ul>
+<h3 id="ides">IDEs</h3>
+<ul>
+<li><a href="https://plugins.jetbrains.com/plugin/9777-micropython">JetBrains IntelliJ/PyCharm MicroPython Plugin</a> - Plugin for MicroPython devices in IntelliJ and PyCharm.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode">Micropython IDE for VSCode</a> - MicroPython IDE for VSCode README.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink">Micropython-REPLink for VSCode</a> - Handy shortcuts for interacting with a MicroPython REPL terminal.</li>
+<li><a href="https://codewith.mu/">Mu Editor</a> -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.</li>
+<li><a href="https://thonny.org/">Thonny IDE</a> - Thonny: Python IDE for beginners.</li>
+</ul>
+<h3 id="shells">Shells</h3>
+<h4 id="on-device">On Device</h4>
+<ul>
+<li><a href="https://github.com/dhylands/upy-shell">upy-shell</a> - A simple command line based shell for MicroPython.</li>
+<li><a href="https://github.com/robert-hh/Micropython-Editor">Micropython-Editor</a> - Small on-board editor for PyBoard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.</li>
+</ul>
+<h4 id="on-host">On Host</h4>
+<ul>
+<li><a href="https://github.com/dhylands/rshell">rshell</a> - Copy or Sync files to Boards, enter REPL from your terminal.</li>
+<li><a href="https://github.com/scientifichackers/ampy">ampy</a> - Adafruit MicroPython Tool - Utility to interact with a MicroPython board over a serial connection.</li>
+<li><a href="https://github.com/wendlers/mpfshell">mpfshell</a> - A simple shell based file explorer for ESP8266 and WiPy.</li>
+<li><a href="https://github.com/Uhlo/mpsync">mpsync</a> - A small tool that synchronizes a folder to a MicroPython board whenever it detects a change.</li>
+</ul>
+<h2 id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li><a href="https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers">MicroPython Kickstarter</a> - 1,931 backers pledged £97,803 to help bring this project to life.</li>
+<li><a href="https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot">MicroPython on the ESP8266 Kickstarter</a> - 1,399 backers pledged £28,534 to help bring this project to life.</li>
+</ul>
+<h2 id="contributing">Contributing</h2>
+<p>Contributions and suggestions are always welcome! Please take a look at the <a href="https://github.com/mcauser/awesome-micropython/blob/master/contributing.md">contribution guidelines</a> first.</p>
+<p>I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "assets/javascripts/workers/search.b0710199.min.js", "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.76f349be.min.js"></script>
+      
+    
+  </body>
+</html>
