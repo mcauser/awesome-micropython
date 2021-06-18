@@ -75,6 +75,7 @@ Other places you can look for MicroPython Libraries:
 #### Bluetooth
 
 * [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
+* [uble](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure python for micropython.
 
 #### CAN
 
@@ -84,6 +85,8 @@ Other places you can look for MicroPython Libraries:
 
 * [mpyaes](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
 * [micropython-aes](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+* [ucrypto](https://github.com/dmazzella/ucrypto) - Micropython package for doing fast elliptic curve cryptography, specifically digital signatures. API design inspired from fastecdsa and implementation based on tomsfastmath.
+* [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for micropython.
 
 #### DNS
 
