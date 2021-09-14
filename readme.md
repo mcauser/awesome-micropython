@@ -598,7 +598,7 @@ Other places you can look for MicroPython Libraries:
 * [micropy-cli](https://github.com/BradenM/micropy-cli) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
-* [BIPES](https://bipes.net.br/beta2/ui/) - Open-source web based IDE for MicroPython with file manager, editor, code generation from blocks and Serial/USB/WebREPL console [source](https://github.com/BIPES).
+* [BIPES](https://bipes.net.br/beta2/ui/) - Open-source web based IDE for MicroPython with file manager, editor, code generation from blocks and Serial/USB/WebREPL console. Source: [https://github.com/BIPES](https://github.com/BIPES).
 
 ### Debugging
 
