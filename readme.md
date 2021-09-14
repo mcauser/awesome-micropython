@@ -598,7 +598,7 @@ Other places you can look for MicroPython Libraries:
 * [micropy-cli](https://github.com/BradenM/micropy-cli) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
-* [BIPES](https://bipes.net.br/beta2/ui/) - Open-source web based IDE for MicroPython with file manager, editor, code generation from blocks and Serial/USB/WebREPL console. Source: [https://github.com/BIPES](https://github.com/BIPES).
+
 
 ### Debugging
 
@@ -606,6 +606,7 @@ Other places you can look for MicroPython Libraries:
 
 ### IDEs
 
+* [BIPES](https://bipes.net.br/beta2/ui/) - Web based IDE for MicroPython with file manager, editor, code generation from blocks and Serial/USB/WebREPL console on the web browser! Source: [https://github.com/BIPES](https://github.com/BIPES).
 * [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 * [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for VSCode README.
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
