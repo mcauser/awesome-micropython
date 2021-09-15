@@ -159,6 +159,11 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mdns](https://github.com/cbrand/micropython-mdns) - A pure python implementation of MDNS with support for Service Discovery.
 
+#### Modbus
+
+* [micropython-modbus](https://gitlab.com/extel-open-source/micropython-modbus) - MicroPython port of modbus-tk.
+* [micropython-modbus](https://github.com/techbase123/micropython-modbus) - Modbus Master library for MicroPython ESP32 devices. Based on pycom-modbus from pycom.
+
 #### MQTT
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
@@ -218,7 +223,6 @@ Other places you can look for MicroPython Libraries:
 #### Serial
 
 * [mpy-miniterm](https://github.com/jeffmakes/mpy-miniterm) - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.
-* [micropython-modbus](https://gitlab.com/extel-open-source/micropython-modbus) - MicroPython port of modbus-tk.
 
 #### SMTP
 
