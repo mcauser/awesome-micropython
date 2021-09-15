@@ -537,6 +537,7 @@ Other places you can look for MicroPython Libraries:
 * [Qwiic_TOF_Module_RFD77402](https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402) - Qwiic TOF Module (RFD77402) time-of-flight rangefinding module.
 * [VL53L0X](https://github.com/uceeatz/VL53L0X) - MicroPython Library for Lidar Sensor VL53L0X.
 * [vl53l1x_pico](https://github.com/drakxtwo/vl53l1x_pico) - MicroPython driver for the vl53l1x ToF sensor.
+* [tf-luna-micropython](https://github.com/davmoz/tf-luna-micropython) - A simple MicroPython i2c library for TF-Luna LiDAR Module.
 
 #### Distance Ultrasonic
 
