@@ -78,6 +78,7 @@ Other places you can look for MicroPython Libraries:
 * [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
 * [uble](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure python for micropython.
 * [MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
+* [upyble](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
 
 #### CAN
 
