@@ -81,6 +81,7 @@ Other places you can look for MicroPython Libraries:
 * [uEagle](https://github.com/jcalbert/uEagle) - MicroPython Rainforest EAGLE client.
 * [micropython-youtube-api](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 * [micropython_esp8266_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
+* [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
 
 #### Bluetooth
 
