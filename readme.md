@@ -163,6 +163,7 @@ Other places you can look for MicroPython Libraries:
 #### OneWire
 
 * [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
+* [Onewire_DS18X20](https://github.com/robert-hh/Onewire_DS18X20) - Classes for driving the DS18x20 sensor with the onewire protocol for Pycom MicroPython.
 
 #### Onkyo EISCP
 
