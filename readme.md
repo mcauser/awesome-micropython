@@ -400,6 +400,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-multiaxis](https://gitlab.com/olivierlenoir/micropython-multiaxis) - Multiaxis with MicroPython ESP32 and DRV8825.
 * [ticlib](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 * [AccelStepper-MicroPython](https://github.com/pedromneto97/AccelStepper-MicroPython) - AccelStepper Library for MicroPython - ESP32.
+* [pystepper](https://github.com/marcio-pessoa/pystepper) - MicroPython Stepper Motor Sequence Control.
 
 ### Sensors
 
