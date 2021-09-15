@@ -286,6 +286,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - A micro HTTP Web client for MicroPython (used on Pycom modules & ESP32).
 * [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a webserver to configure wifi networks.
+* [micropython-aioweb](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
 
 #### Zigbee
 
