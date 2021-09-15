@@ -155,6 +155,7 @@ Other places you can look for MicroPython Libraries:
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) - ESP32 using MicroPython meets LoRa and LoRaWAN.
 * [DeLoReAN](https://github.com/buehl/DeLoReAN) - DeLoReAN is a (De)dicated (Lo)RaWAN node (Re)cording (A)ny (N)FC tags.
 * [SX127x_driver_for_MicroPython_on_ESP8266](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - SX127x (LoRa transceiver) driver for (Micro)Python on ESP8266/ESP32/Raspberry_Pi.
+* [LightLora_MicroPython](https://github.com/MZachmann/LightLora_MicroPython) - Lightweight Interrupt-driven Semtech SX127x Library for MicroPython.
 
 #### MDNS
 
