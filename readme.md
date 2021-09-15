@@ -188,6 +188,10 @@ Other places you can look for MicroPython Libraries:
 * [MicropythonCayenneMQTTClient](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
 * [mqtt_upython](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 
+#### NFC
+
+* [micropython-nfc](https://github.com/rolandvs/micropython-nfc) - Using NFC with MicroPython.
+
 #### NTP
 
 * [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - MicroPython + esp8266 + ntp + webserver.
