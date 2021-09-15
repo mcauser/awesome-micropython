@@ -446,6 +446,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 * [uencoder](https://gitlab.com/WiLED-Project/uencoder) - A MicroPython library for reading from a rotary encoder.
 * [encodermenu](https://github.com/sgall17a/encodermenu) - Simple GUI menu for micropython using a rotary encoder and basic display.
+* [encoderLib](https://github.com/BramRausch/encoderLib) - MicroPython library to handle a rotary encoder.
 
 #### Waveform Generator
 
