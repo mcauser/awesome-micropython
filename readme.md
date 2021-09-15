@@ -334,6 +334,7 @@ Other places you can look for MicroPython Libraries:
 * [ili9342c_mpy](https://github.com/russhughes/ili9342c_mpy) - ILI9342C Fast 'C' Driver for MicroPython (M5Stack Core).
 * [gc9a01py](https://github.com/russhughes/gc9a01py) - GC9A01 Display driver in MicroPython.
 * [gc9a01_mpy](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
+* [st7735-esp8266-micropython](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for st7735 160x80, 128x128, 128x160 TFT LCD displays.
 
 #### LED Matrix
 
