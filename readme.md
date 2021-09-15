@@ -170,6 +170,7 @@ Other places you can look for MicroPython Libraries:
 * [u-lora](https://github.com/martynwheeler/u-lora) - raspi-lora for MicroPython.
 * [sx127x_esp](https://github.com/azorg/sx127x_esp) - Connect Ra-01 module base on LoRaTM sx127x chip to ESP8266/ESP32 under MicroPython.
 * [nanoserver](https://github.com/gradoj/nanoserver) - MicroPython embedded LoRaWAN server.
+* [micropySX126X](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
 
 #### MDNS
 
