@@ -490,6 +490,7 @@ Other places you can look for MicroPython Libraries:
 #### Pressure
 
 * [ms5803-micropython](https://github.com/minyiky/ms5803-micropython) - A micropython implimentation of the driver for an MS5803 pressure & temperature sensor.
+* [MPL3115A2_MicroPython](https://github.com/PinsonJonas/MPL3115A2_MicroPython) - MicroPython library for the MPL3115A2 Altimeter.
 
 #### Soil Moisture
 
