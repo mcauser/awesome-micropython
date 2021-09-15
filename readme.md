@@ -382,6 +382,7 @@ Other places you can look for MicroPython Libraries:
 #### Waveform Generator
 
 * [Micropython-AD9833](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
+* [Clock_Generators](https://github.com/Wei1234c/Clock_Generators) - Clock generators (Si5351 for now) toolbox.
 
 ### Motion
 
