@@ -200,6 +200,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_remote](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 * [micropython-ys-rf34t](https://github.com/mcauser/micropython-ys-rf34t) - MicroPython examples using YS-RF34T 433MHz ASK/OOK UART transceivers.
 * [FM_Talkie](https://github.com/Wei1234c/FM_Talkie) - FM Walkie Talkie using RDA5820N.
+* [micropython-TEA5767](https://github.com/alankrantas/micropython-TEA5767) - MicroPython ESP8266/ESP32 driver for TEA5767 FM radio module.
 
 #### REPL
 
