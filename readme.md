@@ -310,6 +310,7 @@ Other places you can look for MicroPython Libraries:
 #### Fonts
 
 * [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
+* [ssd1306big](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel ssd1306 oled display.
 
 #### GUI
 
