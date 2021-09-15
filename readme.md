@@ -448,6 +448,7 @@ Other places you can look for MicroPython Libraries:
 * [encodermenu](https://github.com/sgall17a/encodermenu) - Simple GUI menu for micropython using a rotary encoder and basic display.
 * [encoderLib](https://github.com/BramRausch/encoderLib) - MicroPython library to handle a rotary encoder.
 * [rotary-encoder](https://github.com/gurgleapps/rotary-encoder) - MicroPython code to drive a KY-040 rotary encoder.
+* [micropython-encoder-knob](https://github.com/infinite-tree/micropython-encoder-knob) - A very simple lightweight encoder knob library with button support.
 
 #### Waveform Generator
 
