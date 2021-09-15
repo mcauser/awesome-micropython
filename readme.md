@@ -525,6 +525,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropythonINA219](https://github.com/kabel42/micropythonINA219) - Driver for INA219 current sensor.
 * [pyb_ina219](https://github.com/chrisb2/pyb_ina219) - Driver for INA219 current sensor.
+* [INA219](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
 
 #### Distance IR
 
