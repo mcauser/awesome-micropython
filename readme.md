@@ -496,6 +496,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-chirp](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
 * [MicroPython-MiFlora](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka. flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
+#### Spectral
+
+* [AS726X_LoPy](https://github.com/jajberni/AS726X_LoPy) - MicroPython driver for the AS726X spectral sensor.
+
 #### Temperature Analog
 
 * [micropython-max31855](https://github.com/mcauser/deshipu-micropython-max31855) - Thermocouple amplifier, SPI interface.
