@@ -534,6 +534,7 @@ Other places you can look for MicroPython Libraries:
 #### Biometric
 
 * [micropython-fingerprint](https://github.com/chrisb2/micropython-fingerprint) - MicroPython library for reading Grow and ZhianTec finger print sensors.
+* [MAX30102-MicroPython-driver](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
 
 #### Camera
 
