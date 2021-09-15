@@ -329,6 +329,10 @@ Other places you can look for MicroPython Libraries:
 * [SH1106](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
 
+### Printer
+
+* [micropython-thermal-printer](https://github.com/ayoy/micropython-thermal-printer) - The MicroPython port of Python Thermal Printer by Adafruit.
+
 ### IO
 
 #### ADC
