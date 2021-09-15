@@ -384,6 +384,7 @@ Other places you can look for MicroPython Libraries:
 * [Micropython-AD9833](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
 * [Clock_Generators](https://github.com/Wei1234c/Clock_Generators) - Clock generators (Si5351 for now) toolbox.
 * [Signal_Generators](https://github.com/Wei1234c/Signal_Generators) - Signal generators (AD9833, AD9834, AD9850, ADF4351) tools box.
+* [ad9850_signalgen](https://github.com/brenn/ad9850_signalgen) - MicroPython library for AD9850 synthesizer.
 
 ### Motion
 
