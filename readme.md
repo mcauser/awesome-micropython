@@ -315,6 +315,7 @@ Other places you can look for MicroPython Libraries:
 #### Graphics
 
 * [micropython-stage](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
+* [micropython-png](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
 
 #### GUI
 
