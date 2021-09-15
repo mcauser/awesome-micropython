@@ -586,6 +586,7 @@ Other places you can look for MicroPython Libraries:
 * [flight_controller](https://github.com/wagnerc4/flight_controller) - micropython flight controller.
 * [micropython-bno055](micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 * [micropython-mpu6050-mqtt-streamer](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
+* [upy-motion](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
 
 #### Pressure
 
