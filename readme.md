@@ -256,6 +256,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-msgpack](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
 * [micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
+* [minipb](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 
 #### SMTP
 
