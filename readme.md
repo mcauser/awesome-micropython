@@ -134,6 +134,7 @@ Other places you can look for MicroPython Libraries:
 * [uPyEcho](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
 * [SonosRemote](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - MicroPython based scripts to extend you home assistant driven home automation projects.
+* [micropython-iot](https://github.com/peterhinch/micropython-iot) - An approach to designing IOT applications using ESP8266/Pyboard D endpoints.
 
 #### IR
 
