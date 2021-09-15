@@ -285,6 +285,7 @@ Other places you can look for MicroPython Libraries:
 * [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - A micro HTTP Web client for MicroPython (used on Pycom modules & ESP32).
+* [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a webserver to configure wifi networks.
 
 #### Zigbee
 
