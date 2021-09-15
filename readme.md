@@ -594,6 +594,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython Newsletter](http://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 * [MicroPython Store](https://store.micropython.org/) - Where you can buy the pyboard, housings, skins, books, connectors and peripherals.
 * [MicroPython on Wikipedia](https://en.wikipedia.org/wiki/MicroPython) - MicroPython on Wikipedia.
+* [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) - The many forks & ports of MicroPython.
 
 ## Development
 
