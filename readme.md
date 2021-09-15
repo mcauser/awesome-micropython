@@ -550,6 +550,7 @@ Other places you can look for MicroPython Libraries:
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with mongo shell like APIs.
+* [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory json-based database for MicroPython.
 
 #### EEPROM
 
