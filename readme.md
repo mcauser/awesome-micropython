@@ -475,6 +475,7 @@ Other places you can look for MicroPython Libraries:
 * [mpy_bh1750fvi_esp8266](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - ESP8266 driver for BH1750FVI sensor.
 * [bh1750](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 i2c digital light sensor driver.
 * [micropython-max44009](https://github.com/mcauser/micropython-max44009) - MicroPython driver for the MAX44009 ambient light sensor.
+* [veml7700](https://github.com/palouf34/veml7700) - Library for MicroPython for VEML7700 light sensor.
 
 #### Motion Inertial
 
