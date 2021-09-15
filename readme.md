@@ -58,6 +58,7 @@ Other places you can look for MicroPython Libraries:
 * [ulinalg](https://github.com/jalawson/ulinalg) - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python3).
 * [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 * [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
+* [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
 
 ### Audio
 
