@@ -616,6 +616,10 @@ Other places you can look for MicroPython Libraries:
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
 
+### Logging
+
+* [micropython-ulogger](https://github.com/Li-Lian1069/micropython-ulogger) - Lightweight log module customized for MicroPython.
+
 ### Shells
 
 #### On Device
