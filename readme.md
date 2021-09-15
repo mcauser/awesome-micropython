@@ -329,6 +329,7 @@ Other places you can look for MicroPython Libraries:
 * [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
 * [micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - MicroPython Driver for ILI9341 display.
 * [micropython-ili9341](https://github.com/tkurbad/micropython-ili9341) - ILI9341 TFT driver for MicroPython on ESP32.
+* [st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
 
 #### LED Matrix
 
