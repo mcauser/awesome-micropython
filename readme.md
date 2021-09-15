@@ -284,6 +284,7 @@ Other places you can look for MicroPython Libraries:
 * [uwebsockets](https://github.com/danni/uwebsockets) - MicroPython websockets implementation for ESP8266.
 * [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
+* [MicroWebCli](https://github.com/jczic/MicroWebCli) - A micro HTTP Web client for MicroPython (used on Pycom modules & ESP32).
 
 #### Zigbee
 
