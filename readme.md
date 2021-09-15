@@ -137,6 +137,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-iot](https://github.com/peterhinch/micropython-iot) - An approach to designing IOT applications using ESP8266/Pyboard D endpoints.
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
 * [SmartUPy](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
+* [aws-iot-GET-POST-loop](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS-IOT REST API to GET/POST device state info.
 
 #### IR
 
