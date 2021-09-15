@@ -307,6 +307,10 @@ Other places you can look for MicroPython Libraries:
 * [eink](https://github.com/chevdor/eink) - E-Ink, E-Paper display driver for MicroPython and ESP32.
 * [micropython_DEPG0213BN](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN E-Ink display found on the TTGO T5 V2.3 ESP32 boards.
 
+#### Fonts
+
+* [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
+
 #### GUI
 
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
