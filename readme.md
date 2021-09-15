@@ -84,6 +84,7 @@ Other places you can look for MicroPython Libraries:
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
 * [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
 * [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use pushbullet with MicroPython on ESP8266.
+* [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - Display Youtube metrics using Google API and MicroPython.
 
 #### Bluetooth
 
