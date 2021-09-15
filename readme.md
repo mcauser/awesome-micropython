@@ -79,6 +79,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-utelegram](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
 * [uEagle](https://github.com/jcalbert/uEagle) - MicroPython Rainforest EAGLE client.
+* [micropython-youtube-api](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 
 #### Bluetooth
 
