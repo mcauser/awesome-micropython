@@ -181,6 +181,7 @@ Other places you can look for MicroPython Libraries:
 * [webrepl](https://micropython.org/webrepl) - MicroPython WebREPL.
 * [zepl](https://gitlab.com/zepl1/zepl) - MicroPython WebREPL Console Application using ZeroMQ.
 * [jupyter_micropython_remote](https://gitlab.com/alelec/jupyter_micropython_remote) - Jupyter kernel to directly execute code on a MicroPython board over the serial/web REPL.
+* [FBConsole](https://github.com/boochow/FBConsole) - Frame buffer console class for MicroPython.
 
 #### RFID
 
