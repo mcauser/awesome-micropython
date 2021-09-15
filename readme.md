@@ -202,6 +202,10 @@ Other places you can look for MicroPython Libraries:
 
 * [uMail](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
 
+#### TCP
+
+* [us2n](https://github.com/tiagocoutinho/us2n) - MicroPython bridge between UART and TCP for the ESP32.
+
 #### Telnet
 
 * [MicroTelnetServer](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
