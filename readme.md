@@ -406,6 +406,7 @@ Other places you can look for MicroPython Libraries:
 * [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - Driver for the TLC5947 24 channel 12-bit PWM LED driver.
 * [Hybotics_Micropython_HT16K33](https://github.com/hybotics/Hybotics_Micropython_HT16K33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
 * [micropython-rgbled](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrixes.
+* [micropython_fastled](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
 
 #### OLED
 
