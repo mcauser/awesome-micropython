@@ -433,6 +433,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 * [esp32-cam-micropython](https://github.com/shariltumin/esp32-cam-micropython) - MicroPython esp32-cam.
 * [uPyCam](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
+* [OV2640_uPy](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 Camera Library for MicroPython.
 
 #### Compass
 
