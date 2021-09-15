@@ -193,6 +193,7 @@ Other places you can look for MicroPython Libraries:
 * [Micropython_TinyRTC](https://github.com/AnthonyKNorman/Micropython_TinyRTC) - Driver for DS1307 RTC.
 * [micropython-mcp7940](https://github.com/mattytrentini/micropython-mcp7940) - Driver for the Microchip MCP7940 RTC.
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+* [DS3231micro](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
 
 #### Serial
 
