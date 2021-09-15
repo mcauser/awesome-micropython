@@ -496,6 +496,10 @@ Other places you can look for MicroPython Libraries:
 
 * [uPy_APDS9960](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximitiy library for esp8266 using APDS9960.
 
+#### Radiation
+
+* [micropython-geiger](https://github.com/Josep/micropython-geiger) - Geiger counter with MicroPython card.
+
 #### Soil Moisture
 
 * [micropython-chirp](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
