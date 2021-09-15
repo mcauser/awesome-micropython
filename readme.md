@@ -598,6 +598,7 @@ Other places you can look for MicroPython Libraries:
 ### User Interface
 
 * [upymenu](https://github.com/jplattel/upymenu) - MicroPython Menu for LCD Displays.
+* [micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons.
 
 ## Community
 
