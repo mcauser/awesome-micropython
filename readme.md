@@ -565,6 +565,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known CRON program for Unix systems.
+* [Micropython-scheduler](https://github.com/danicampora/Micropython-scheduler) - A set of libraries for writing threaded code on the MicroPython board.
 
 ### Storage
 
