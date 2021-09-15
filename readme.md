@@ -83,6 +83,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_esp8266_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
 * [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
+* [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use pushbullet with MicroPython on ESP8266.
 
 #### Bluetooth
 
