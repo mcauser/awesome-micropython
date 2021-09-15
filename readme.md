@@ -555,6 +555,10 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).
 
+#### Flash
+
+* [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - A Python3 utility to convert an arbitrary binary file to Python source for storage in Flash.
+
 #### FRAM
 
 * [micropython-fram](https://github.com/rolandvs/micropython-fram) - Pyboard driver for Ferroelectric RAM module.
