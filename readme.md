@@ -132,6 +132,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Driver for Grid-EYE thermal infra red array sensor (Adafruit 3538).
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by websocket.
+* [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython esp32 IR Transceiver.
 
 #### LoRaWAN
 
