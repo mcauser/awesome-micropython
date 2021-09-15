@@ -595,6 +595,10 @@ Other places you can look for MicroPython Libraries:
 
 * [MicroWorkers](https://github.com/jczic/MicroWorkers) - A micro workers class that easily manages a pool of threads to optimise simultaneous jobs and jobs endings, for MicroPython (used on Pycom modules & ESP32).
 
+### User Interface
+
+* [upymenu](https://github.com/jplattel/upymenu) - MicroPython Menu for LCD Displays.
+
 ## Community
 
 * [MicroPython Forum](https://forum.micropython.org/) - Online community of over 6400 users discussing all things related to MicroPython.
