@@ -191,6 +191,7 @@ Other places you can look for MicroPython Libraries:
 #### NFC
 
 * [micropython-nfc](https://github.com/rolandvs/micropython-nfc) - Using NFC with MicroPython.
+* [NFC_PN532_SPI](https://github.com/Carglglz/NFC_PN532_SPI) - Partial Port of Adafruit CircuitPython to MicroPython of PN532 NFC/RFID control library (SPI).
 
 #### NTP
 
