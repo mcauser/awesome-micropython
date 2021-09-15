@@ -312,6 +312,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
 * [ssd1306big](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel ssd1306 oled display.
 
+#### Graphics
+
+* [micropython-stage](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
+
 #### GUI
 
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
