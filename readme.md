@@ -461,6 +461,7 @@ Other places you can look for MicroPython Libraries:
 * [ATM90E26_Micropython](https://github.com/whatnick/ATM90E26_Micropython) - Driver for ATM90E26 energy metering device.
 * [MCP39F521](https://github.com/warpme/MCP39F521) - ESP8266 scripts for reading MCP39F521 power monitors.
 * [micropython-p1meter](https://github.com/Josverl/micropython-p1meter) - A ESP32 sensor to read an p1 electricity meter and publish this to MQTT and HomeAssistant, written in MicroPython.
+* [esp32-solar2](https://github.com/octopusengine/esp32-solar2) - Simple solar regulator - MicroPython project.
 
 #### Gaseous
 
