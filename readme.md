@@ -136,6 +136,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - MicroPython based scripts to extend you home assistant driven home automation projects.
 * [micropython-iot](https://github.com/peterhinch/micropython-iot) - An approach to designing IOT applications using ESP8266/Pyboard D endpoints.
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
+* [SmartUPy](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
 
 #### IR
 
