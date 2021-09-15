@@ -778,6 +778,7 @@ Other places you can look for MicroPython Libraries:
 ### Debugging
 
 * [esp32-backtrace](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+* [micropython-aiosentry](https://github.com/devbis/micropython-aiosentry) - Asyncronous Sentry.io micro client for MicroPython.
 
 ### IDEs
 
