@@ -210,6 +210,10 @@ Other places you can look for MicroPython Libraries:
 
 * [MicroTelnetServer](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
 
+#### VoIP
+
+* [uPyVoip](https://github.com/RetepRelleum/uPyVoip) - Voip for MicroPython ESP32 with Interactive Voice Response.
+
 #### WiFi
 
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
