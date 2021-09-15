@@ -316,6 +316,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-stage](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
 * [micropython-png](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
+* [mpy-img-decoder](https://github.com/remixer-dec/mpy-img-decoder) - PNG and JPEG decoder / parser / renderer in pure MicroPython.
 
 #### GUI
 
