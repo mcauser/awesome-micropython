@@ -551,6 +551,7 @@ Other places you can look for MicroPython Libraries:
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with mongo shell like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory json-based database for MicroPython.
+* [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
 
 #### EEPROM
 
