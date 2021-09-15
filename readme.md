@@ -75,6 +75,11 @@ Other places you can look for MicroPython Libraries:
 
 ### Communications
 
+#### APIs
+
+* [micropython-utelegram](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
+* [uEagle](https://github.com/jcalbert/uEagle) - MicroPython Rainforest EAGLE client.
+
 #### Bluetooth
 
 * [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
@@ -272,7 +277,6 @@ Other places you can look for MicroPython Libraries:
 * [micropython-noggin](https://github.com/larsks/micropython-noggin) - A very simple web server for MicroPython.
 * [uwebsockets](https://github.com/danni/uwebsockets) - MicroPython websockets implementation for ESP8266.
 * [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
-* [micropython-utelegram](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
 
 #### Zigbee
 
