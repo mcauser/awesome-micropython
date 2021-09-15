@@ -70,6 +70,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
 * [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for MicroPython.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) - Python Parser for Ring Tone Text Transfer Language (RTTTL).
+* [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
 
 ### Communications
 
