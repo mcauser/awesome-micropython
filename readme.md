@@ -585,6 +585,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-fusion](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 * [flight_controller](https://github.com/wagnerc4/flight_controller) - micropython flight controller.
 * [micropython-bno055](micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+* [micropython-mpu6050-mqtt-streamer](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
 
 #### Pressure
 
