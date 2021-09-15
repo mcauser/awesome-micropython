@@ -116,6 +116,7 @@ Other places you can look for MicroPython Libraries:
 #### GSM
 
 * [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - A gsm phone using pyboard and sim800l.
+* [micropython-sim800](https://github.com/olablt/micropython-sim800) - MicroPython driver for sim800.
 
 #### IoT
 
