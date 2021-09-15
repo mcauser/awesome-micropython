@@ -283,6 +283,7 @@ Other places you can look for MicroPython Libraries:
 * [ssd1675a](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675 based E-Paper displays.
 * [Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - MicroPython driver for Inkplate boards.
 * [micropython-inkplate6](https://github.com/tve/micropython-inkplate6) - MicroPython driver for the Inkplate 6.
+* [eInk-micropython](https://github.com/dhallgb/eInk-micropython) - e-Ink library for Waveshare 4.3inch device on MicroPython.
 
 #### GUI
 
