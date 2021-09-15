@@ -365,6 +365,10 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 
+#### Keyboard
+
+* [micropython-keyboard](https://github.com/mcameron/micropython-keyboard) - 47 key keyboard running on a MicroPython pyboard.
+
 #### Potentiometers
 
 * [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
