@@ -435,6 +435,7 @@ Other places you can look for MicroPython Libraries:
 #### Power Management
 
 * [AXP202_PythonLibrary](https://github.com/lewisxhe/AXP202_PythonLibrary) - MicroPython AXP202 Library.
+* [micropython_hourly_sleeper_library](https://github.com/costastf/micropython_hourly_sleeper_library) - A MicroPython library that enables an esp8266 to sleep for hourly increments for a setup amount of hours.
 
 #### PWM
 
