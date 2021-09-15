@@ -531,6 +531,10 @@ Other places you can look for MicroPython Libraries:
 
 * [Micropython-LC709203F](https://github.com/scopelemanuele/Micropython-LC709203F) - A simple MicroPython library for LC709293F Fuel Gauge.
 
+#### Biometric
+
+* [micropython-fingerprint](https://github.com/chrisb2/micropython-fingerprint) - MicroPython library for reading Grow and ZhianTec finger print sensors.
+
 #### Camera
 
 * [micropython-ov2640](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
