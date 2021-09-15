@@ -332,6 +332,7 @@ Other places you can look for MicroPython Libraries:
 * [st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
 * [st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
 * [ili9342c_mpy](https://github.com/russhughes/ili9342c_mpy) - ILI9342C Fast 'C' Driver for MicroPython (M5Stack Core).
+* [gc9a01py](https://github.com/russhughes/gc9a01py) - GC9A01 Display driver in MicroPython.
 
 #### LED Matrix
 
