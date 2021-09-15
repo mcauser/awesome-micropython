@@ -285,6 +285,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-inkplate6](https://github.com/tve/micropython-inkplate6) - MicroPython driver for the Inkplate 6.
 * [eInk-micropython](https://github.com/dhallgb/eInk-micropython) - e-Ink library for Waveshare 4.3inch device on MicroPython.
 * [eink](https://github.com/chevdor/eink) - E-Ink, E-Paper display driver for MicroPython and ESP32.
+* [micropython_DEPG0213BN](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN E-Ink display found on the TTGO T5 V2.3 ESP32 boards.
 
 #### GUI
 
