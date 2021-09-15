@@ -102,6 +102,7 @@ Other places you can look for MicroPython Libraries:
 
 * [ICantBelieveItsNotDNS](https://github.com/yschaeff/ICantBelieveItsNotDNS) - "I Can't Believe It's Not DNS!" (ICBIND) is an authoritative DNS server for the ESP8266 written in MicroPython.
 * [MicroDNSSrv](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
+* [tinydns](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
 
 #### Ethernet
 
