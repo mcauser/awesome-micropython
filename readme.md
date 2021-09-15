@@ -138,6 +138,7 @@ Other places you can look for MicroPython Libraries:
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
 * [SmartUPy](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
 * [aws-iot-GET-POST-loop](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS-IOT REST API to GET/POST device state info.
+* [sensor-mqtt-homeassistant](https://github.com/DougWilkinson/sensor-mqtt-homeassistant) - An esp8266/32 MicroPython based sensor platform for gpio, dht, analog, led and more. Includes remote updates for .py code from web server and MQTT/Homeassistant integration.
 
 #### IR
 
