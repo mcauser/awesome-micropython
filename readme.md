@@ -524,6 +524,7 @@ Other places you can look for MicroPython Libraries:
 * [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
 * [BME280](https://github.com/robert-hh/BME280) - MicroPython driver for the BME280 sensor, target platform Pycom devices.
 * [micropython-bmp280](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
+* [micropython_bme280_i2c](https://github.com/triplepoint/micropython_bme280_i2c) - A MicroPython module for communicating with the Bosch BME280 temperature, humidity, and pressure sensor.
 
 #### Camera
 
