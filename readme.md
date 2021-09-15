@@ -318,6 +318,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-png](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
 * [mpy-img-decoder](https://github.com/remixer-dec/mpy-img-decoder) - PNG and JPEG decoder / parser / renderer in pure MicroPython.
 * [micropython-oled-progressbars](https://github.com/follower46/micropython-oled-progressbars) - A collection of progress bars for use with esp8266 and esp32's on OLED displays.
+* [microplot](https://github.com/romilly/microplot) - Simple MicroPython plotting package.
 
 #### GUI
 
