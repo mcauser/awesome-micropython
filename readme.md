@@ -273,6 +273,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
 * [minipb](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 
+#### SOCKS
+
+* [micropython-socks](https://github.com/kost/micropython-socks) - MicroPython library implementing SOCKS server.
+
 #### SMTP
 
 * [uMail](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
