@@ -499,6 +499,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-keyboard](https://github.com/mcameron/micropython-keyboard) - 47 key keyboard running on a MicroPython pyboard.
 * [pico-rgbkeypad](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
+* [micropython-aiobutton](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
 
 #### Potentiometers
 
