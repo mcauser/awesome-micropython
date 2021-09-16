@@ -113,6 +113,7 @@ Other places you can look for MicroPython Libraries:
 * [embit](https://github.com/diybitcoinhardware/embit) - A minimal bitcoin library for MicroPython and Python3 with a focus on embedded systems.
 * [microotp](https://github.com/gdassori/microotp) - A ESP8266 MicroPython OTP Generator.
 * [micropython-rsa-signing](https://github.com/artem-smotrakov/micropython-rsa-signing) - RSA signing on MicroPython.
+* [micropython-cryptomsg](https://github.com/jacklinquan/micropython-cryptomsg) - A MicroPython module to encrypt and decrypt messages with AES CBC mode.
 
 #### DNS
 
