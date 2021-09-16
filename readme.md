@@ -604,6 +604,10 @@ Other places you can look for MicroPython Libraries:
 * [OV2640_uPy](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 Camera Library for MicroPython.
 * [MQTT-Cam](https://github.com/jono-allen/MQTT-Cam) - ESP-32 Cam MicroPython MQTT AWS S3 Uploader.
 
+#### Colour
+
+* [micropython-tcs34725](https://gitlab.com/robhamerling/micropython-tcs34725) - Driver class for TCS34725 and TCS34727 color sensors.
+
 #### Compass
 
 * [micropython-esp8266-hmc5883l](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
