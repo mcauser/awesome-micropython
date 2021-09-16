@@ -583,6 +583,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-bmp280](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
 * [micropython_bme280_i2c](https://github.com/triplepoint/micropython_bme280_i2c) - A MicroPython module for communicating with the Bosch BME280 temperature, humidity, and pressure sensor.
 * [MicroPython-BME280](https://github.com/neliogodoi/MicroPython-BME280) - Driver to digital sensor of Temperature, Pressure and Humidity.
+* [micropython-bmp180](https://gitlab.com/flowolf/micropython-bmp180) - A module for MicroPython which provides a class for the BMP180 pressure sensor.
 
 #### Battery
 
