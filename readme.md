@@ -773,6 +773,7 @@ Other places you can look for MicroPython Libraries:
 #### EEPROM
 
 * [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).
+* [mb_24x256_512](https://github.com/MarksBench/mb_24x256_512) - Very simple MicroPython module/driver for Microchip 24x256 and 24x512 I2C EEPROM devices.
 
 #### Flash
 
