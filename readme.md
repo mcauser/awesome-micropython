@@ -826,6 +826,7 @@ Other places you can look for MicroPython Libraries:
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python\MicroPythonb\CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
+* [Pyboard File Manager] (https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices
 
 ### Logging
 
