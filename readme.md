@@ -25,6 +25,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Sensors](#sensors)
   * [Scheduling](#scheduling)
   * [Storage](#storage)
+  * [Threading](#threading)
+  * [User Interface](#user-interface)
 * [Community](#community)
 * [Books](#books)
 * [Frameworks](#frameworks)
@@ -33,8 +35,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Code Generation](#code-generation)
   * [Debugging](#debugging)
   * [IDEs](#ides)
+  * [Logging](#logging)
   * [Shells](#Shells)
 * [Miscellaneous](#miscellaneous)
+* [Contributing](#contributing)
 
 ## Libraries
 
@@ -64,7 +68,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-jq6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
 * [KT403A-MP3](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
-* [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play nokia compose and mid files on buzzers.
+* [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
@@ -83,13 +87,13 @@ Other places you can look for MicroPython Libraries:
 * [micropython_esp8266_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
 * [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
-* [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use pushbullet with MicroPython on ESP8266.
-* [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - Display Youtube metrics using Google API and MicroPython.
+* [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
+* [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
 
 #### Bluetooth
 
 * [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
-* [uble](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure python for micropython.
+* [uble](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
 * [MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 * [upyble](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
 
@@ -104,7 +108,7 @@ Other places you can look for MicroPython Libraries:
 * [mpyaes](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
 * [micropython-aes](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 * [ucrypto](https://github.com/dmazzella/ucrypto) - MicroPython package for doing fast elliptic curve cryptography, specifically digital signatures. API design inspired from fastecdsa and implementation based on tomsfastmath.
-* [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for micropython.
+* [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for MicroPython.
 * [embit](https://github.com/diybitcoinhardware/embit) - A minimal bitcoin library for MicroPython and Python3 with a focus on embedded systems.
 * [microotp](https://github.com/gdassori/microotp) - A ESP8266 MicroPython OTP Generator.
 * [micropython-rsa-signing](https://github.com/artem-smotrakov/micropython-rsa-signing) - RSA signing on MicroPython.
@@ -233,7 +237,7 @@ Other places you can look for MicroPython Libraries:
 * [FM_Talkie](https://github.com/Wei1234c/FM_Talkie) - FM Walkie Talkie using RDA5820N.
 * [micropython-TEA5767](https://github.com/alankrantas/micropython-TEA5767) - MicroPython ESP8266/ESP32 driver for TEA5767 FM radio module.
 * [micropython-ppm-decoder](https://github.com/dastultz/micropython-ppm-decoder) - Utility for decoding an R/C receiver PPM frame signal.
-* [ESP32-433Mhz-Receiver-and-Tools](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433Mhz Receiver written in MicroPython and Tools for Windows
+* [ESP32-433Mhz-Receiver-and-Tools](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433Mhz Receiver written in MicroPython and Tools for Windows.
 
 #### REPL
 
@@ -286,7 +290,7 @@ Other places you can look for MicroPython Libraries:
 
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
 * [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
-* [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython.
+* [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 #### Web
 
@@ -389,7 +393,7 @@ Other places you can look for MicroPython Libraries:
 * [gc9a01_mpy](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
 * [st7735-esp8266-micropython](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for st7735 160x80, 128x128, 128x160 TFT LCD displays.
 * [TTGO-ST7789-MicroPython](https://github.com/schumixmd/TTGO-ST7789-MicroPython) - MicroPython ST7789 display driver for TTGO T-Display ESP32 CP2104 WiFi Bluetooth Module 1.14 Inch LCD.
-* [st7735_micropython](https://github.com/cheungbx/st7735_micropython) - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266
+* [st7735_micropython](https://github.com/cheungbx/st7735_micropython) - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.
 
 #### LED Matrix
 
@@ -421,7 +425,7 @@ Other places you can look for MicroPython Libraries:
 * [Official APA102](http://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) - ESP8266 APA102/DotStar RGB LED driver.
 * [Official WS2811](http://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver) - ESP8266 WS2811/NeoPixel RGB LED driver.
 * [tlc5940-micropython](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
-* [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) - An efficient micropython WS2812 (NeoPixel) driver.
+* [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
 * [micropython-ws2801](https://github.com/HeMan/micropython-ws2801) - A MicroPython library to interface with strands of WS2801 RGB LEDs.
 * [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - Driver for the TLC5947 24 channel 12-bit PWM LED driver.
 * [Hybotics_Micropython_HT16K33](https://github.com/hybotics/Hybotics_Micropython_HT16K33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
@@ -440,7 +444,7 @@ Other places you can look for MicroPython Libraries:
 * [SH1106](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
 
-### Printer
+#### Printer
 
 * [micropython-thermal-printer](https://github.com/ayoy/micropython-thermal-printer) - The MicroPython port of Python Thermal Printer by Adafruit.
 
@@ -653,7 +657,7 @@ Other places you can look for MicroPython Libraries:
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
 * [micropython-fusion](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
-* [flight_controller](https://github.com/wagnerc4/flight_controller) - micropython flight controller.
+* [flight_controller](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 * [micropython-bno055](micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 * [micropython-mpu6050-mqtt-streamer](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
 * [upy-motion](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
@@ -661,12 +665,12 @@ Other places you can look for MicroPython Libraries:
 
 #### Pressure
 
-* [ms5803-micropython](https://github.com/minyiky/ms5803-micropython) - A micropython implimentation of the driver for an MS5803 pressure & temperature sensor.
+* [ms5803-micropython](https://github.com/minyiky/ms5803-micropython) - A MicroPython implementation of the driver for an MS5803 pressure & temperature sensor.
 * [MPL3115A2_MicroPython](https://github.com/PinsonJonas/MPL3115A2_MicroPython) - MicroPython library for the MPL3115A2 Altimeter.
 
 #### Proximity
 
-* [uPy_APDS9960](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximitiy library for esp8266 using APDS9960.
+* [uPy_APDS9960](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for esp8266 using APDS9960.
 
 #### Radiation
 
