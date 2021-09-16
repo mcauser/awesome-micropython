@@ -442,6 +442,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-rgbled](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrixes.
 * [micropython_fastled](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
 * [micropython_quickled](https://github.com/thebaron88/micropython_quickled) - MicroPython module which allows python to pump data into the ws2811 leds at full speed.
+* [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
 
 #### OLED
 
