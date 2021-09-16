@@ -789,6 +789,7 @@ Other places you can look for MicroPython Libraries:
 ### SRAM
 
 * [mb_23LC1024](https://github.com/MarksBench/mb_23LC1024) - Very simple MicroPython module to use a Microchip 23LC1024 SPI SRAM with a Raspberry Pi Pico (RP2040).
+* [mb_47x16](https://github.com/MarksBench/mb_47x16) - Very simple MicroPython module/driver for Microchip 47x16 EERAM devices (47L/47C).
 
 ### Threading
 
