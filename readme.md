@@ -266,6 +266,7 @@ Other places you can look for MicroPython Libraries:
 #### Serial
 
 * [mpy-miniterm](https://github.com/jeffmakes/mpy-miniterm) - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.
+* [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - International Morse Code using a micro-controller with MicroPython.
 
 #### Serialization
 
