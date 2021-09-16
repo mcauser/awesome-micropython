@@ -747,6 +747,7 @@ Other places you can look for MicroPython Libraries:
 * [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) - A SHT3x (SHT30/31/35) Lib for esp8266/esp32 with MicroPython.
 * [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 Humidity and Temperature Sensor.
 * [micropython-sht30](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure python based on I2C bus.
+* [micropython_ahtx0](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
 
 #### Temperature IR
 
