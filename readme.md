@@ -663,6 +663,7 @@ Other places you can look for MicroPython Libraries:
 * [CCS811](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - MicroPython I2C driver for SGP40 VOC sensor module.
+* [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 Micropython driver for the Pimoroni mics6814 breakout board.
 
 #### Light
 
