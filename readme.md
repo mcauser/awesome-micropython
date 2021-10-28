@@ -36,7 +36,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Debugging](#debugging)
   * [IDEs](#ides)
   * [Logging](#logging)
-  * [Shells](#Shells)
+  * [Shells](#shells)
 * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
 
@@ -103,6 +103,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-spacecan](https://gitlab.com/alphaaomega/micropython-spacecan) - Spacecan is a MicroPython implementation of the SpaceCAN protocol for embedded systems.
 * [Robomaster-Micropython](https://github.com/JohnieBraaf/Robomaster-Micropython) - Robomaster S1 - MicroPython CAN BUS controller.
 * [micropython-mcp2515](https://github.com/jxltom/micropython-mcp2515) - MicroPython MCP2515 driver, porting from Arduino MCP2515 CAN interface library.
+
+#### Compression
+
+* [ufastlz](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
 
 #### Cryptography
 
@@ -174,7 +178,7 @@ Other places you can look for MicroPython Libraries:
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) - ESP32 using MicroPython meets LoRa and LoRaWAN.
 * [SX127x_driver_for_MicroPython_on_ESP8266](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - SX127x (LoRa transceiver) driver for (Micro)Python on ESP8266/ESP32/Raspberry_Pi.
 * [LightLora_MicroPython](https://github.com/MZachmann/LightLora_MicroPython) - Lightweight Interrupt-driven Semtech SX127x Library for MicroPython.
-* [u-lora](https://github.com/martynwheeler/u-lora) - raspi-lora for MicroPython.
+* [u-lora](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 * [sx127x_esp](https://github.com/azorg/sx127x_esp) - Connect Ra-01 module base on LoRaTM sx127x chip to ESP8266/ESP32 under MicroPython.
 * [nanoserver](https://github.com/gradoj/nanoserver) - MicroPython embedded LoRaWAN server.
 * [micropySX126X](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
@@ -336,7 +340,7 @@ Other places you can look for MicroPython Libraries:
 * [ssd1675a](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675 based E-Paper displays.
 * [Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - MicroPython driver for Inkplate boards.
 * [micropython-inkplate6](https://github.com/tve/micropython-inkplate6) - MicroPython driver for the Inkplate 6.
-* [eInk-micropython](https://github.com/dhallgb/eInk-micropython) - e-Ink library for Waveshare 4.3inch device on MicroPython.
+* [eInk-micropython](https://github.com/dhallgb/eInk-micropython) - E-Ink library for Waveshare 4.3inch device on MicroPython.
 * [eink](https://github.com/chevdor/eink) - E-Ink, E-Paper display driver for MicroPython and ESP32.
 * [micropython_DEPG0213BN](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN E-Ink display found on the TTGO T5 V2.3 ESP32 boards.
 
@@ -506,7 +510,7 @@ Other places you can look for MicroPython Libraries:
 #### Potentiometers
 
 * [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
-* [mcp4131](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer
+* [mcp4131](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
  
 #### Power Management
 
@@ -639,7 +643,7 @@ Other places you can look for MicroPython Libraries:
 * [VL53L0X](https://github.com/uceeatz/VL53L0X) - MicroPython Library for Lidar Sensor VL53L0X.
 * [vl53l1x_pico](https://github.com/drakxtwo/vl53l1x_pico) - MicroPython driver for the vl53l1x ToF sensor.
 * [tf-luna-micropython](https://github.com/davmoz/tf-luna-micropython) - A simple MicroPython i2c library for TF-Luna LiDAR Module.
-*  [vl53l5cx](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
+* [vl53l5cx](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
 
 #### Distance Ultrasonic
 
@@ -664,6 +668,7 @@ Other places you can look for MicroPython Libraries:
 * [CCS811](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - MicroPython I2C driver for SGP40 VOC sensor module.
+* [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 Micropython driver for the Pimoroni mics6814 breakout board.
 
 #### Light
 
@@ -687,7 +692,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
 * [micropython-fusion](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 * [flight_controller](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
-* [micropython-bno055](micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+* [micropython-bno055](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 * [micropython-mpu6050-mqtt-streamer](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
 * [upy-motion](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
 * [micropython-bno08x-rvc](https://github.com/rdagger/micropython-bno08x-rvc) - MicroPython library for bno08x.
@@ -783,6 +788,7 @@ Other places you can look for MicroPython Libraries:
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with mongo shell like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory json-based database for MicroPython.
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
+* [uSQLite](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 #### EEPROM
 
@@ -797,11 +803,11 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-fram](https://github.com/rolandvs/micropython-fram) - Pyboard driver for Ferroelectric RAM module.
 
-### PSRAM
+#### PSRAM
 
 * [mb_PSRAM_64Mb_SPI](https://github.com/MarksBench/mb_PSRAM_64Mb_SPI) - Very simple MicroPython module to use a generic 64Mbit PSRAM (ie Adafruit 4677) with a Raspberry Pi Pico (RP2040).
 
-### SRAM
+#### SRAM
 
 * [mb_23LC1024](https://github.com/MarksBench/mb_23LC1024) - Very simple MicroPython module to use a Microchip 23LC1024 SPI SRAM with a Raspberry Pi Pico (RP2040).
 * [mb_47x16](https://github.com/MarksBench/mb_47x16) - Very simple MicroPython module/driver for Microchip 47x16 EERAM devices (47L/47C).
