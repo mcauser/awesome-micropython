@@ -28,6 +28,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Threading](#threading)
   * [User Interface](#user-interface)
 * [Community](#community)
+* [Tutorials](#tutorials)
 * [Books](#books)
 * [Frameworks](#frameworks)
 * [Resources](#resources)
@@ -59,6 +60,8 @@ Other places you can look for MicroPython Libraries:
 * [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
 * [micropython-ulab](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for MicroPython.
 * [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
+* [Filters](https://github.com/peterhinch/micropython-filters) FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph
+of required frequency response to a filter implementation.
 * [ulinalg](https://github.com/jalawson/ulinalg) - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python3).
 * [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 * [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
@@ -143,6 +146,7 @@ Other places you can look for MicroPython Libraries:
 * [micropyGPS](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 * [micropython-gnssl76l](https://github.com/tuupola/micropython-gnssl76l) - MicroPython I2C driver for Quectel GNSS L76-L (GPS).
 * [mpy-agps](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
+* [Asynchronous GPS driver](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) Receive and parse GPS data as a uasyncio task.
 
 #### GSM
 
@@ -157,7 +161,7 @@ Other places you can look for MicroPython Libraries:
 * [uPyEcho](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
 * [SonosRemote](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - MicroPython based scripts to extend you home assistant driven home automation projects.
-* [micropython-iot](https://github.com/peterhinch/micropython-iot) - An approach to designing IOT applications using ESP8266/Pyboard D endpoints.
+* [micropython-iot](https://github.com/peterhinch/micropython-iot) - An approach to designing IOT applications using ESP8266, ESP32 or Pyboard D endpoints.
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
 * [SmartUPy](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
 * [aws-iot-GET-POST-loop](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS-IOT REST API to GET/POST device state info.
@@ -272,6 +276,7 @@ Other places you can look for MicroPython Libraries:
 
 * [mpy-miniterm](https://github.com/jeffmakes/mpy-miniterm) - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.
 * [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - International Morse Code using a micro-controller with MicroPython.
+* [I2C Slave](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.  
 
 #### Serialization
 
@@ -333,7 +338,6 @@ Other places you can look for MicroPython Libraries:
 
 #### E-Paper
 
-* [micropython-epaper](https://github.com/peterhinch/micropython-epaper) - Pyboard driver for Embedded Artists 2.7 inch e-paper display.
 * [micropython-ili9341](https://github.com/mcauser/deshipu-micropython-ili9341) - SSD1606 active matrix epaper display 128x180.
 * [micropython-waveshare-epaper](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare e-paper modules.
 * [micropython-waveshare-epd](https://github.com/ayoy/micropython-waveshare-epd) - Waveshare E-Paper Display driver for devices running Pycom-flavored MicroPython.
@@ -347,6 +351,7 @@ Other places you can look for MicroPython Libraries:
 #### Fonts
 
 * [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
+* [writer](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
 * [ssd1306big](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel ssd1306 oled display.
 
 #### Graphics
@@ -362,7 +367,10 @@ Other places you can look for MicroPython Libraries:
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch driven event based GUI for the Pyboard and LCD160CR colour display.
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - Nano-Gui provides a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. Which includes LCD and OLED displays.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. With drivers for TFT, ePaper and OLED displays.
+* [micro-gui](https://github.com/peterhinch/micropython-micro-gui) Derived from nano-gui and supporting the same displays and hosts, this provides for user
+input via pushbuttons or a navigation joystick and an optional rotary encoder.
+* [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.  
 
 #### LCD Character
 
@@ -529,6 +537,8 @@ Other places you can look for MicroPython Libraries:
 * [encoderLib](https://github.com/BramRausch/encoderLib) - MicroPython library to handle a rotary encoder.
 * [rotary-encoder](https://github.com/gurgleapps/rotary-encoder) - MicroPython code to drive a KY-040 rotary encoder.
 * [micropython-encoder-knob](https://github.com/infinite-tree/micropython-encoder-knob) - A very simple lightweight encoder knob library with button support.
+* [encoders](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) Short document explaining issues around encoder technology.
+* [asynchronous encoder driver](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) Interface an encoder to uasyncio code.
 
 #### Shift Registers
 
@@ -751,6 +761,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-lm75a](https://github.com/mcauser/micropython-lm75a) - Driver for the NXP LM75A digital temperature sensor.
 * [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
 * [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266) - This is a MicroPython module / class to measure data from the htu21d.
+* [HTU21D](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) Asynchronous driver for this temperature and humidity sensor.
 * [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) - A SHT3x (SHT30/31/35) Lib for esp8266/esp32 with MicroPython.
 * [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 Humidity and Temperature Sensor.
 * [micropython-sht30](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure python based on I2C bus.
@@ -775,7 +786,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known CRON program for Unix systems.
-* [Micropython-scheduler](https://github.com/danicampora/Micropython-scheduler) - A set of libraries for writing threaded code on the MicroPython board.
+* [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) A scheduler for uasyncio based applications. Schedule events at specified times and dates.
 
 ### Storage
 
@@ -792,12 +803,12 @@ Other places you can look for MicroPython Libraries:
 
 #### EEPROM
 
-* [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - MicroPython device drivers for nonvolatile memory chips (EEPROM, FRAM, Flash).
+* [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - Cross platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
 * [mb_24x256_512](https://github.com/MarksBench/mb_24x256_512) - Very simple MicroPython module/driver for Microchip 24x256 and 24x512 I2C EEPROM devices.
 
 #### Flash
 
-* [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - A Python3 utility to convert an arbitrary binary file to Python source for storage in Flash.
+* [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - A Python3 utility to convert an arbitrary binary file to Python source for freezing as bytecoe in Flash.
 
 #### FRAM
 
@@ -819,7 +830,6 @@ Other places you can look for MicroPython Libraries:
 ### User Interface
 
 * [upymenu](https://github.com/jplattel/upymenu) - MicroPython Menu for LCD Displays.
-* [micropython-micro-gui](https://github.com/peterhinch/micropython-micro-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons.
 
 ## Community
 
@@ -829,6 +839,13 @@ Other places you can look for MicroPython Libraries:
 * [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) - Regular meetup at CCHS in Melbourne, Australia.
 * [Slack](https://slack-micropython.herokuapp.com/) - Get an automated invite to the micropython.slack.com workspace.
 * [Discord](https://discord.gg/qw7d8bv) - Get an invite to the MicroPython Discord server.
+
+## Tutorials
+
+* [uasyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) Write asynchronous code which interfaces to hardware devices.
+* [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
+* [Pyboard micropower](https://github.com/peterhinch/micropython-micropower) Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
+* [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) Tutorial and code for the easy way to do 3D rotation.
 
 ## Books
 
@@ -870,8 +887,9 @@ Other places you can look for MicroPython Libraries:
 ### Debugging
 
 * [esp32-backtrace](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
-* [micropython-aiosentry](https://github.com/devbis/micropython-aiosentry) - Asyncronous Sentry.io micro client for MicroPython.
+* [micropython-aiosentry](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
 * [micropython-usyslog](https://github.com/kfricke/micropython-usyslog) - Simple remote syslog client for MicroPython.
+* [Asynchronous monitor](https://github.com/peterhinch/micropython-monitor) Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
 
 ### IDEs
 
