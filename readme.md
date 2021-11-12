@@ -807,7 +807,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 
 #### Flash
 
-* [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - A Python3 utility to convert an arbitrary binary file to Python source for freezing as bytecoe in Flash.
+* [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - A Python3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
 
 #### FRAM
 
