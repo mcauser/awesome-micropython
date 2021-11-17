@@ -468,6 +468,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [Official SSD1306](https://github.com/micropython/micropython/tree/master/drivers/display) - Driver for SSD1306 128x64 OLED displays.
 * [SH1106](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
+* [sh1107-micropython](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64 x 128).
 
 #### Printer
 
