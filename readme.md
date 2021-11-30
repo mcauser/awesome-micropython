@@ -919,7 +919,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [ampy](https://github.com/scientifichackers/ampy) - MicroPython Tool - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy.
 * [mpsync](https://github.com/Uhlo/mpsync) - A small tool that synchronizes a folder to a MicroPython board whenever it detects a change.
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) Powerful official shell supports mounting the host's current direcory on the target. Run code without changing the target's filesystem.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) Powerful official shell supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
 ## Miscellaneous
 
