@@ -176,6 +176,7 @@ of required frequency response to a filter implementation.
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by websocket.
 * [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython esp32 IR Transceiver.
+* [pico-ir](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pico
 
 #### LoRaWAN
 
