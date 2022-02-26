@@ -205,6 +205,7 @@ of required frequency response to a filter implementation.
 * [micropython-modbus](https://gitlab.com/extel-open-source/micropython-modbus) - MicroPython port of modbus-tk.
 * [micropython-modbus](https://github.com/techbase123/micropython-modbus) - Modbus Master library for MicroPython ESP32 devices. Based on pycom-modbus from pycom.
 * [mp_modbus](https://github.com/eydam-prototyping/mp_modbus) - Modbus Lib for MicroPython.
+* [micropython-modbus](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from pycom.
 
 #### MQTT
 
