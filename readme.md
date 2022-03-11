@@ -205,6 +205,7 @@ of required frequency response to a filter implementation.
 * [micropython-modbus](https://gitlab.com/extel-open-source/micropython-modbus) - MicroPython port of modbus-tk.
 * [micropython-modbus](https://github.com/techbase123/micropython-modbus) - Modbus Master library for MicroPython ESP32 devices. Based on pycom-modbus from pycom.
 * [mp_modbus](https://github.com/eydam-prototyping/mp_modbus) - Modbus Lib for MicroPython.
+* [micropython-modbus](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from pycom.
 
 #### MQTT
 
@@ -285,7 +286,7 @@ of required frequency response to a filter implementation.
 
 * [mpy-miniterm](https://github.com/jeffmakes/mpy-miniterm) - Tool for seamless serial debug and file synchronisation with MicroPython devices via the serial REPL.
 * [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - International Morse Code using a micro-controller with MicroPython.
-* [I2C Slave](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.  
+* [I2C Slave](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
 
 #### Serialization
 
@@ -318,6 +319,7 @@ of required frequency response to a filter implementation.
 * [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
 * [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
 * [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+* [Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
 
 #### Web
 
@@ -379,7 +381,7 @@ of required frequency response to a filter implementation.
 * [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. With drivers for TFT, ePaper and OLED displays.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) Derived from nano-gui and supporting the same displays and hosts, this provides for user
 input via pushbuttons or a navigation joystick and an optional rotary encoder.
-* [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.  
+* [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 
 #### LCD Character
 
@@ -529,7 +531,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 
 * [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
 * [mcp4131](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
- 
+
 #### Power Management
 
 * [AXP202_PythonLibrary](https://github.com/lewisxhe/AXP202_PythonLibrary) - MicroPython AXP202 Library.
@@ -820,6 +822,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 #### Flash
 
 * [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - A Python3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
+* [micropython-winbond](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
 #### FRAM
 
