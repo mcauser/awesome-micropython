@@ -225,6 +225,7 @@ of required frequency response to a filter implementation.
 #### NFC
 
 * [micropython-nfc](https://github.com/rolandvs/micropython-nfc) - Using NFC with MicroPython.
+* [micropython_pn532](https://github.com/luiz-brandao/micropython_pn532) - Driver for PN532 NFC/RFID breakout boards based on Adafruit CircuitPython (UART).
 * [NFC_PN532_SPI](https://github.com/Carglglz/NFC_PN532_SPI) - Partial Port of Adafruit CircuitPython to MicroPython of PN532 NFC/RFID control library (SPI).
 
 #### NTP
