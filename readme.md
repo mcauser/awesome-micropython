@@ -50,6 +50,7 @@ Other places you can look for MicroPython Libraries:
 * [GitHub Topic - MicroPython](https://github.com/topics/micropython) - Browse GitHub Topics for projects tagged with MicroPython.
 * [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io query for MicroPython.
 * [GitLab Explore](https://gitlab.com/explore?sort=latest_activity_desc&utf8=%E2%9C%93&name=micropython&sort=latest_activity_desc) - Explore repositories on GitLab.
+* [Codeberg Explore](https://codeberg.org/explore/repos?tab=&sort=recentupdate&q=micropython) - Explore repositories on Codeberg.
 
 ### AI
 
