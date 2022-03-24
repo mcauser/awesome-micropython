@@ -855,6 +855,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [Slack](https://slack-micropython.herokuapp.com/) - Get an automated invite to the micropython.slack.com workspace.
 * [Discord](https://discord.gg/qw7d8bv) - Get an invite to the MicroPython Discord server.
 * [MicroPython French-speaking Community](https://micropython.fr/) - MicroPython en français 🇫🇷
+  * [MicroPython French-speaking Forum](https://forum.mchobby.be/viewforum.php?f=14) - hosted by MCHobby
 
 ## Tutorials
 
