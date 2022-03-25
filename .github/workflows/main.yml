@@ -17,3 +17,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           CUSTOM_DOMAIN: awesome-micropython.com
+
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - master
+      
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
