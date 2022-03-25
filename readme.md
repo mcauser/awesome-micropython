@@ -1,12 +1,7 @@
 <p align="center">
   <a href="https://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/docs/img/logo.svg"></a>
 </p>
-<p align="center">
-  <a href="https://awesome.re">
-    <img alt="Awesome" src="https://awesome.re/badge-flat.svg">
-  </a>
-</p>
-<hr>
+
 
 A curated list of awesome MicroPython libraries, frameworks, software and resources.
 
@@ -45,8 +40,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 Other places you can look for MicroPython Libraries:
 
-* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot pip install micropython libraries. See [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip) for more information on upip.
-* [GitHub Search](https://github.com/search?q=micropython) - Search GitHub for repositories containing MicroPython.
+* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython/) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot pip install micropython libraries. See [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip) for more information on upip.
+* [GitHub Search](https://github.com/search?q=micropython/) - Search GitHub for repositories containing MicroPython.
 * [GitHub Topic - MicroPython](https://github.com/topics/micropython) - Browse GitHub Topics for projects tagged with MicroPython.
 * [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io query for MicroPython.
 * [GitLab Explore](https://gitlab.com/explore?sort=latest_activity_desc&utf8=%E2%9C%93&name=micropython&sort=latest_activity_desc) - Explore repositories on GitLab.
@@ -66,7 +61,7 @@ of required frequency response to a filter implementation.
 * [ulinalg](https://github.com/jalawson/ulinalg) - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python3).
 * [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 * [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
-* [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
+* * [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
 
 ### Audio
 
