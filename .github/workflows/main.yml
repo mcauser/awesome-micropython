@@ -19,7 +19,6 @@ jobs:
           CUSTOM_DOMAIN: awesome-micropython.com
 
 name: CI
-
 on:
   pull_request:
     branches:
