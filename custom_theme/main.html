@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+<!-- Extrahead -->
+<!-- insert social sharing meta tags -->
+{% block extrahead %}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  {% if page and page.meta and page.meta.title %}
+    <meta property="og:title" content="{{ page.meta.title }}">
+  {% elif page and page.title and not page.is_homepage %}
+    <meta property="og:title" content="{{ page.title }} - {{ config.site_name }}">
+  {% else %}
+    <meta property="og:title" content="{{ config.site_name }}">
+  {% endif %}
+  <meta property="og:description" content="{{ config.site_description }}">
+  <meta property="og:image" content="{{ page.canonical_url }}img/logo.jpg">
+  <meta property="og:image:alt" content="Awesome MicroPython logo">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="800">
+  <meta property="og:image:height" content="445">
+
+{% endblock %}
