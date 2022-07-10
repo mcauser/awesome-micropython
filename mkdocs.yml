@@ -22,7 +22,11 @@ extra:
     property: UA-1390021-18
 plugins:
   - search
-  - minify
   - awesome-pages
+  - minify:
+      minify_html: true
+      htmlmin_opts:
+          remove_comments: true
+          remove_optional_attribute_quotes: false
 nav:
   - "Awesome MicroPython": "index.md"
