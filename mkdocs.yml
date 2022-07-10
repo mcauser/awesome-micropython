@@ -13,11 +13,13 @@ theme:
   palette:
     primary: teal
     accent: teal
+  custom_dir: custom_theme/
 extra_css:
   - css/extra.css
-google_analytics:
-  - UA-1390021-18
-  - awesome-micropython.com
+extra:
+  analytics:
+    provider: google
+    property: UA-1390021-18
 plugins:
   - search
   - minify
