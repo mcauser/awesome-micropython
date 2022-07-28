@@ -21,6 +21,7 @@ extra:
     provider: google
     property: UA-1390021-18
 plugins:
+  - include-markdown
   - search
   - awesome-pages
   - minify:

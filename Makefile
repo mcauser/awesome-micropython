@@ -6,15 +6,11 @@ install:
 	pip install mkdocs-minify-plugin
 	pip install mkdocs-awesome-pages-plugin
 	pip install mkdocs-material
-
-link:
-	ln -sf $(BASEDIR)/README.md $(DOCDIR)/index.md
+	pip install mkdocs-include-markdown-plugin
 
 serve:
-	$(MAKE) link
 	mkdocs serve
 
 deploy:
 	$(MAKE) link
 	mkdocs gh-deploy --clean
-
