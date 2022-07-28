@@ -10,10 +10,24 @@ theme:
   language: en
   logo: img/logo_nav.svg
   favicon: img/favicon.ico
-  palette:
-    primary: teal
-    accent: teal
   custom_dir: custom_theme/
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 extra_css:
   - css/extra.css
 extra:

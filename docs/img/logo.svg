@@ -5,7 +5,7 @@
 <clipPath id="clip">
 	<use xlink:href="#box" overflow="visible" />
 </clipPath>
-<g clip-path="url(#clip)" fill="none" stroke="#EEEEEE" stroke-miterlimit="10">
+<g clip-path="url(#clip)" fill="none" stroke="#000000" opacity="0.1" stroke-miterlimit="10">
 	<g id="backslash">
 		<line x1="-26.314" y1="-495" x2="926.314" y2="55"/>
 		<line x1="-26.314" y1="-455" x2="926.314" y2="95"/>
