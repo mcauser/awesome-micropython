@@ -3,6 +3,11 @@ main.md-main .md-content article h1:first-of-type {
   display: none;
 }
 
+/* put it back if it's the lonely 404 h1 all by himself */
+main.md-main .md-content article h1:only-child {
+  display: block;
+}
+
 /* remove contents - not needed in main if also in sidebar */
 h2#contents,
 h2#contents + ul,
