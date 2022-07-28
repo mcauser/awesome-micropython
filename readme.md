@@ -866,6 +866,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [Pyboard micropower](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
+* [Bhavesh Kakwani](https://bhave.sh/) - Bi-weekly MicroPython video + written tutorials.
 
 ## Books
 
