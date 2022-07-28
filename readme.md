@@ -384,6 +384,7 @@ of required frequency response to a filter implementation.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) Derived from nano-gui and supporting the same displays and hosts, this provides for user
 input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
+* [micropython-nextion](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 #### LCD Character
 
