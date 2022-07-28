@@ -99,7 +99,7 @@ of required frequency response to a filter implementation.
 
 #### Authentication
 
-* [micropython-firebase-auth](https://github.com/WoolDoughnut310/micropython-firebase-auth) - Firebase Auth implementation for Micropython.
+* [micropython-firebase-auth](https://github.com/WoolDoughnut310/micropython-firebase-auth) - Firebase Auth implementation for MicroPython.
 
 #### Bluetooth
 
@@ -695,7 +695,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [CCS811](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - MicroPython I2C driver for SGP40 VOC sensor module.
-* [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 Micropython driver for the Pimoroni mics6814 breakout board.
+* [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 MicroPython driver for the Pimoroni mics6814 breakout board.
 
 #### Light
 
@@ -816,7 +816,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with mongo shell like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory json-based database for MicroPython.
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
-* [micropython-firebase-firestore](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for Micropython.
+* [micropython-firebase-firestore](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
 * [uSQLite](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 #### EEPROM
