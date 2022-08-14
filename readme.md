@@ -868,6 +868,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
 * [Bhavesh Kakwani](https://bhave.sh/) - Bi-weekly MicroPython video + written tutorials.
+* [CoderDojo Twin Cities MicroPython](https://www.coderdojotc.org/micropython/) - Full coding curriculum for teaching MicroPython to children.
 
 ## Books
 
