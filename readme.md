@@ -786,6 +786,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 Humidity and Temperature Sensor.
 * [micropython-sht30](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure python based on I2C bus.
 * [micropython_ahtx0](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
+* [sht85](https://github.com/octaprog7/sht85) - MicroPython driver for the [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) humidity and temperature sensor.
 
 #### Temperature IR
 
