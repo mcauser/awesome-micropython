@@ -807,7 +807,8 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known CRON program for Unix systems.
-* [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+* [Schedule](https://github.com/peterhinch/micropython-async/blob/m Aaster/v3/docs/SCHEDULE.md) A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+* [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) A persistent uasyncio scheduler that supports deepsleep between task runs.  
 
 ### Storage
 
