@@ -891,6 +891,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [micrOS](https://github.com/BxNxM/micrOS) - MicroPython based IoT Framework.
 * [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 * [perthensis](https://codeberg.org/scy/perthensis) - Perthensis: an asynchronous framework for MicroPython.
+* [meerkat](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 
 ## Resources
 
