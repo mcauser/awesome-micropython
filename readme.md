@@ -344,6 +344,7 @@ of required frequency response to a filter implementation.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - A micro HTTP Web client for MicroPython (used on Pycom modules & ESP32).
 * [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a webserver to configure wifi networks.
 * [micropython-aioweb](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
+* [thimble](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
 
 #### Zigbee
 
