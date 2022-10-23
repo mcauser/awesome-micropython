@@ -809,7 +809,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known CRON program for Unix systems.
 * [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) A scheduler for uasyncio based applications. Schedule events at specified times and dates.
-* [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) A persistent uasyncio scheduler that supports deepsleep between task runs.  
+* [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) A persistent uasyncio scheduler that supports deepsleep between task runs.
 
 ### Storage
 
@@ -913,6 +913,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 * [micropython-extmod-generator](https://github.com/prusnak/micropython-extmod-generator) - Generator for MicroPython external modules written in C.
+* [micropython-package-template](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
 
 ### Debugging
 
