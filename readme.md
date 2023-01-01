@@ -60,7 +60,7 @@ Other places you can look for MicroPython Libraries:
 ### Analytics
 
 * [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
-* [micropython-ulab](https://github.com/v923z/micropython-ulab) - A Numpy-like fast vector module for MicroPython.
+* [micropython-ulab](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 * [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
 * [Filters](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph
 of required frequency response to a filter implementation.
@@ -103,7 +103,7 @@ of required frequency response to a filter implementation.
 
 #### Bluetooth
 
-* [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adaptor example application.
+* [PyBoard-HC05-Android](https://github.com/KipCrossing/PyBoard-HC05-Android) - Pyboard HC05 Bluetooth adapter example application.
 * [uble](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
 * [MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 * [upyble](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
@@ -143,7 +143,7 @@ of required frequency response to a filter implementation.
 
 * [Official WIZnet5k](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
 * [micropy-ENC28J60](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
-* [RP2040 Ethernet example](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example ython code and YouTube.
+* [RP2040 Ethernet example](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example Python code and YouTube.
 
 #### FTP
 
@@ -175,7 +175,7 @@ of required frequency response to a filter implementation.
 * [micropython-iot](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
 * [SmartUPy](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
-* [aws-iot-GET-POST-loop](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS-IOT REST API to GET/POST device state info.
+* [aws-iot-GET-POST-loop](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS IoT REST API to GET/POST device state info.
 * [sensor-mqtt-homeassistant](https://github.com/DougWilkinson/sensor-mqtt-homeassistant) - An ESP8266/ESP32 MicroPython-based sensor platform for GPIO, DHT, analog, LED and more. Includes remote updates for .py code from web server and MQTT/Home Assistant integration.
 
 #### IR
@@ -207,17 +207,17 @@ of required frequency response to a filter implementation.
 
 * [micropython-modbus](https://gitlab.com/extel-open-source/micropython-modbus) - MicroPython port of modbus-tk.
 * [micropython-modbus](https://github.com/techbase123/micropython-modbus) - Modbus Master library for MicroPython ESP32 devices. Based on pycom-modbus from Pycom.
-* [mp_modbus](https://github.com/eydam-prototyping/mp_modbus) - Modbus libtrar for MicroPython.
+* [mp_modbus](https://github.com/eydam-prototyping/mp_modbus) - Modbus library for MicroPython.
 * [micropython-modbus](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
 
 #### MQTT
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
 * [MQBoard](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
-* [pysmartnode](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smarthome framework.
+* [pysmartnode](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smart Home framework.
 * [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 * [sonoff-mqtt by davea](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
-* [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) - Implements a MQTT controllable switch for the iTead Sonoff Switch using MicroPython.
+* [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) - Implements an MQTT-controllable switch for the iTead Sonoff Switch using MicroPython.
 * [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 * [uMQTT](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
 * [micropython-mqtt](https://github.com/chrismoorhouse/micropython-mqtt) - Async MQTT library with auto reconnect for MicroPython devices such as the ESP32 or Pycom devices.
@@ -257,7 +257,7 @@ of required frequency response to a filter implementation.
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
 * [micropython-rfsocket](https://github.com/wuub/micropython-rfsocket) - MicroPython implementation of popular 433MHz-based RFSockets.
-* [Official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4Hz radio modules.
+* [Official nRF24L01](https://github.com/micropython/micropython/tree/master/drivers/nrf24l01) - Official driver for nRF24L01 2.4GHz radio modules.
 * [micropython_remote](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 * [micropython-ys-rf34t](https://github.com/mcauser/micropython-ys-rf34t) - MicroPython examples using YS-RF34T 433MHz ASK/OOK UART transceivers.
 * [FM_Talkie](https://github.com/Wei1234c/FM_Talkie) - FM Walkie Talkie using RDA5820N.
