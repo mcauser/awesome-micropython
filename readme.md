@@ -59,7 +59,7 @@ Other places you can look for MicroPython Libraries:
 
 ### Analytics
 
-* [uMath](https://github.com/AaronKel/uMath) - Computer Algebra for microcontrollers.
+* [uMath](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
 * [micropython-ulab](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 * [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - Fast Fourier transform in MicroPython's inline ARM assembler.
 * [Filters](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph
@@ -92,7 +92,7 @@ of required frequency response to a filter implementation.
 * [micropython-youtube-api](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 * [micropython_esp8266_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
-* [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
+* [micropython-thingspeak](https://github.com/miketeachman/micropython-mqtt-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
 * [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
 * [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
 * [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
@@ -358,7 +358,7 @@ of required frequency response to a filter implementation.
 * [micropython-waveshare-epaper](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
 * [micropython-waveshare-epd](https://github.com/ayoy/micropython-waveshare-epd) - Waveshare ePaper Display driver for devices running Pycom-flavored MicroPython.
 * [ssd1675a](https://github.com/mattytrentini/ssd1675a) - Driver for SSD1675-based e-paper displays.
-* [Inkplate-micropython](https://github.com/e-radionicacom/Inkplate-micropython) - MicroPython driver for Inkplate boards.
+* [Inkplate-micropython](https://github.com/SolderedElectronics/Inkplate-micropython) - MicroPython driver for Inkplate boards.
 * [micropython-inkplate6](https://github.com/tve/micropython-inkplate6) - MicroPython driver for the Inkplate 6.
 * [eInk-micropython](https://github.com/dhallgb/eInk-micropython) - eInk library for Waveshare 4.3inch device on MicroPython.
 * [eink](https://github.com/chevdor/eink) - An eInk, ePaper display driver for MicroPython and ESP32.
@@ -470,7 +470,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
 * [micropython-ws2801](https://github.com/HeMan/micropython-ws2801) - A MicroPython library to interface with strands of WS2801 RGB LEDs.
 * [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - Driver for the TLC5947 24 channel 12-bit PWM LED driver.
-* [Hybotics_Micropython_HT16K33](https://github.com/hybotics/Hybotics_Micropython_HT16K33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
+* [Hybotics_Micropython_HT16K33](https://github.com/hybotics/micropython-ht16k33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
 * [micropython-rgbled](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrixes.
 * [micropython_fastled](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
 * [micropython_quickled](https://github.com/thebaron88/micropython_quickled) - MicroPython module which allows Python to pump data into the WS2811 LEDs at full speed.
@@ -861,8 +861,8 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 * [MicroPython Discussions on GitHub](https://github.com/orgs/micropython/discussions) - GitHub discussions for all things related to MicroPython.
 * [MicroPython Forum (archive)](https://forum.micropython.org/) - Archived community conversations on all things related to MicroPython.
-* [Discord](https://discord.gg/qw7d8bv) - Get an invite to the MicroPython Discord server.
-* [MicroPython on Twitter](https://twitter.com/micropython?lang=en) - Follow MicroPython on Twitter for latest news and updates.
+* [Discord](https://discord.com/invite/qw7d8bv) - Get an invite to the MicroPython Discord server.
+* [MicroPython on Twitter](https://twitter.com/micropython) - Follow MicroPython on Twitter for latest news and updates.
 * [MicroPython on Facebook](https://www.facebook.com/micropython) - Like MicroPython on Facebook for competitions, news and updates.
 * [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) - Regular meetup at CCHS in Melbourne, Australia.
 
@@ -878,7 +878,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](https://shop.oreilly.com/product/0636920056515.do) - By Nicholas H. Tollervey. ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](https://www.oreilly.com/library/view/programming-with-micropython/9781491972724/) - By Nicholas H. Tollervey. ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://link.springer.com/book/10.1007/978-1-4842-3123-4) - By Charles Bell. ISBN 9781484231227.
 * [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2) - By Charles Bell. ISBN 9781484281345.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook) - By Marwan Alsabbagh. ISBN 9781838649951.
@@ -901,7 +901,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython on GitHub](https://github.com/micropython/micropython) - Submit bug reports, follow and join in development on GitHub.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
-* [MicroPython Wiki](https://wiki.micropython.org/) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [MicroPython Newsletter](https://micropython.org/newsletter) - Subscribe to the MicroPython newsletter for news and announcements including new features and new products.
 * [MicroPython Store](https://store.micropython.org/) - Where you can buy the Pyboard, housings, skins, books, connectors and peripherals.
 * [MicroPython on Wikipedia](https://en.wikipedia.org/wiki/MicroPython) - MicroPython on Wikipedia.
@@ -926,7 +926,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 ### IDEs
 
-* [BIPES](https://bipes.net.br/beta2/ui/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: [https://github.com/BIPES](https://github.com/BIPES).
+* [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: [https://github.com/BIPES](https://github.com/BIPES).
 * [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 * [MicroPython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for Visual Studio Code.
 * [MicroPython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
@@ -936,7 +936,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 ### Logging
 
-* [micropython-ulogger](https://github.com/Li-Lian1069/micropython-ulogger) - Lightweight log module customized for MicroPython.
+* [micropython-ulogger](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 
 ### Shells
 
@@ -949,9 +949,9 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 * [rshell](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
-* [mpbridge](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronise and manage files on a MicroPython running device.
+* [mpbridge](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 * [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
-* [mpsync](https://github.com/Uhlo/mpsync) - A small tool that synchronizes a folder to a MicroPython board whenever it detects a change.
+* [mpsync](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
 ## Miscellaneous
