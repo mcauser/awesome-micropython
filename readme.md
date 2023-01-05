@@ -12,6 +12,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 
+Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md). I will keep some Pull Requests open if I'm not sure whether those libraries are awesome; you could vote for those Pull Requests by adding a 👍 reaction to them.
+
 ## Contents
 
 * [Libraries](#libraries)
@@ -39,7 +41,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Logging](#logging)
   * [Shells](#shells)
 * [Miscellaneous](#miscellaneous)
-* [Contributing](#contributing)
 
 ## Libraries
 
@@ -958,9 +959,3 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 * [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 backers pledged £97,803 to help bring this project to life.
 * [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 backers pledged £28,534 to help bring this project to life.
-
-## Contributing
-
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) first.
-
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
