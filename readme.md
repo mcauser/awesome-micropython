@@ -92,7 +92,7 @@ of required frequency response to a filter implementation.
 * [micropython-youtube-api](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 * [micropython_esp8266_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
-* [micropython-thingspeak](https://github.com/miketeachman/micropython-mqtt-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
+* [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
 * [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
 * [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
 * [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
