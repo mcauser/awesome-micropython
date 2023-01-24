@@ -1,0 +1,26 @@
+name: Check Links
+
+on:
+  push:
+    branches: '*'
+  pull_request:
+    branches:
+      - master
+  schedule:
+    # Runs every day at 9 am
+    - cron: '0 9 * * *'
+
+jobs:
+  awesome_bot:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Install awesome_bot
+      run: gem install awesome_bot
+    - name: Load allow list to an env var to call in the next step
+      run: echo "BOT_ALLOW_LIST=$(cat .github/workflows/allow-list.txt)" >> $GITHUB_ENV
+    - name: Run awesome_bot
+      run: awesome_bot readme.md --allow-redirect --allow-dupe --set-timeout 60 --skip-save-results --allow 429 --white-list ${{ env.BOT_ALLOW_LIST }}
