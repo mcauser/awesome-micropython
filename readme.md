@@ -75,6 +75,7 @@ of required frequency response to a filter implementation.
 * [KT403A-MP3](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
+* [micropython-dfplayer](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini mp3 player module.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
 * [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A MIDI implementation example for MicroPython.
@@ -285,6 +286,10 @@ of required frequency response to a filter implementation.
 * [micropython-mcp7940](https://github.com/mattytrentini/micropython-mcp7940) - Driver for the Microchip MCP7940 RTC.
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 * [DS3231micro](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
+
+#### RC receiver
+
+* [micropython-ppm_reader](https://github.com/redoxcode/micropython-ppm_reader) - Library to decode PPM signals coming from a RC receiver
 
 #### Serial
 
@@ -580,10 +585,12 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 #### Servo
 
+* [micropython-servo](https://github.com/redoxcode/micropython-servo) - Library to control rc servos using direct PWM output in a tidy way.
 * [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
 
 #### Stepper
 
+* [micropython-stepper](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 * [micropython-upybbot](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 * [uln2003](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors.
 * [micropython-multiaxis](https://gitlab.com/olivierlenoir/micropython-multiaxis) - Multiaxis with MicroPython ESP32 and DRV8825.
