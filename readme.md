@@ -74,7 +74,7 @@ of required frequency response to a filter implementation.
 * [micropython-jq6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
 * [KT403A-MP3](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
-* [micropython-dfplayer](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini mp3 player module.
+* [micropython-dfplayer](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
@@ -268,7 +268,7 @@ of required frequency response to a filter implementation.
 
 #### RC receiver
 
-* [micropython-ppm_reader](https://github.com/redoxcode/micropython-ppm_reader) - Library to decode PPM signals coming from a RC receiver
+* [micropython-ppm_reader](https://github.com/redoxcode/micropython-ppm_reader) - Library to decode PPM signals coming from a RC receiver.
 
 #### REPL
 
@@ -586,7 +586,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 #### Servo
 
 * [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
-* [micropython-servo](https://github.com/redoxcode/micropython-servo) - Library to control rc servos using direct PWM output in a tidy way.
+* [micropython-servo](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 #### Stepper
 
