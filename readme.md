@@ -582,6 +582,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 #### Servo
 
 * [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
+* [micropython-servo](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 #### Stepper
 
