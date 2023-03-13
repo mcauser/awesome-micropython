@@ -265,6 +265,10 @@ of required frequency response to a filter implementation.
 * [micropython-ppm-decoder](https://github.com/dastultz/micropython-ppm-decoder) - Utility for decoding an R/C receiver PPM frame signal.
 * [ESP32-433Mhz-Receiver-and-Tools](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
 
+#### RC receiver
+
+* [micropython-ppm_reader](https://github.com/redoxcode/micropython-ppm_reader) - Library to decode PPM signals coming from a RC receiver.
+
 #### REPL
 
 * [webrepl](https://micropython.org/webrepl) - MicroPython WebREPL.
