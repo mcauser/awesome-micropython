@@ -585,6 +585,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 #### Stepper
 
+* [micropython-stepper](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 * [micropython-upybbot](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 * [uln2003](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors.
 * [micropython-multiaxis](https://gitlab.com/olivierlenoir/micropython-multiaxis) - Multiaxis with MicroPython ESP32 and DRV8825.
