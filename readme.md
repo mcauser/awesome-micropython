@@ -839,6 +839,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 
 * [micropython_eeprom](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
 * [mb_24x256_512](https://github.com/MarksBench/mb_24x256_512) - Very simple MicroPython module/driver for Microchip 24x256 and 24x512 I2C EEPROM devices.
+* [micropython-eeprom](https://github.com/brainelectronics/micropython-eeprom) - MicroPython driver for AT24Cxx EEPROM.
 
 #### Flash
 
