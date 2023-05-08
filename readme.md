@@ -39,6 +39,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Logging](#logging)
   * [Shells](#shells)
 * [Miscellaneous](#miscellaneous)
+* [Contributing](#contributing)
 
 ## Libraries
 
@@ -123,7 +124,7 @@ of required frequency response to a filter implementation.
 
 #### Cryptography
 
-* [ucryptography](https://github.com/dmazzella/ucryptography) - Lightweight porting of pyca/cryptography to MicroPython based on ARM Mbed TLS
+* [ucryptography](https://github.com/dmazzella/ucryptography) - Lightweight porting of pyca/cryptography to MicroPython based on ARM Mbed TLS.
 * [mpyaes](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
 * [micropython-aes](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 * [ucrypto](https://github.com/dmazzella/ucrypto) - MicroPython package for doing fast RSA and elliptic curve cryptography, specifically digital signatures. ECDSA API design inspired from fastecdsa and implementation based on tomsfastmath.
