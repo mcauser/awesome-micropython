@@ -291,6 +291,7 @@ of required frequency response to a filter implementation.
 * [micropython-mcp7940](https://github.com/mattytrentini/micropython-mcp7940) - Driver for the Microchip MCP7940 RTC.
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 * [DS3231micro](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
+* [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
 
 #### Serial
 
