@@ -84,6 +84,7 @@ of required frequency response to a filter implementation.
 * [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
 * [micropython-sgtl5000](https://github.com/rdagger/micropython-sgtl5000) - Library for SGTL5000 Low Power Stereo Codec w/ Headphone Amp.
+* [umidiparser](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 
 ### Communications
 
