@@ -980,6 +980,9 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [mpsync](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
+#### Jupyter
+* [micropython-magic](https://github.com/josverl/micropython-magic) - A file system bridge to synchronize and manage files on a device running MicroPython.
+
 ## Miscellaneous
 
 * [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 backers pledged £97,803 to help bring this project to life.
