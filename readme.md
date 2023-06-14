@@ -666,6 +666,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 #### Colour
 
 * [micropython-tcs34725](https://gitlab.com/robhamerling/micropython-tcs34725) - Driver class for TCS34725 and TCS34727 color sensors.
+* [micropython-as7341](https://gitlab.com/robhamerling/micropython-as7341) - MicroPython library for AS7341.
 
 #### Compass
 
