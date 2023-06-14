@@ -470,6 +470,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - MicroPython Library for 16 digits 7-segment displays controlled by a TM1640.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
+* [micropython-tm1638spi](https://gitlab.com/robhamerling/micropython-tm1638spi) - MicroPython Library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.
 
 #### LEDs
 
