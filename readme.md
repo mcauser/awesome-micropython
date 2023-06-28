@@ -851,6 +851,7 @@ Other places you can look for MicroPython Libraries:
 ### Magnetometer
 
 * [MicroPython_LIS2MDL](https://github.com/jposada202020/MicroPython_LIS2MDL) - MicroPython Driver for the ST LIS2MDL Magnetometer sensor.
+* [MicroPython_LIS3MDL](https://github.com/jposada202020/MicroPython_LIS3MDL) - MicroPython Driver for the ST LIS3MDL magnetometer.
 
 #### Motion Inertial
 
