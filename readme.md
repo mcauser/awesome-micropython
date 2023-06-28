@@ -642,6 +642,7 @@ Other places you can look for MicroPython Libraries:
 * [uumpy](https://github.com/nickovs/uumpy) - A subset of NumPy for MicroPython.
 * [upyuncertainties](https://github.com/rcolistete/upyuncertainties) - Uncertainty calculations for MicroPython.
 * [umatrix](https://github.com/iyassou/umatrix) - A matrix library for the MicroPython language.
+* [micropython-fractions](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
 
 ### Motion
 
