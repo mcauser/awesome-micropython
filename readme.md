@@ -1082,6 +1082,7 @@ Other places you can look for MicroPython Libraries:
 * [mpsync](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [MPRemoteEditor](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
+* [uPyExplorer](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
 
 #### Jupyter
 
