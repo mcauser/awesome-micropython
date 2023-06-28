@@ -1081,6 +1081,7 @@ Other places you can look for MicroPython Libraries:
 * [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
 * [mpsync](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [MPRemoteEditor](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 
 #### Jupyter
 
