@@ -825,6 +825,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [micropython-ttp223](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
 * [micropython-TTP229-BSF](https://github.com/alankrantas/micropython-TTP229-BSF) - MicroPython ESP8266/ESP32 driver for TTP229-BSF 16-key capacitive keypad in serial interface mode.
 * [uFT6336U](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
+* [MicroPythonTrill](https://github.com/Heerkog/MicroPythonTrill) - Trill touch sensor library for MicroPython.
 
 #### Touch Resistive
 
