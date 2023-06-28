@@ -237,6 +237,7 @@ Other places you can look for MicroPython Libraries:
 
 * [Official OneWire](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) - For devices using the OneWire bus, eg Dallas DS18x20.
 * [Onewire_DS18X20](https://github.com/robert-hh/Onewire_DS18X20) - Classes for driving the DS18x20 sensor with the OneWire protocol for Pycom MicroPython.
+* [micropython_arduino_control](https://github.com/kevinkk525/micropython_arduino_control) - MicroPython library to control an Arduino remotely, with corresponding Arduino code.
 
 #### Onkyo EISCP
 
