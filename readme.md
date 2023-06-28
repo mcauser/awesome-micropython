@@ -1047,6 +1047,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-ulogger](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 * [scd30logger](https://github.com/agners/scd30logger) - Sensirion SCD30 based CO2, Humidity and Temperature Logger for MicroPython.
+* [sht15logger](https://github.com/agners/sht15logger) - MicroPython Temperature and Humidity Logger using Sensirion SHT15.
 
 ### Shells
 
