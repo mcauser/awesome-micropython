@@ -890,6 +890,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_HTU31D](https://github.com/jposada202020/MicroPython_HTU31D) - MicroPython library for TE HTU31D temperature and humidity sensors.
 * [MicroPython_SHTC3](https://github.com/jposada202020/MicroPython_SHTC3) - MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.
 * [MicroPython_TMP117](https://github.com/jposada202020/MicroPython_TMP117) - MicroPython Driver for the TMP117 Temperature Sensor.
+* [MicroPython_SI7021](https://github.com/jposada202020/MicroPython_SI7021) - MicroPython Library for the Temperature and Humidity SI7021 Sensor.
 
 #### Temperature IR
 
