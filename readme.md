@@ -327,7 +327,7 @@ of required frequency response to a filter implementation.
 
 #### Text-to-Speech
 
-* [scruss/micropython-SYN6988: MicroPython library for the VoiceTX SYN6988 text to speech module](https://github.com/scruss/micropython-SYN6988/) - speech synthesis board
+* [micropython-SYN6988](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
 
 #### VoIP
 
