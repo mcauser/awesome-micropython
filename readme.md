@@ -615,6 +615,7 @@ Other places you can look for MicroPython Libraries:
 * [asynchronous encoder driver](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
 * [micropython-8encoder](https://github.com/HowManyOliversAreThere/micropython-8encoder) - Driver for the I2C [M5Stack 8-Encoder Unit](https://shop.m5stack.com/products/8-encoder-unit-stm32f030)
 * [micropython-quiic-twist](https://github.com/rdagger/micropython-quiic-twist) - MicroPython Driver for Quiic Twist RGB Rotary Encoder.
+* [AS5600](https://github.com/sgall17a/AS5600) - AS5600 MicroPython library for reading this magnetic sensor.
 
 #### Shift Registers
 
