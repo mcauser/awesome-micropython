@@ -329,6 +329,10 @@ Other places you can look for MicroPython Libraries:
 * [ucbor](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
 * [upy-msgpack](https://github.com/SpotlightKid/upy-msgpack) - A lightweight MessagePack (de)serialization library (not only) for MicroPython.
 
+#### Sockets
+
+* [XAsyncSockets](https://github.com/jczic/XAsyncSockets) - XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.
+
 #### SOCKS
 
 * [micropython-socks](https://github.com/kost/micropython-socks) - MicroPython library implementing SOCKS server.
