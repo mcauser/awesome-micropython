@@ -717,6 +717,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_KX132](https://github.com/jposada202020/MicroPython_KX132) - MicroPython Driver for the Kionix KX132 Accelerometer.
 * [MicroPython_H3LIS200DL](https://github.com/jposada202020/MicroPython_H3LIS200DL) - MicroPython Driver for the ST H3LIS200DL Accelerometer.
 * [MicroPython_QMC5883L](https://github.com/jposada202020/MicroPython_QMC5883L) - MicroPython Driver for the QMC5883L Accelerometer.
+* [Micropython_MC3479](https://github.com/jposada202020/Micropython_MC3479) - MicroPython Driver for the MC3479 Accelerometer.
 
 #### Air Quality
 
