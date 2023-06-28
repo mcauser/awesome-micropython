@@ -500,6 +500,7 @@ Other places you can look for MicroPython Libraries:
 * [st7789s3_mpy](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
 * [t-display-s3](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
 * [mp-ili9341](https://github.com/tkurbad/mp-ili9341) - MicroPython Driver for ILI9341 TFT Display.
+* [lvgl_esp32_gc9a01](https://github.com/minyiky/lvgl_esp32_gc9a01) - Driver for displays using the GC901 driver for use with LVGL MicroPython.
 
 #### LED Matrix
 
