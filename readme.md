@@ -499,6 +499,7 @@ Other places you can look for MicroPython Libraries:
 * [wt32sc01py](https://github.com/russhughes/wt32sc01py) - WT32SC01 Plus MicroPython Display Driver.
 * [st7789s3_mpy](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
 * [t-display-s3](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
+* [mp-ili9341](https://github.com/tkurbad/mp-ili9341) - MicroPython Driver for ILI9341 TFT Display.
 
 #### LED Matrix
 
