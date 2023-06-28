@@ -198,6 +198,7 @@ Other places you can look for MicroPython Libraries:
 #### LoRa
 
 * [loraE22](https://github.com/matthias-bs/loraE22) - A MicroPython class for the Ebyte E22 Series LoRa modules.
+* [micropython-lora](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
 
 #### LoRaWAN
 
