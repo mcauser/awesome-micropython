@@ -776,6 +776,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 #### Spectral
 
 * [AS726X_LoPy](https://github.com/jajberni/AS726X_LoPy) - MicroPython driver for the AS726X spectral sensor.
+* [MicroPython_AS7262X_driver](https://github.com/rcolistete/MicroPython_AS7262X_driver) - MicroPython driver for AS7262/AS7263 nano spectrometer sensor.
 
 #### Temperature Analog
 
