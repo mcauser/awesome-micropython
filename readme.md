@@ -826,6 +826,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [micropython-TTP229-BSF](https://github.com/alankrantas/micropython-TTP229-BSF) - MicroPython ESP8266/ESP32 driver for TTP229-BSF 16-key capacitive keypad in serial interface mode.
 * [uFT6336U](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
 * [MicroPythonTrill](https://github.com/Heerkog/MicroPythonTrill) - Trill touch sensor library for MicroPython.
+* [L58Touch](https://github.com/russhughes/L58Touch) - L58 Multi-Touch MicroPython Module.
 
 #### Touch Resistive
 
