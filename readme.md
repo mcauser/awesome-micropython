@@ -232,6 +232,7 @@ Other places you can look for MicroPython Libraries:
 * [MicropythonCayenneMQTTClient](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
 * [mqtt_upython](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 * [tinymqtt](https://github.com/belyalov/tinymqtt) - Async MQTT client for MicroPython.
+* [micropython-mqtt-thingspeak](https://github.com/miketeachman/micropython-mqtt-thingspeak) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython.
 
 #### NFC
 
