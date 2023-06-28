@@ -381,6 +381,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a web server to configure WiFi networks.
 * [micropython-aioweb](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
 * [thimble](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
+* [CaptiveWebServer](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
 
 #### Zigbee
 
