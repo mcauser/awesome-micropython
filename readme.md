@@ -497,6 +497,7 @@ Other places you can look for MicroPython Libraries:
 * [s3lcd](https://github.com/russhughes/s3lcd) - ESP_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
 * [thmi_py](https://github.com/russhughes/thmi_py) - MicroPython display driver for the LILYGO T-HMI written in Python.
 * [wt32sc01py](https://github.com/russhughes/wt32sc01py) - WT32SC01 Plus MicroPython Display Driver.
+* [st7789s3_mpy](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
 
 #### LED Matrix
 
