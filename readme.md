@@ -893,6 +893,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_SI7021](https://github.com/jposada202020/MicroPython_SI7021) - MicroPython Library for the Temperature and Humidity SI7021 Sensor.
 * [MicroPython_ADT7410](https://github.com/jposada202020/MicroPython_ADT7410) - MicroPython Driver for the Analog Devices ADT7410 Temperature Sensor.
 * [MicroPython_WSENTIDS](https://github.com/jposada202020/MicroPython_WSENTIDS) - MicroPython library for the WSEN WSEN-TIDS temperature Sensor.
+* [MicroPython_HS3003](https://github.com/jposada202020/MicroPython_HS3003) - MicroPython Driver for the Renesas HS3003 Temperature and Humidity Sensor.
 
 #### Temperature IR
 
