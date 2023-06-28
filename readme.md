@@ -640,6 +640,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
 * [MicroPython-Matrix](https://gitlab.com/olivierlenoir/MicroPython-Matrix) - MicroPython basic matrix operations.
 * [uumpy](https://github.com/nickovs/uumpy) - A subset of NumPy for MicroPython.
+* [upyuncertainties](https://github.com/rcolistete/upyuncertainties) - Uncertainty calculations for MicroPython.
 
 ### Motion
 
