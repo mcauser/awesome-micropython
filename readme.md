@@ -553,6 +553,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 ADC/DAC, I2C interface.
 * [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
 * [MCP342x_LoPy](https://github.com/jajberni/MCP342x_LoPy) - MicroPython driver for the MCP342x ADC.
+* [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 
 #### DAC
 
