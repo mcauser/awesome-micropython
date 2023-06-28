@@ -323,6 +323,7 @@ Other places you can look for MicroPython Libraries:
 * [PCF8563_PythonLibrary](https://github.com/lewisxhe/PCF8563_PythonLibrary) - MicroPython library for NXP PCF8563 Real-time clock/calendar.
 * [DS3231](https://github.com/octaprog7/DS3231) - MicroPython module for the DS3231 clock from Maxim Integrated.
 * [DS1307](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
+* [micropython-DS3231-AT24C32](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
 
 #### Serial
 
