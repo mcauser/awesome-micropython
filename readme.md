@@ -757,6 +757,7 @@ Other places you can look for MicroPython Libraries:
 * [vl53l1x_pico](https://github.com/drakxtwo/vl53l1x_pico) - MicroPython driver for the VL53L1X ToF sensor.
 * [tf-luna-micropython](https://github.com/davmoz/tf-luna-micropython) - A simple MicroPython I2C library for TF-Luna LiDAR Module.
 * [vl53l5cx](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
+* [VL6180X](https://github.com/Ledbelly2142/VL6180X) - MicroPython driver for the VL6180X sensor on the ESP32.
 
 #### Distance Ultrasonic
 
