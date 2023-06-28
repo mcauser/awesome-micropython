@@ -639,6 +639,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 * [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
 * [MicroPython-Matrix](https://gitlab.com/olivierlenoir/MicroPython-Matrix) - MicroPython basic matrix operations.
+* [uumpy](https://github.com/nickovs/uumpy) - A subset of NumPy for MicroPython.
 
 ### Motion
 
