@@ -734,6 +734,7 @@ Other places you can look for MicroPython Libraries:
 * [BMP180](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
 * [MicroPython_BMP581](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
 * [MicroPython_DPS310](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor.
+* [MicroPython_ICP10111](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor.
 
 #### Battery
 
