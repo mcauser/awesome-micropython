@@ -797,6 +797,7 @@ Other places you can look for MicroPython Libraries:
 * [veml7700](https://github.com/palouf34/veml7700) - Library for MicroPython for VEML7700 light sensor.
 * [MicroPython_MAX44009_driver](https://github.com/rcolistete/MicroPython_MAX44009_driver) - MicroPython driver for MAX44009 light sensor.
 * [MicroPython-VEML6075](https://github.com/neliogodoi/MicroPython-VEML6075) - Driver base for the VEML6075 UV light sensor.
+* [BH1750](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 
 #### Motion Inertial
 
