@@ -892,6 +892,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_TMP117](https://github.com/jposada202020/MicroPython_TMP117) - MicroPython Driver for the TMP117 Temperature Sensor.
 * [MicroPython_SI7021](https://github.com/jposada202020/MicroPython_SI7021) - MicroPython Library for the Temperature and Humidity SI7021 Sensor.
 * [MicroPython_ADT7410](https://github.com/jposada202020/MicroPython_ADT7410) - MicroPython Driver for the Analog Devices ADT7410 Temperature Sensor.
+* [MicroPython_WSENTIDS](https://github.com/jposada202020/MicroPython_WSENTIDS) - MicroPython library for the WSEN WSEN-TIDS temperature Sensor.
 
 #### Temperature IR
 
