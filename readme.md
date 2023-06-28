@@ -327,6 +327,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
 * [minipb](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 * [ucbor](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
+* [upy-msgpack](https://github.com/SpotlightKid/upy-msgpack) - A lightweight MessagePack (de)serialization library (not only) for MicroPython.
 
 #### SOCKS
 
