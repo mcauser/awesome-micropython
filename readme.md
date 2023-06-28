@@ -241,6 +241,10 @@ Other places you can look for MicroPython Libraries:
 * [tinymqtt](https://github.com/belyalov/tinymqtt) - Async MQTT client for MicroPython.
 * [micropython-mqtt-thingspeak](https://github.com/miketeachman/micropython-mqtt-thingspeak) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython.
 
+#### NBD
+
+* [unbd](https://github.com/pulkin/unbd) - Micro implementation of network block device (NBD) for MicroPython.
+
 #### NFC
 
 * [micropython-nfc](https://github.com/rolandvs/micropython-nfc) - Using NFC with MicroPython.
