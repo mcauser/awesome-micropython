@@ -900,6 +900,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_SHT20](https://github.com/jposada202020/MicroPython_SHT20) - MicroPython Driver for the Sensirion SHT20 Temperature Sensor.
 * [MicroPython_MCP9808](https://github.com/jposada202020/MicroPython_MCP9808) - MicroPython Driver for the Microchip MCP9808 Temperature Sensor.
 * [MicroPython_HDC1080](https://github.com/jposada202020/MicroPython_HDC1080) - MicroPython driver for the TI HDC1080 Temperature and Humidity sensor.
+* [TMP117](https://github.com/octaprog7/TMP117) - MicroPython module for the TMP117 temperature sensor from Texas Instruments.
 
 #### Temperature IR
 
