@@ -818,6 +818,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 #### Temperature IR
 
 * [micropython-mlx90614](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
+* [MicroPython_MLX90615_driver](https://github.com/rcolistete/MicroPython_MLX90615_driver) - MicroPython driver for Melexis MLX90615 IR temperature sensor.
 
 #### Touch Capacitive
 
