@@ -736,6 +736,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [micropython-max44009](https://github.com/mcauser/micropython-max44009) - MicroPython driver for the MAX44009 ambient light sensor.
 * [veml7700](https://github.com/palouf34/veml7700) - Library for MicroPython for VEML7700 light sensor.
 * [MicroPython_MAX44009_driver](https://github.com/rcolistete/MicroPython_MAX44009_driver) - MicroPython driver for MAX44009 light sensor.
+* [MicroPython-VEML6075](https://github.com/neliogodoi/MicroPython-VEML6075) - Driver base for the VEML6075 UV light sensor.
 
 #### Motion Inertial
 
