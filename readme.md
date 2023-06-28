@@ -671,6 +671,7 @@ Other places you can look for MicroPython Libraries:
 * [microPython_AMIS-30543](https://github.com/capella-ben/microPython_AMIS-30543) - MicroPython library for Stepper Driver control using AMIS-30543 driver.
 * [micropython-drv8825](https://gitlab.com/robhamerling/micropython-drv8825) - Driver and example in MicroPython to control a stepper motor via a DRV8825 controller board.
 * [microPython_TMC5160](https://github.com/capella-ben/microPython_TMC5160) - A MicroPython library for the Trinamic TMC5160 Motion Controller.
+* [micropython-stepper-motor](https://github.com/larsks/micropython-stepper-motor) - Drive a 28BYJ-48 motor attached to a ULN2003 driver.
 
 ### Sensors
 
