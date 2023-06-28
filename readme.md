@@ -162,6 +162,10 @@ Other places you can look for MicroPython Libraries:
 * [sim800](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
 * [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.
 
+#### HTTP
+
+* [mrequests](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
+
 #### IoT
 
 * [microhomie](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
