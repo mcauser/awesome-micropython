@@ -200,6 +200,7 @@ Other places you can look for MicroPython Libraries:
 * [loraE22](https://github.com/matthias-bs/loraE22) - A MicroPython class for the Ebyte E22 Series LoRa modules.
 * [micropython-lora](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
 * [micropython-aiolora](https://github.com/wybiral/micropython-aiolora) - MicroPython library for controlling a Semtech SX127x LoRa module with asyncio API.
+* [micropython-rylr](https://github.com/wybiral/micropython-rylr) - MicroPython library for controlling Reyax LoRa modules (RYLR896, RYLR406).
 
 #### LoRaWAN
 
