@@ -413,6 +413,7 @@ Other places you can look for MicroPython Libraries:
 * [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 * [micropython-nextion](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 * [mp_lvgl_widgets](https://github.com/kdschlosser/mp_lvgl_widgets) - Widgets for the MicroPython Port of LVGL.
+* [micropython-core2](https://github.com/lemariva/micropython-core2) - Extends LV-MicroPython for the M5Stack CORE2 with MPU6886, ILI9342C, BM8563 and AXP192 drivers.
 
 #### LCD Character
 
