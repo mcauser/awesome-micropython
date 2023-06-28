@@ -190,6 +190,7 @@ Other places you can look for MicroPython Libraries:
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by WebSocket.
 * [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython ESP32 IR Transceiver.
 * [pico-ir](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+* [esp32-ir-remote](https://github.com/cbrand/esp32-ir-remote) - A MicroPython project for running ESP32 IR remotes.
 
 #### LoRaWAN
 
