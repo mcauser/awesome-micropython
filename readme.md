@@ -493,6 +493,7 @@ Other places you can look for MicroPython Libraries:
 * [st7735_micropython](https://github.com/cheungbx/st7735_micropython) - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.
 * [ili934x-micropython](https://gitlab.com/mhepp63/ili934x-micropython) - Library for using ILI9341 display drivers with MicroPython.
 * [micropython-st7735-esp8266](https://gitlab.com/mo_krauti/micropython-st7735-esp8266) - MicroPython driver for ST7735 TFT displays on the ESP8266.
+* [st7789s3_esp_lcd](https://github.com/russhughes/st7789s3_esp_lcd) - Fast ESP_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.
 
 #### LED Matrix
 
