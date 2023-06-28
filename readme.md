@@ -833,6 +833,7 @@ Other places you can look for MicroPython Libraries:
 #### Proximity
 
 * [uPy_APDS9960](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for ESP8266 using APDS9960.
+* [MicroPython_VCNL4010](https://github.com/jposada202020/MicroPython_VCNL4010) - MicroPython Driver for the Vishay VCNL4010 Proximity and Ambient Light Sensor.
 
 #### Radiation
 
