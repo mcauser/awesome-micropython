@@ -848,6 +848,10 @@ Other places you can look for MicroPython Libraries:
 * [BH1750](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 * [veml7700](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 
+### Magnetometer
+
+* [MicroPython_LIS2MDL](https://github.com/jposada202020/MicroPython_LIS2MDL) - MicroPython Driver for the ST LIS2MDL Magnetometer sensor.
+
 #### Motion Inertial
 
 * [micropython-bmx055](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
