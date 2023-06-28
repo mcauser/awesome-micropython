@@ -574,6 +574,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
 * [mcp4131](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
 * [MicroPython_DS1841](https://github.com/jposada202020/MicroPython_DS1841) - MicroPython Driver for the DS1841 Potentiometer.
+* [MicroPython_DS3502](https://github.com/jposada202020/MicroPython_DS3502) - MicroPython Driver for the DS3502 Potentiometer.
 
 #### Power Management
 
