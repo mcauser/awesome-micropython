@@ -89,6 +89,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
 * [micropython_demo_bot](https://github.com/gsampallo/micropython_demo_bot) - Little example of how to create a bot for Telegram.
 * [micropython-basicdweet](https://github.com/jacklinquan/micropython-basicdweet) - A python module for very basic APIs of the free dweet service.
+* [micropython-dweeter](https://github.com/jacklinquan/micropython-dweeter) - A python module for messaging through the free dweet service.
 
 #### Authentication
 
