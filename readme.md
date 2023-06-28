@@ -670,6 +670,7 @@ Other places you can look for MicroPython Libraries:
 * [uPySteppers](https://github.com/lemariva/uPySteppers) - DIY rotating platform using an ESP32 connected to WiFi.
 * [microPython_AMIS-30543](https://github.com/capella-ben/microPython_AMIS-30543) - MicroPython library for Stepper Driver control using AMIS-30543 driver.
 * [micropython-drv8825](https://gitlab.com/robhamerling/micropython-drv8825) - Driver and example in MicroPython to control a stepper motor via a DRV8825 controller board.
+* [microPython_TMC5160](https://github.com/capella-ben/microPython_TMC5160) - A MicroPython library for the Trinamic TMC5160 Motion Controller.
 
 ### Sensors
 
