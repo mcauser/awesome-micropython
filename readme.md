@@ -365,6 +365,7 @@ Other places you can look for MicroPython Libraries:
 * [eInk-micropython](https://github.com/dhallgb/eInk-micropython) - eInk library for Waveshare 4.3inch device on MicroPython.
 * [eink](https://github.com/chevdor/eink) - An eInk, ePaper display driver for MicroPython and ESP32.
 * [micropython_DEPG0213BN](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN eInk display found on the TTGO T5 V2.3 ESP32 boards.
+* [uPyEINK](https://github.com/lemariva/uPyEINK) - Control a Waveshare 7.5" E-INK display using an ESP32 running MicroPython.
 
 #### Fonts
 
