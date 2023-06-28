@@ -715,6 +715,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [MCP39F521](https://github.com/warpme/MCP39F521) - ESP8266 scripts for reading MCP39F521 power monitors.
 * [micropython-p1meter](https://github.com/Josverl/micropython-p1meter) - A ESP32 sensor to read a p1 electricity meter and publish this to MQTT and Home Assistant, written in MicroPython.
 * [esp32-solar2](https://github.com/octopusengine/esp32-solar2) - Simple solar regulator - MicroPython project.
+* [cs5490_micropython](https://github.com/whatnick/cs5490_micropython) - MicroPython Driver for CS5490 Energy Monitor IC.
 
 #### Gaseous
 
