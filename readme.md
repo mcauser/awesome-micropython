@@ -325,6 +325,10 @@ of required frequency response to a filter implementation.
 
 * [MicroTelnetServer](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
 
+#### Text-to-Speech
+
+* [scruss/micropython-SYN6988: MicroPython library for the VoiceTX SYN6988 text to speech module](https://github.com/scruss/micropython-SYN6988/) - speech synthesis board
+
 #### VoIP
 
 * [uPyVoip](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
