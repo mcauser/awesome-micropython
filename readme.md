@@ -1068,6 +1068,7 @@ Other places you can look for MicroPython Libraries:
 #### Jupyter
 
 * [micropython-magic](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
+* [jupyter_upydevice_kernel](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
 
 ## Miscellaneous
 
