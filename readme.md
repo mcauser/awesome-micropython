@@ -87,6 +87,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
 * [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
 * [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
+* [micropython_demo_bot](https://github.com/gsampallo/micropython_demo_bot) - Little example of how to create a bot for Telegram.
 
 #### Authentication
 
