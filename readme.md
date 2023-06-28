@@ -301,6 +301,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 * [DS3231micro](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
 * [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
+* [esp-ds3231-micropython](https://github.com/HAIZAKURA/esp-ds3231-micropython) - A DS3231 library for ESP8266/ESP32 with MicroPython.
 
 #### Serial
 
