@@ -960,6 +960,7 @@ Other places you can look for MicroPython Libraries:
 * [TMP117](https://github.com/octaprog7/TMP117) - MicroPython module for the TMP117 temperature sensor from Texas Instruments.
 * [BME680](https://github.com/octaprog7/BME680) - MicroPython module for the BME680, Bosch low power gas, pressure, temperature & humidity sensor.
 * [SHT30](https://github.com/robert-hh/SHT30) - MicroPython driver for the Sensirion SHT3x sensor.
+* [MicroPython_AS6212](https://github.com/jposada202020/MicroPython_AS6212) - MicroPython Library for the ASM AS6212 Temperature Sensor.
 
 #### Temperature IR
 
