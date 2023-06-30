@@ -855,6 +855,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_LIS3MDL](https://github.com/jposada202020/MicroPython_LIS3MDL) - MicroPython Driver for the ST LIS3MDL magnetometer.
 * [MicroPython_MLX90393](https://github.com/jposada202020/MicroPython_MLX90393) - MicroPython Driver for the MLX90393 Magnetometer.
 * [MicroPython_MMC5603](https://github.com/jposada202020/MicroPython_MMC5603) - MicroPython driver for the Memsic MMC5603 Magnetometer.
+* [MicroPython_BMM150](https://github.com/jposada202020/MicroPython_BMM150) - MicroPython Driver for the Bosch BMM150 Magnetometer.
 
 #### Motion Inertial
 
