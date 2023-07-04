@@ -342,6 +342,10 @@ Other places you can look for MicroPython Libraries:
 * [ucbor](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
 * [upy-msgpack](https://github.com/SpotlightKid/upy-msgpack) - A lightweight MessagePack (de)serialization library (not only) for MicroPython.
 
+#### SMTP
+
+* [uMail](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
+
 #### Sockets
 
 * [XAsyncSockets](https://github.com/jczic/XAsyncSockets) - XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.
@@ -349,10 +353,6 @@ Other places you can look for MicroPython Libraries:
 #### SOCKS
 
 * [micropython-socks](https://github.com/kost/micropython-socks) - MicroPython library implementing SOCKS server.
-
-#### SMTP
-
-* [uMail](https://github.com/shawwwn/uMail) - A lightweight, scalable SMTP client for sending email in MicroPython.
 
 #### TCP
 
@@ -369,14 +369,6 @@ Other places you can look for MicroPython Libraries:
 #### VoIP
 
 * [uPyVoip](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
-
-#### WiFi
-
-* [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
-* [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
-* [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
-* [Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
-* [mpy-wpa_supplicant](https://github.com/Carglglz/mpy-wpa_supplicant) - MicroPython module to connect to the nearest known Wifi AP.
 
 #### Web
 
@@ -400,6 +392,14 @@ Other places you can look for MicroPython Libraries:
 * [thimble](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
 * [CaptiveWebServer](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
 * [micropython-urouter](https://github.com/whales-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
+
+#### WiFi
+
+* [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
+* [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
+* [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+* [Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
+* [mpy-wpa_supplicant](https://github.com/Carglglz/mpy-wpa_supplicant) - MicroPython module to connect to the nearest known Wifi AP.
 
 #### Zigbee
 
@@ -852,7 +852,7 @@ Other places you can look for MicroPython Libraries:
 * [BH1750](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 * [veml7700](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 
-### Magnetometer
+#### Magnetometer
 
 * [MicroPython_LIS2MDL](https://github.com/jposada202020/MicroPython_LIS2MDL) - MicroPython Driver for the ST LIS2MDL Magnetometer sensor.
 * [MicroPython_LIS3MDL](https://github.com/jposada202020/MicroPython_LIS3MDL) - MicroPython Driver for the ST LIS3MDL magnetometer.
@@ -1129,6 +1129,11 @@ Other places you can look for MicroPython Libraries:
 
 ### Shells
 
+#### Jupyter
+
+* [micropython-magic](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
+* [jupyter_upydevice_kernel](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
+
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
@@ -1144,11 +1149,6 @@ Other places you can look for MicroPython Libraries:
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [MPRemoteEditor](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 * [uPyExplorer](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
-
-#### Jupyter
-
-* [micropython-magic](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
-* [jupyter_upydevice_kernel](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
 
 ## Miscellaneous
 
