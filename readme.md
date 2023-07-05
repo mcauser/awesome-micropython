@@ -92,6 +92,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-basicdweet](https://github.com/jacklinquan/micropython-basicdweet) - A python module for very basic APIs of the free dweet service.
 * [micropython-dweeter](https://github.com/jacklinquan/micropython-dweeter) - A python module for messaging through the free dweet service.
 * [micropython-cryptodweet](https://github.com/jacklinquan/micropython-cryptodweet) - A python module for very basic APIs of the free dweet service with encryption.
+* [micropython-linenotify](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 #### Authentication
 
