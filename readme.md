@@ -1133,6 +1133,7 @@ Other places you can look for MicroPython Libraries:
 * [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python/MicroPython/CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
 * [Pyboard File Manager](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.
+* [uPIDE](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 
 ### Logging
 
