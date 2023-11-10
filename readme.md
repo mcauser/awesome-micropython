@@ -303,6 +303,7 @@ Other places you can look for MicroPython Libraries:
 * [ESP32-433Mhz-Transmitter](https://github.com/Aschhoff/ESP32-433Mhz-Transmitter) - A pure MicroPython RF transmitter. You can create and add your own encoder.
 * [pico_jjy_tx](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
 * [pico_dcf77_tx](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
+* [micropython_dcf77](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
 
 #### RC receiver
 
