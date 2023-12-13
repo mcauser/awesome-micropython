@@ -691,6 +691,7 @@ Other places you can look for MicroPython Libraries:
 * [upyuncertainties](https://github.com/rcolistete/upyuncertainties) - Uncertainty calculations for MicroPython.
 * [umatrix](https://github.com/iyassou/umatrix) - A matrix library for the MicroPython language.
 * [micropython-fractions](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
+* [Sun and Moon](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
 ### Motion
 
@@ -1014,7 +1015,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known cron program for Unix systems.
-* [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+* [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
 * [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) - A persistent uasyncio scheduler that supports deepsleep between task runs.
 
 ### Storage
