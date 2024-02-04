@@ -1005,6 +1005,7 @@ Other places you can look for MicroPython Libraries:
 * [SHT30](https://github.com/robert-hh/SHT30) - MicroPython driver for the Sensirion SHT3x sensor.
 * [MicroPython_AS6212](https://github.com/jposada202020/MicroPython_AS6212) - MicroPython Library for the ASM AS6212 Temperature Sensor.
 * [MicroPython_PCT2075](https://github.com/jposada202020/MicroPython_PCT2075) - MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.
+* [micropython-hdc1080](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
 
 #### Temperature IR
 
