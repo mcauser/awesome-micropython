@@ -652,6 +652,10 @@ Other places you can look for MicroPython Libraries:
 
 * [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - A MicroPython library for controlling PWM outputs in an asyncio loop, with features including fading and blinking.
 
+#### Relay
+
+* [micropython-xl9535-kxv5-relay](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
+
 #### Rotary Encoder
 
 * [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
