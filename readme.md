@@ -631,6 +631,10 @@ Other places you can look for MicroPython Libraries:
 * [pico-rgbkeypad](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
 * [micropython-aiobutton](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
 
+#### Multiplexer
+
+* [micropython-tca9548a](https://github.com/mcauser/micropython-tca9548a) - MicroPython examples using TCA9548A I2C multiplexer.
+
 #### Potentiometers
 
 * [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
