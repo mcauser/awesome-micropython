@@ -763,6 +763,7 @@ Other places you can look for MicroPython Libraries:
 * [pms5003_micropython](https://github.com/kevinkk525/pms5003_micropython) - Driver for PMS5003 air quality sensor for MicroPython.
 * [micropython-pms5003-minimal](https://github.com/miketeachman/micropython-pms5003-minimal) - Driver for P air quality sensor for MicroPython.
 * [polly](https://github.com/g-sam/polly) - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.
+* [micropython-SNGCJA5](https://github.com/aleppax/micropython-SNGCJA5) - Micropython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
 
 #### Barometer
 
