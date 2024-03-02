@@ -27,6 +27,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [Storage](#storage)
   * [Threading](#threading)
   * [User Interface](#user-interface)
+  * [Utilities](#utilities)
 * [Community](#community)
 * [Tutorials](#tutorials)
 * [Books](#books)
@@ -1084,6 +1085,10 @@ Other places you can look for MicroPython Libraries:
 ### User Interface
 
 * [upymenu](https://github.com/jplattel/upymenu) - MicroPython Menu for LCD Displays.
+
+### Utilities
+
+* [micropython-hexdump](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
 
 ## Community
 
