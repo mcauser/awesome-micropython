@@ -1035,6 +1035,10 @@ Other places you can look for MicroPython Libraries:
 
 ### Storage
 
+#### Configuration file
+
+* [uPyftsConf](https://github.com/aleppax/upyftsconf) - micropython Far Too Simple Config File. Single file library that writes configurations to itself.
+
 #### Database
 
 * [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
