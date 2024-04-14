@@ -685,7 +685,6 @@ Other places you can look for MicroPython Libraries:
 * [Micropython-AD9833](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, SPI interface.
 * [Clock_Generators](https://github.com/Wei1234c/Clock_Generators) - Clock generators (Si5351 for now) toolbox.
 * [Signal_Generators](https://github.com/Wei1234c/Signal_Generators) - Signal generators (AD9833, AD9834, AD9850, ADF4351) toolbox.
-* [ad9850_signalgen](https://github.com/brenn/ad9850_signalgen) - MicroPython library for AD9850 synthesizer.
 * [pico-wave-vibration-generator](https://github.com/gurgleapps/pico-wave-vibration-generator) - A MicroPython-based frequency generator for Raspberry Pi Pico designed to create vibrations on solenoids or speakers, enabling wave experimentation and exploration at home.
 * [micropython-m5stack-dds](https://github.com/mattytrentini/micropython-m5stack-dds) - MicroPython driver for the M5Stack DDS frequency generator.
 * [AD9833-MicroPython-Module](https://github.com/owainm713/AD9833-MicroPython-Module) - MicroPython module to use the AD9833 programable waveform generator.
