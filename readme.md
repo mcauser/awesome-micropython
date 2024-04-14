@@ -791,6 +791,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-fingerprint](https://github.com/chrisb2/micropython-fingerprint) - MicroPython library for reading Grow and ZhianTec fingerprint sensors.
 * [MAX30102-MicroPython-driver](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
+* [max30102](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/max30102.py) - MicroPython driver for the MAX30102, with heartbeat detection and BPM measurement.
 
 #### Camera
 
