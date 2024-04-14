@@ -36,6 +36,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 * [Development](#development)
   * [Code Generation](#code-generation)
   * [Debugging](#debugging)
+  * [Firmware](#firmware)
   * [IDEs](#ides)
   * [Logging](#logging)
   * [Shells](#shells)
