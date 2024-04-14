@@ -803,6 +803,7 @@ Other places you can look for MicroPython Libraries:
 * [uPyCam](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
 * [OV2640_uPy](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 camera library for MicroPython.
 * [MQTT-Cam](https://github.com/jono-allen/MQTT-Cam) - ESP32-CAM MicroPython MQTT AWS S3 Uploader.
+* [huskylib](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
 
 #### Colour
 
