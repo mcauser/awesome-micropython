@@ -1165,6 +1165,10 @@ Other places you can look for MicroPython Libraries:
 * [micropython-usyslog](https://github.com/kfricke/micropython-usyslog) - Simple remote syslog client for MicroPython.
 * [Asynchronous monitor](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
 
+### Firmware
+
+* [micropython-builder](https://github.com/jonahbron/micropython-builder) - Tool for building and flashing a custom MicroPython firmware.
+
 ### IDEs
 
 * [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: [https://github.com/BIPES](https://github.com/BIPES).
