@@ -1,1 +1,3 @@
-kickstarter.com,https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html
+kickstarter.com
+https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html
+www.amazon.com
