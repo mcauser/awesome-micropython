@@ -400,9 +400,9 @@ Other places you can look for MicroPython Libraries:
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli) - A micro JSON REST web client based on MicroWebCli for MicroPython (used on Pycom modules & ESP32).
 * [micropython-noggin](https://github.com/larsks/micropython-noggin) - A very simple web server for MicroPython.
 * [uwebsockets](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
+* [microAsyncWeb](https://github.com/rumpelrausch/microAsyncWeb) - Async web server, thread-capable (can run on ESP32 second core), easy to use.
 * [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
-* [microAsyncWeb](https://github.com/rumpelrausch/microAsyncWeb) - Async web server, thread-capable (can run on ESP32 second core), easy to use.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - A micro HTTP web client for MicroPython (used on Pycom modules & ESP32).
 * [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a web server to configure WiFi networks.
 * [micropython-aioweb](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
