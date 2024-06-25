@@ -908,6 +908,7 @@ Other places you can look for MicroPython Libraries:
 * [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
 * [hx710](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
 * [hx711](https://github.com/robert-hh/hx711) - MicroPython driver for the HX711 load cell interface.
+* [hx710](https://github.com/robert-hh/hx710) - MicroPython driver for the HX710 load cell interface.
 
 #### Magnetometer
 
