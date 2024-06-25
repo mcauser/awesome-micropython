@@ -601,14 +601,11 @@ Other places you can look for MicroPython Libraries:
 * [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [ADS7818](https://github.com/robert-hh/ADS7818) - Python class interfacing the ADS7818 AD-converter.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
-* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 * [MicroPython-ADC_Cal](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 * [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 ADC/DAC, I2C interface.
-* [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
 * [MCP342x_LoPy](https://github.com/jajberni/MCP342x_LoPy) - MicroPython driver for the MCP342x ADC.
 * [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [PCF8591_micropython_library](https://github.com/xreef/PCF8591_micropython_library) - MicroPython library for PCF8591 8-bit ADC/DAC.
-* [hx710](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
 
 #### DAC
 
@@ -904,6 +901,11 @@ Other places you can look for MicroPython Libraries:
 * [BH1750](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 * [veml7700](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 
+#### Load Cell
+
+* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+* [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
+* [hx710](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
 #### Magnetometer
 
 * [MicroPython_LIS2MDL](https://github.com/jposada202020/MicroPython_LIS2MDL) - MicroPython Driver for the ST LIS2MDL Magnetometer sensor.
