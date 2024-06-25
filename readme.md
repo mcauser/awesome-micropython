@@ -606,6 +606,7 @@ Other places you can look for MicroPython Libraries:
 * [MCP342x_LoPy](https://github.com/jajberni/MCP342x_LoPy) - MicroPython driver for the MCP342x ADC.
 * [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [PCF8591_micropython_library](https://github.com/xreef/PCF8591_micropython_library) - MicroPython library for PCF8591 8-bit ADC/DAC.
+* [CS1237](https://github.com/robert-hh/CS1237) - MicroPython driver for the CS1237 ADC.
 
 #### DAC
 
