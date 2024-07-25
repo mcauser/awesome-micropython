@@ -753,7 +753,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_ADXL343](https://github.com/jposada202020/MicroPython_ADXL343) - MicroPython Driver for the Analog Devices ADXL343 Accelerometer.
 * [MicroPython_BMA220](https://github.com/jposada202020/MicroPython_BMA220) - MicroPython Driver for the Bosch BMA220 Accelerometer.
 * [MicroPython_BMA400](https://github.com/jposada202020/MicroPython_BMA400) - MicroPython Driver for the Bosch BMA400 Accelerometer.
-* [bma423-pure-mp](https://github.com/antirez/bma423-pure-mp) - MicroPython Drive for the Bosch 423 accelerometer. Includes FIFO support. ⏩
+* [bma423-pure-mp](https://github.com/antirez/bma423-pure-mp) - MicroPython Driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩
 * [MicroPython_LIS3DH](https://github.com/jposada202020/MicroPython_LIS3DH) - MicroPython Driver for the LIS3DH 3-axis accelerometer.
 * [MicroPython_KX132](https://github.com/jposada202020/MicroPython_KX132) - MicroPython Driver for the Kionix KX132 Accelerometer.
 * [MicroPython_H3LIS200DL](https://github.com/jposada202020/MicroPython_H3LIS200DL) - MicroPython Driver for the ST H3LIS200DL Accelerometer.
