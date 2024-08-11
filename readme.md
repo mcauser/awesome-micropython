@@ -709,6 +709,7 @@ Other places you can look for MicroPython Libraries:
 * [umatrix](https://github.com/iyassou/umatrix) - A matrix library for the MicroPython language.
 * [micropython-fractions](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
 * [Sun and Moon](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
+* [micropython-npyfile](https://github.com/jonnor/micropython-npyfile/) - Numpy .npy file support for MicroPython, supports read/write/streaming.
 
 ### Motion
 
