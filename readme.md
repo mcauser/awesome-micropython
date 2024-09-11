@@ -710,6 +710,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-fractions](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
 * [Sun and Moon](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 * [micropython-npyfile](https://github.com/jonnor/micropython-npyfile/) - Numpy .npy file support for MicroPython, supports read/write/streaming.
+* [Micropython Perlin](https://github.com/sjaak31367/micropython_perlin) - A Perlin noise generator module.
 
 ### Motion
 
