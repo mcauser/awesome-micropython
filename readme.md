@@ -18,6 +18,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [AI](#ai)
   * [Audio](#audio)
   * [Communications](#communications)
+  * [Databases](#databases)
   * [Display](#display)
   * [IO](#io)
   * [Mathematics](#mathematics)
@@ -426,6 +427,10 @@ Other places you can look for MicroPython Libraries:
 
 * [ZbPy](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
 
+### Databases
+
+* [micropython-cratedb](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases.
+  
 ### Display
 
 #### E-Paper
