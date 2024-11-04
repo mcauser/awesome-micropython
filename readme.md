@@ -1079,7 +1079,7 @@ Other places you can look for MicroPython Libraries:
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 * [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
-* [micropython-cratedb](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases
+* [micropython-cratedb](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
