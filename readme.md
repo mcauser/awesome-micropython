@@ -878,6 +878,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-gp2y0e03](https://github.com/mcauser/deshipu-micropython-gp2y0e03) - IR-LED distance measuring sensor using Sharp GP2Y0E03.
 * [micropython-vl6180](https://github.com/mcauser/deshipu-micropython-vl6180) - Time-of-Flight sensor, ambient light sensor & IR emitter.
+* [GP2Y0A21YK](https://github.com/basanovase/GP2Y0A21YK) - GP2Y0A21YK MicroPython library.
 
 #### Distance Laser
 
