@@ -392,6 +392,10 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-SYN6988](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
 
+#### Time
+
+* [ustrftime](https://github.com/iyassou/ustrftime) - A MicroPython implementation of time.strftime.
+
 #### VoIP
 
 * [uPyVoip](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
