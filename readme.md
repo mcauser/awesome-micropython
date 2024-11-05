@@ -1063,6 +1063,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_PCT2075](https://github.com/jposada202020/MicroPython_PCT2075) - MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.
 * [micropython-hdc1080](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
 * [bme680-pure-mp](https://github.com/antirez/bme680-pure-mp) - Pure MicroPython Bosch BME680 sensor driver.
+* [SHT4X](https://github.com/octaprog7/SHT4X) - MicroPython module for controlling the SHT4x - 4th generation relative humidity and temperature sensor.
 
 #### Temperature IR
 
