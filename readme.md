@@ -632,6 +632,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [PCF8591_micropython_library](https://github.com/xreef/PCF8591_micropython_library) - MicroPython library for PCF8591 8-bit ADC/DAC.
 * [CS1237](https://github.com/robert-hh/CS1237) - MicroPython driver for the CS1237 ADC.
+* [ads1115](https://github.com/octaprog7/ads1115) - MicroPython module for managing ADS1115, multichannel, differential I2C ADC from TI.
 
 #### DAC
 
