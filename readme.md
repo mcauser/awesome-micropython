@@ -856,6 +856,7 @@ Other places you can look for MicroPython Libraries:
 * [TCS3200-MicroPython](https://github.com/uraich/TCS3200-MicroPython) - A MicroPython driver and test programs for the TCS3200 color sensor.
 * [MicroPython_TCS3430](https://github.com/jposada202020/MicroPython_TCS3430) - MicroPython driver for the AMS TCS3430 Color and ALS sensor.
 * [micropython-gy33](https://github.com/QuirkyCort/micropython-gy33) - UART and I2C drivers for GY-33 module (TCS3472 color sensor).
+* [veml6040](https://github.com/octaprog7/veml6040) - MicroPython module for managing a color sensor RGBW, VEML6040 from Vishay.
 
 #### Compass
 
