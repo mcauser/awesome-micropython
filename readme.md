@@ -1076,6 +1076,7 @@ Other places you can look for MicroPython Libraries:
 * [uFT6336U](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
 * [MicroPythonTrill](https://github.com/Heerkog/MicroPythonTrill) - Trill touch sensor library for MicroPython.
 * [L58Touch](https://github.com/russhughes/L58Touch) - L58 Multi-Touch MicroPython Module.
+* [micropython-ft6x06](https://github.com/antirez/micropython-ft6x06) - Simple driver for FT6x06 capacitive touch sensor in pure Python.
 
 #### Touch Resistive
 
