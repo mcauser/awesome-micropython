@@ -18,6 +18,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [AI](#ai)
   * [Audio](#audio)
   * [Communications](#communications)
+  * [Databases](#databases)
   * [Display](#display)
   * [IO](#io)
   * [Mathematics](#mathematics)
@@ -425,7 +426,7 @@ Other places you can look for MicroPython Libraries:
 #### Zigbee
 
 * [ZbPy](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
-
+  
 ### Display
 
 #### E-Paper
@@ -1072,13 +1073,14 @@ Other places you can look for MicroPython Libraries:
 
 * [uPyftsConf](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
 
-#### Database
+#### Databases
 
 * [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 * [micropython-redis](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 * [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
+* [micropython-cratedb](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
