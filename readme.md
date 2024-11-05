@@ -878,6 +878,7 @@ Other places you can look for MicroPython Libraries:
 * [VL6180X](https://github.com/Ledbelly2142/VL6180X) - MicroPython driver for the VL6180X sensor on the ESP32.
 * [LidarLight_v3HP_micropython](https://github.com/Dnapert/LidarLight_v3HP_micropython) - A MicroPython library for the Garmin Lidar Lite v3HP.
 * [vl53l1x](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py) - MicroPython driver for the VL53L1X ToF sensor.
+* [vl53l0x-nb](https://github.com/antirez/vl53l0x-nb) - Fork of MicroPython driver for vl53l0x TOF sensor to add non-blocking mode.
 
 #### Distance Ultrasonic
 
