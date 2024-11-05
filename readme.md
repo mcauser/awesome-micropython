@@ -861,6 +861,7 @@ Other places you can look for MicroPython Libraries:
 * [INA219](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
 * [TI_INA226_micropython](https://github.com/elschopi/TI_INA226_micropython) - MicroPython driver for Texas Instruments INA226 power measuring IC.
 * [micropython-current-monitor](https://gitlab.com/n.rj.powers/micropython-current-monitor) - Current monitor using the INA219 and an SSD1306 OLED.
+* [INA_TI](https://github.com/octaprog7/INA_TI) - MicroPython module for controlling INA219, INA226 - A two-directional current / power monitor with the I2C interface.
 
 #### Distance IR
 
