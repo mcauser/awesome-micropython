@@ -966,6 +966,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_MMC5983](https://github.com/jposada202020/MicroPython_MMC5983) - MicroPython Library for the Memsic MMC5983 Magnetometer.
 * [MMC5603](https://github.com/octaprog7/MMC5603) - MicroPython module for MMC5603 geomagnetic sensor.
 * [HSCDTD008A](https://github.com/octaprog7/HSCDTD008A) - MicroPython module for HSCDTD008A geomagnetic sensor.
+* [RM3100](https://github.com/octaprog7/RM3100) - MicroPython module for RM3100 geomagnetic sensor.
 
 #### Motion Inertial
 
