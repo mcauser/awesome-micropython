@@ -296,6 +296,10 @@ Other places you can look for MicroPython Libraries:
 * [Micropython-ESP32-OTA](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
 * [senko](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
 
+#### Proxy
+
+* [uProxy](https://github.com/shawwwn/uProxy) - An asyncio-based, memory-efficient HTTP/HTTPS/SOCKS4/SOCKS5 forward proxy server for MicroPython, compatible with CPython.
+
 #### Radio
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
