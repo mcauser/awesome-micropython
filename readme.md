@@ -823,6 +823,7 @@ Other places you can look for MicroPython Libraries:
 * [mp-bmp3xx-full](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
 * [MicroPython_DPS310](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor.
 * [MicroPython_ICP10111](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor.
+* [bmp581](https://github.com/octaprog7/bmp581) - MicroPython module for BMP581, pressure and ambient temperature sensor from Bosch Sensortec.
 
 #### Battery
 
