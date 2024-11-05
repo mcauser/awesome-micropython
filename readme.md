@@ -757,6 +757,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-servo](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 * [MicroPython_PCA9685](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
 * [MicroPython_MOTOR](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
+* [pca9685](https://github.com/octaprog7/pca9685) - MicroPython module for managing a 16-channel SHIM controller, PCA9685
 
 #### Stepper
 
