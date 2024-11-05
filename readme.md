@@ -965,6 +965,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_BMM150](https://github.com/jposada202020/MicroPython_BMM150) - MicroPython Driver for the Bosch BMM150 Magnetometer.
 * [MicroPython_MMC5983](https://github.com/jposada202020/MicroPython_MMC5983) - MicroPython Library for the Memsic MMC5983 Magnetometer.
 * [MMC5603](https://github.com/octaprog7/MMC5603) - MicroPython module for MMC5603 geomagnetic sensor.
+* [HSCDTD008A](https://github.com/octaprog7/HSCDTD008A) - MicroPython module for HSCDTD008A geomagnetic sensor.
 
 #### Motion Inertial
 
