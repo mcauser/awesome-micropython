@@ -483,6 +483,7 @@ Other places you can look for MicroPython Libraries:
 * [microplot](https://github.com/romilly/microplot) - Simple MicroPython plotting package.
 * [micropython-microbmp](https://github.com/jacklinquan/micropython-microbmp) - A small Python module for BMP image processing.
 * [MicroPython_UPLOT](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
+* [Tempe](https://github.com/unital/tempe) - Efficient Micropython graphics library built on top of `framebuf`.
 
 #### GUI
 
