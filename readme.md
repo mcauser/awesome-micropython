@@ -813,7 +813,7 @@ Other places you can look for MicroPython Libraries:
 * [polly](https://github.com/g-sam/polly) - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.
 * [micropython-SNGCJA5](https://github.com/aleppax/micropython-SNGCJA5) - MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
 
-#### Barometer Air and Water Pressure
+#### Barometer - Air and Water Pressure
 
 * [MicroPython-BMPxxx](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 * [mp-bmp3xx-full](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
