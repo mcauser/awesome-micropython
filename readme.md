@@ -828,11 +828,11 @@ Other places you can look for MicroPython Libraries:
 * [micropython_bme280_i2c](https://github.com/triplepoint/micropython_bme280_i2c) - A MicroPython module for communicating with the Bosch BME280 temperature, humidity, and pressure sensor.
 * [MicroPython-BME280](https://github.com/neliogodoi/MicroPython-BME280) - Driver to digital sensor of Temperature, Pressure and Humidity.
 * [micropython-bmp180](https://gitlab.com/flowolf/micropython-bmp180) - A module for MicroPython which provides a class for the BMP180 pressure sensor.
+* [bmp581](https://github.com/octaprog7/bmp581) - MicroPython module for BMP581, pressure and ambient temperature sensor from Bosch Sensortec.
 * [BMP390](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
 * [BMP180](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
-* [MicroPython_DPS310](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor.
-* [MicroPython_ICP10111](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor.
-* [bmp581](https://github.com/octaprog7/bmp581) - MicroPython module for BMP581, pressure and ambient temperature sensor from Bosch Sensortec.
+* [MicroPython_DPS310](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor. (Archived)
+* [MicroPython_ICP10111](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor. (Archived)
 * [MicroPython_BMP581](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor. (Archived)
 * [MicroPython_MMR902](https://github.com/jposada202020/MicroPython_MMR902) - MicroPython Driver for the Mitsumi MMR902 Micro Pressure Sensor. (Archived)
 * [MicroPython_MPL3115A2](https://github.com/jposada202020/MicroPython_MPL3115A2) - MicroPython driver for the NXP MPL3115A2 Pressure and Temperature sensor. (Archived)
