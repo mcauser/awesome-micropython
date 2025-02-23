@@ -157,7 +157,7 @@ Other places you can look for MicroPython Libraries:
 #### ESP-NOW
 
 * [mesh-espnow-micropython](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
-* [mp_espnow_wrapper](https://github.com/cnadler86/mp_espnow_wrapper) - Send and receive data between ESPs over espnow without worries
+* [mp_espnow_wrapper](https://github.com/cnadler86/mp_espnow_wrapper) - Send and receive data between ESPs over ESP-NOW without worries.
 
 #### Ethernet
 
@@ -485,7 +485,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-microbmp](https://github.com/jacklinquan/micropython-microbmp) - A small Python module for BMP image processing.
 * [MicroPython_UPLOT](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
 * [Tempe](https://github.com/unital/tempe) - Efficient MicroPython graphics library built on top of `framebuf`.
-* [mp_jpeg](https://github.com/cnadler86/mp_jpeg) - A very fast micropython JPEG encoder and decoder for the esp32
+* [mp_jpeg](https://github.com/cnadler86/mp_jpeg) - A very fast MicroPython JPEG encoder and decoder for the ESP32.
 
 #### GUI
 
@@ -671,7 +671,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 * [esp32-microgamepad-ble](https://github.com/insighio/esp32-microgamepad-ble) - Dual analog joystick on ESP32 over BLE (Nordic UART Service - NUS) using MicroPython.
 * [micropython-joystick-2-unit](https://github.com/HowManyOliversAreThere/micropython-joystick-2-unit) - Driver for the [M5Stack Joystick 2 Unit](https://docs.m5stack.com/en/unit/Unit-JoyStick2).
-* [Micropython_Joystick](https://github.com/cnadler86/Micropython_Joystick) - A simple and fast library for joysticks over ADC
+* [Micropython_Joystick](https://github.com/cnadler86/Micropython_Joystick) - A simple and fast library for joysticks over ADC.
 
 #### Keyboard
 
