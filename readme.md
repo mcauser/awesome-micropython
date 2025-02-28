@@ -1013,7 +1013,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Radiation
 
-* [micropython-geiger](https://github.com/Josep/micropython-geiger) - Geiger counter with MicroPython card.
+* [micropython-geiger](https://github.com/Wangzhaotian725/micropython-geiger) - Geiger counter with MicroPython card.
 * [ESPGeiger](https://github.com/biemster/ESPGeiger) - MicroPython library for the ESP8266 Geiger counter.
 
 #### Soil Moisture
