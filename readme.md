@@ -18,6 +18,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [AI](#ai)
   * [Audio](#audio)
   * [Communications](#communications)
+  * [Cryptography](#cryptography)
   * [Display](#display)
   * [IO](#io)
   * [Mathematics](#mathematics)
@@ -446,6 +447,12 @@ Other places you can look for MicroPython Libraries:
 #### Zigbee
 
 * [ZbPy](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
+
+### Cryptography
+
+#### Historical
+
+* [enigmapython](https://github.com/denismaggior8/micropython-enigma-python) - A simple yet faithful library to emulate different Enigma machines models using MicroPython.
 
 ### Display
 
