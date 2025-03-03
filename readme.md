@@ -1268,6 +1268,7 @@ Other places you can look for MicroPython Libraries:
 * [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
 * [Pyboard File Manager](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.
 * [uPIDE](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
+* [pye](https://github.com/robert-hh/Micropython-Editor) - On device editor.
 
 ### Logging
 
