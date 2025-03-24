@@ -1265,6 +1265,7 @@ Other places you can look for MicroPython Libraries:
 ### Firmware
 
 * [micropython-builder](https://github.com/jonahbron/micropython-builder) - Tool for building and flashing a custom MicroPython firmware.
+* [mpflash](https://pypi.org/project/mpflash/) -⚡Your Ultimate MicroPython Flashing Companion for stm32, rp2, esp32, esp8266, samd.
 
 ### IDEs
 
