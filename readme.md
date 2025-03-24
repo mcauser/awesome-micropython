@@ -60,6 +60,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
 * [upython-chat-gpt](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 * [emlearn-micropython](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+* [mp_esp_dl_models](https://github.com/cnadler86/mp_esp_dl_models) - MicroPython binding for the ESP DL vision models like face detection.
 
 ### Audio
 
