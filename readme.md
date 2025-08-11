@@ -973,6 +973,7 @@ Other places you can look for MicroPython Libraries:
 * [veml7700](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 * [opt3001](https://github.com/octaprog7/opt3001) - MicroPython module for OPT3001, external lighting sensor from Texas Instruments.
 * [ltr390uv](https://github.com/octaprog7/ltr390uv) - MicroPython module for LTR390UV, ambient light sensor in the visible and ultraviolet ranges.
+* [bh1750.py](https://github.com/adyavanapalli/bh1750.py) - MicroPython BH1750 ambient light sensor driver.
 
 #### Load Cell
 
