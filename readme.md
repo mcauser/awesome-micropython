@@ -291,6 +291,9 @@ Other places you can look for MicroPython Libraries:
 * [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 * [micropython-ntp](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
 
+#### Object Storage
+* [uminio](https://github.com/paluigi/uminio) - MicroPython library to upload files into a MinIO object storage server.
+
 #### OneWire
 
 * [Official OneWire](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) - For devices using the OneWire bus, eg Dallas DS18x20.
