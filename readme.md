@@ -146,6 +146,7 @@ Other places you can look for MicroPython Libraries:
 * [mpy-mbedtls](https://github.com/Carglglz/mpy-mbedtls) - MicroPython bindings for some MbedTLS EC and x509 cert/csr functions.
 * [micropython-cryptocfb](https://github.com/jacklinquan/micropython-cryptocfb) - A Python module to encrypt and decrypt data with AES-128 CFB mode.
 * [tscp](https://github.com/shariltumin/tscp) - An endpoint-to-endpoint encryption based on Diffie-Hellman-Merkle with TLS1.3 styled handshake using MicroPython.
+* [usigv4](https://github.com/vhespanha/usigv4) - A minimal aws signature version 4 (SigV4) implementation for micropython/embedded use.
 
 #### DNS
 
