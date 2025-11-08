@@ -197,6 +197,7 @@ Other places you can look for MicroPython Libraries:
 #### HTTP
 
 * [mrequests](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
+* [uht](https://github.com/nmattia/uht) - Lightweight HTTP server for MicroPython (serve websites and handle requests).
 
 #### IoT
 
