@@ -596,6 +596,8 @@ Other places you can look for MicroPython Libraries:
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
 * [micropython-tm1638spi](https://gitlab.com/robhamerling/micropython-tm1638spi) - MicroPython Library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.
 * [micropython-hpdl1414](https://github.com/rdagger/micropython-hpdl1414) - MicroPython HPDL-1414 Display Driver.
+* [micropython-sevenseg](https://github.com/kritishmohapatra/micropython-sevenseg) - Lightweight MicroPython library for single-digit 7-segment displays (common anode & cathode) with ESP32, ESP8266 and RP2040 support.
+
 
 #### LEDs
 
