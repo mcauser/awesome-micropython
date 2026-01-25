@@ -1197,6 +1197,7 @@ Other places you can look for MicroPython Libraries:
 ### Utilities
 
 * [micropython-hexdump](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
+* [mp_wcwidth](https://github.com/Josverl/mp_wcwidth) - Python port of [wcwidth](https://github.com/jquast/wcwidth) to handle wide unicode characters such as "你好世界" in terminal output.
 
 ## Community
 
