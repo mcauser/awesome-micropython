@@ -441,6 +441,8 @@ Other places you can look for MicroPython Libraries:
 * [CaptiveWebServer](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
 * [micropython-urouter](https://github.com/majoson-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
 * [wlan-relays](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
+* [micropidash](https://github.com/kritishmohapatra/micropidash) - Lightweight web dashboard framework for MicroPython boards (ESP32, Pico W).
+
 
 #### WiFi
 
