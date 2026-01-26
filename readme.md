@@ -292,7 +292,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
 * [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 * [micropython-ntp](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
-* [micropython-simple-async-ntpclient](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async micropython module to recive the current time from an ntp server.
+* [micropython-simple-async-ntpclient](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async micropython module to receive the current time from an ntp server.
 
 #### Object Storage
 * [uminio](https://github.com/paluigi/uminio) - MicroPython library to upload files into a MinIO object storage server.
