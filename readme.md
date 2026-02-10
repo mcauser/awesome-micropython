@@ -658,6 +658,7 @@ Other places you can look for MicroPython Libraries:
 * [ads1115](https://github.com/octaprog7/ads1115) - MicroPython module for managing ADS1115, multichannel, differential I2C ADC from TI.
 * [mcp3421](https://github.com/octaprog7/mcp3421) - MicroPython module for controlling MCP342X, 18-bit analog-to-digital converter with I2C interface.
 * [micropython-MCP3001](https://github.com/scruss/micropython-MCP3001) - MicroPython driver for the MCP3001 1-channel 10-bit ADC with SPI interface.
+* [ADS1256](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
 
 #### DAC
 
