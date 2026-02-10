@@ -1157,6 +1157,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
 * [micropython-firebase-firestore](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
 * [uSQLite](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+* [simple-db](https://github.com/ctimmer/simple-db) - MicroPython relational database using B-tree.
 
 #### EEPROM
 
