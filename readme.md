@@ -390,6 +390,7 @@ Other places you can look for MicroPython Libraries:
 * [minipb](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 * [ucbor](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
 * [upy-msgpack](https://github.com/SpotlightKid/upy-msgpack) - A lightweight MessagePack (de)serialization library (not only) for MicroPython.
+* [micropython-msgpack](https://github.com/gitcnd/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
 
 #### SMTP
 
