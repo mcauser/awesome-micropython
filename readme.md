@@ -1336,6 +1336,7 @@ Other places you can look for MicroPython Libraries:
 ### Tools
 
 * [belay](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
+* [ESP-File_manager](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
 
 ## Miscellaneous
 
