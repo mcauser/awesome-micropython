@@ -41,6 +41,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [IDEs](#ides)
   * [Logging](#logging)
   * [Shells](#shells)
+  * [Tools](#tools)
 * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
 
@@ -1328,6 +1329,10 @@ Other places you can look for MicroPython Libraries:
 * [MPRemoteEditor](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 * [uPyExplorer](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
 * [mpr](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
+
+### Tools
+
+* [belay](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
 
 ## Miscellaneous
 
