@@ -1320,6 +1320,7 @@ Other places you can look for MicroPython Libraries:
 
 * [upy-shell](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
 * [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+* [mpy_shell](https://github.com/gitcnd/mpy_shell) - Linux-like shell for MicroPython. Full featured, very lightweight.
 
 #### On Host
 
