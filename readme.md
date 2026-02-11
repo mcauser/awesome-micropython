@@ -626,6 +626,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
 * [micropython-dotstar](https://github.com/mattytrentini/micropython-dotstar) - A MicroPython port of the Adafruit CircuitPython APA102/DotStar library.
 * [micropython-aw210xx](https://github.com/eosti/micropython-aw210xx) - Driver for Awinic's AW210xx line of 8-bit LED drivers.
+* [IS31FL3197](https://github.com/omeErik/IS31FL3197) - I2C driver for the IS31FL3197 chip, found on the Arduino GIGA Display Shield.
 
 #### OLED
 
