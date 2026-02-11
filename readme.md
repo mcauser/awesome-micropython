@@ -377,6 +377,7 @@ Other places you can look for MicroPython Libraries:
 * [DS1307](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
 * [micropython-DS3231-AT24C32](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
 * [micropython_rx-8035](https://github.com/ekspla/micropython_rx-8035) - A MicroPython Driver for Seiko Epson's RTC, RX-8035SA/LC.
+* [micropython-ds1302-rtc](https://github.com/PaszaVonPomiot/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 
 #### Serial
 
