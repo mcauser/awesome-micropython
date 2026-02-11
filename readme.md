@@ -410,6 +410,7 @@ Other places you can look for MicroPython Libraries:
 #### Telnet
 
 * [MicroTelnetServer](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
+* [telnetd](https://github.com/gitcnd/telnetd) - Powerful telnetd server to access MicroPython REPL (with strong password support, and unlimited connections).
 
 #### Text-to-Speech
 
