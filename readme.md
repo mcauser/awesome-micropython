@@ -1150,6 +1150,7 @@ Other places you can look for MicroPython Libraries:
 #### Configuration file
 
 * [uPyftsConf](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+* [toml](https://github.com/gitcnd/toml) - Read and write .toml files. Works in MicroPython and CircuitPython.
 
 #### Database
 
