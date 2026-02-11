@@ -941,6 +941,7 @@ Other places you can look for MicroPython Libraries:
 * [vl53l0x-nb](https://github.com/antirez/vl53l0x-nb) - Fork of MicroPython driver for vl53l0x TOF sensor to add non-blocking mode.
 * [IoTy lds02rr](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
 * [IoTy coind4](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
+* [IoTy delta2d](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
 
 #### Distance Ultrasonic
 
