@@ -120,6 +120,7 @@ Other places you can look for MicroPython Libraries:
 * [mijia-temphum-upy](https://codeberg.org/scy/mijia-temphum-upy) - MicroPython library to read certain Xiaomi Mijia BLE temperature & humidity sensors.
 * [micropython-aioble-itag](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
 * [micropython_aioble_examples](https://github.com/ekspla/micropython_aioble_examples) - A few aioble (asyncio BLE) examples of MicroPython using ESP32.
+* [BTHome-MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) - MicroPython module to format sensor readings for BTHome BLE advertising payloads.
 
 #### CAN
 
