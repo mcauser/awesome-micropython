@@ -1027,6 +1027,7 @@ Other places you can look for MicroPython Libraries:
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [upy-motion](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
+* [MPU6050-ESP32-MicroPython](https://github.com/gitcnd/MPU6050-ESP32-MicroPython) - MPU6050 (Accelerometer/Gyroscope) driver which works on ESP32.
 * [MicroPython_BMI160](https://github.com/jposada202020/MicroPython_BMI160) - ARCHIVED. MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 * [MicroPython_BMI270](https://github.com/jposada202020/MicroPython_BMI270) - ARCHIVED. MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor.
 * [MicroPython_ICG20660](https://github.com/jposada202020/MicroPython_ICG20660) - ARCHIVED. MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
