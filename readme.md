@@ -418,6 +418,7 @@ Other places you can look for MicroPython Libraries:
 #### Text-to-Speech
 
 * [micropython-SYN6988](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
+* [micropython-samtts](https://github.com/jacklinquan/micropython-samtts) - A MicroPython port of Software Automatic Mouth Text-To-Speech program.
 
 #### Time
 
