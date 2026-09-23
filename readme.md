@@ -1356,6 +1356,7 @@ Other places you can look for MicroPython Libraries:
 * [belay](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
 * [ESP-File_manager](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
 * [mcu_serial](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
+* [thonny-ai](https://github.com/AstroQuestStudio/thonny-ai) - Thonny plugin and MCP server that lets AI assistants run code, monitor long-running programs and sync projects on MicroPython boards, visibly and with optional approval.
 
 ## Miscellaneous
 
