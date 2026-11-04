@@ -477,6 +477,10 @@ Other places you can look for MicroPython Libraries:
 
 ### Display
 
+#### HDMI
+
+* [anx7625](https://github.com/dmazzella/anx7625) - Micropython porting of video primitives for Portenta H7 via USBC (to HDMI adapter) 
+
 #### E-Paper
 
 * [micropython-ili9341](https://github.com/mcauser/deshipu-micropython-ili9341) - SSD1606 active matrix ePaper display 128x180.
