@@ -195,7 +195,6 @@ Other places you can look for MicroPython Libraries:
 * [micropython-sim800](https://github.com/olablt/micropython-sim800) - MicroPython driver for SIM800.
 * [sim800](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
 * [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.
-* [SIM800L-micropython](https://github.com/aleppax/SIM800L-micropython) - MicroPython wrapper for common SIM800L AT commands.
 * [sim7600](https://github.com/basanovase/sim7600) - MicroPython library for SIM7600 module.
 * [sim900](https://github.com/basanovase/sim900) - MicroPython library for SIM900 GSM/GPRS module.
 
@@ -855,7 +854,6 @@ Other places you can look for MicroPython Libraries:
 * [pms5003_micropython](https://github.com/kevinkk525/pms5003_micropython) - Driver for PMS5003 air quality sensor for MicroPython.
 * [micropython-pms5003-minimal](https://github.com/miketeachman/micropython-pms5003-minimal) - Driver for P air quality sensor for MicroPython.
 * [polly](https://github.com/g-sam/polly) - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.
-* [micropython-SNGCJA5](https://github.com/aleppax/micropython-SNGCJA5) - MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
 
 #### Barometer - Air and Water Pressure
 
