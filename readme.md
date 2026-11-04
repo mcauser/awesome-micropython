@@ -1173,6 +1173,7 @@ Other places you can look for MicroPython Libraries:
 #### Database
 
 * [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
+* [ownSQL](https://github.com/TimonW-Dev/ownSQL) - A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x.
 * [micropython-redis](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
