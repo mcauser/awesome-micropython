@@ -357,6 +357,7 @@ Other places you can look for MicroPython Libraries:
 #### RFID
 
 * [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+* [micropython-uhf-module](https://github.com/HowManyOliversAreThere/micropython-uhf-module) - A MicroPython driver for the Tenhanyun TY928 UHF RFID embedded module.
 * [micropython-wiegand](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 * [urdm6300](https://github.com/membermatters/urdm6300) - A MicroPython driver for the popular RDM6300 RFID card reader.
 
@@ -390,6 +391,7 @@ Other places you can look for MicroPython Libraries:
 #### Serialization
 
 * [micropython-msgpack](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+* [micropython-msgpackc](https://github.com/Tangerino/micropython-msgpackc) - Fast MessagePack in C, a drop-in replacement for umsgpack.
 * [micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
 * [minipb](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 * [ucbor](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
@@ -477,6 +479,10 @@ Other places you can look for MicroPython Libraries:
 
 ### Display
 
+#### HDMI
+
+* [anx7625](https://github.com/dmazzella/anx7625) - Micropython porting of video primitives for Portenta H7 via USBC (to HDMI adapter) 
+
 #### E-Paper
 
 * [micropython-ili9341](https://github.com/mcauser/deshipu-micropython-ili9341) - SSD1606 active matrix ePaper display 128x180.
@@ -552,6 +558,7 @@ Other places you can look for MicroPython Libraries:
 * [Official LCD160CR](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/lcd160cr) - Driver for official MicroPython LCD160CR display with resistive touch sensor.
 * [micropython-hx1230](https://github.com/mcauser/micropython-hx1230) - MicroPython library for HX1230 96x68 LCD modules.
 * [micropython-SHARP_Memory_Display](https://github.com/pramasoul/micropython-SHARP_Memory_Display) - MicroPython driver for SHARP memory display.
+* [MicroPython-Sharp-Memory-Display](https://github.com/peter-l5/MicroPython-Sharp-Memory-Display) - MicroPython driver for SHARP memory LCD displays.
 
 #### LCD TFT
 
@@ -650,6 +657,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Printer
 
+* [coffee-edition-kit](https://github.com/ierolsen/coffee-edition-kit) - Pico W firmware that pulls print jobs from GitHub over HTTPS and streams them to a network printer over IPP, for a nightly newspaper.
 * [micropython-thermal-printer](https://github.com/ayoy/micropython-thermal-printer) - The MicroPython port of Python Thermal Printer by Adafruit.
 
 ### IO
@@ -1167,6 +1175,7 @@ Other places you can look for MicroPython Libraries:
 #### Database
 
 * [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
+* [ownSQL](https://github.com/TimonW-Dev/ownSQL) - A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x.
 * [micropython-redis](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
@@ -1267,6 +1276,7 @@ Other places you can look for MicroPython Libraries:
 * [meerkat](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 * [public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
 * [OreoOS](https://github.com/elixpo/oreo) - Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.
+* [openbricks](https://github.com/1e0ng/openbricks) - Pybricks-style robotics firmware for ESP32: 1 kHz native drivebase control, serial bus servos, IMU gyro heading, line sensors, plus a MuJoCo simulator.
 
 ## Resources
 
@@ -1357,6 +1367,7 @@ Other places you can look for MicroPython Libraries:
 * [belay](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
 * [ESP-File_manager](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
 * [mcu_serial](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
+* [thonny-ai](https://github.com/AstroQuestStudio/thonny-ai) - Thonny plugin and MCP server that lets AI assistants run code, monitor long-running programs and sync projects on MicroPython boards, visibly and with optional approval.
 
 ## Miscellaneous
 
