@@ -357,6 +357,7 @@ Other places you can look for MicroPython Libraries:
 #### RFID
 
 * [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+* [micropython-uhf-module](https://github.com/HowManyOliversAreThere/micropython-uhf-module) - A MicroPython driver for the Tenhanyun TY928 UHF RFID embedded module.
 * [micropython-wiegand](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 * [urdm6300](https://github.com/membermatters/urdm6300) - A MicroPython driver for the popular RDM6300 RFID card reader.
 
