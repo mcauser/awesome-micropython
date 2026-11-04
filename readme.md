@@ -391,6 +391,7 @@ Other places you can look for MicroPython Libraries:
 #### Serialization
 
 * [micropython-msgpack](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+* [micropython-msgpackc](https://github.com/Tangerino/micropython-msgpackc) - Fast MessagePack in C, a drop-in replacement for umsgpack.
 * [micropython-uprotobuf](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
 * [minipb](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 * [ucbor](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
