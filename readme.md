@@ -950,6 +950,7 @@ Other places you can look for MicroPython Libraries:
 * [IoTy lds02rr](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
 * [IoTy coind4](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
 * [IoTy delta2d](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
+* [erdi-lrf-esp32-micropython](https://github.com/Tommyapi/erdi-lrf-esp32-micropython) - UART driver for ERDI 905 nm / 1535 nm laser rangefinder modules on ESP32, with distance readout and Wi-Fi publish examples.
 
 #### Distance Ultrasonic
 
