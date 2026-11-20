@@ -1321,6 +1321,7 @@ Other places you can look for MicroPython Libraries:
 * [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 * [MicroPython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for Visual Studio Code.
 * [MicroPython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
+* [Micro REPL](https://github.com/Ma7moud3ly/micro-repl) - MicroPython IDE for Android, desktop and web, with a terminal, a code editor and a visual files explorer.
 * [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 * [Mu Editor](https://codewith.mu/) - Code with Mu: a simple Python/MicroPython/CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
