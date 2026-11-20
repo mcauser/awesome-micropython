@@ -515,6 +515,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_UPLOT](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
 * [Tempe](https://github.com/unital/tempe) - Efficient MicroPython graphics library built on top of `framebuf`.
 * [mp_jpeg](https://github.com/cnadler86/mp_jpeg) - A very fast MicroPython JPEG encoder and decoder for the ESP32.
+* [RV565](https://github.com/elixpo/rv565) - Native module and C library for playing frame-independent RGB565 video on SPI displays such as the ST7789.
 
 #### GUI
 
