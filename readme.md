@@ -64,6 +64,8 @@ Other places you can look for MicroPython Libraries:
 * [emlearn-micropython](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 * [mp_esp_dl_models](https://github.com/cnadler86/mp_esp_dl_models) - MicroPython binding for the ESP DL vision models like face detection.
 
+* [esp32-deepseek-client](https://github.com/bshx2024/esp32-deepseek-client) - SRAM-safe MicroPython and C++ client for connecting ESP32 to DeepSeek and OpenAI-compatible LLM APIs.
+
 ### Audio
 
 * [micropython-jq6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
